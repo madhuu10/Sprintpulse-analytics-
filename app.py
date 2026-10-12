@@ -176,9 +176,9 @@ def sprint_tier(rate):
 st.markdown(
     f"""
     <style>
-    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap');
 
-    html, body, [class*="css"] {{ font-family: 'Inter', -apple-system, 'Segoe UI', sans-serif; }}
+    html, body, [class*="css"] {{ font-family: 'Manrope', -apple-system, 'Segoe UI', sans-serif; }}
     .block-container {{padding-top: 1.6rem; padding-bottom: 3rem; max-width: 1180px;}}
 
     .app-header {{
@@ -188,13 +188,6 @@ st.markdown(
         box-shadow: 0 8px 28px rgba(49,46,129,.28);
     }}
     .app-header-left {{display: flex; align-items: center; gap: 1rem;}}
-    .logo-mark {{
-        width: 46px; height: 46px; border-radius: 12px;
-        background: linear-gradient(135deg, {VIOLET_LIGHT}, {VIOLET});
-        color: #fff; display: flex; align-items: center; justify-content: center;
-        font-weight: 800; font-size: 1.2rem; flex-shrink: 0;
-        box-shadow: 0 2px 10px rgba(0,0,0,.25), inset 0 1px 0 rgba(255,255,255,.2);
-    }}
     .app-title {{color: #fff; font-size: 1.3rem; font-weight: 800; line-height: 1.2; letter-spacing: -.01em;}}
     .app-subtitle {{color: #c7c2f0; font-size: .82rem; margin-top: .15rem; font-weight: 500;}}
 
@@ -230,7 +223,6 @@ st.markdown(
         background: #fafafc; border: 1.5px dashed #dcdce6; border-radius: 14px;
         padding: 2.4rem 1.6rem; text-align: center;
     }}
-    .empty-state .icon {{font-size: 2rem; margin-bottom: .6rem;}}
     .empty-state .title {{font-weight: 700; color: {INK}; margin-bottom: .3rem; font-size: .95rem;}}
     .empty-state .desc {{color: {INK_SECONDARY}; font-size: .83rem; line-height: 1.5;}}
 
@@ -252,7 +244,6 @@ st.markdown(
     f"""
     <div class="app-header">
         <div class="app-header-left">
-            <div class="logo-mark">SP</div>
             <div>
                 <div class="app-title">SprintPulse</div>
                 <div class="app-subtitle">Team Performance &amp; Attendance Analytics</div>
@@ -264,8 +255,8 @@ st.markdown(
 )
 
 tab_attend, tab_sprint, tab_dash, tab_ask, tab_perf, tab_about = st.tabs(
-    ["📅 Attendance Risk", "🚀 Sprint Performance", "📊 Team Dashboard",
-     "💬 Ask SprintPulse", "🧪 Model Performance", "ℹ️ About"]
+    ["Attendance Risk", "Sprint Performance", "Team Dashboard",
+     "Ask SprintPulse", "Model Performance", "About"]
 )
 
 # =======================================================================
@@ -337,7 +328,7 @@ with tab_attend:
     else:
         with right:
             st.markdown(
-                """<div class="empty-state"><div class="icon">📋</div>
+                """<div class="empty-state">
                     <div class="title">No prediction yet</div>
                     <div class="desc">Fill in the employee's attendance details on the left and click
                     <b>Score employee</b> to see the risk tier and a SHAP breakdown of what drove it.</div>
@@ -416,7 +407,7 @@ with tab_sprint:
     else:
         with right:
             st.markdown(
-                """<div class="empty-state"><div class="icon">🚀</div>
+                """<div class="empty-state">
                     <div class="title">No prediction yet</div>
                     <div class="desc">Fill in the sprint's metrics on the left and click
                     <b>Score sprint</b> to see the predicted completion rate and what drove it.</div>
