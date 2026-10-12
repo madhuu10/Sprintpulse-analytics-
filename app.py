@@ -61,6 +61,9 @@ GOOD, WARNING, CRITICAL = "#0ca30c", "#fab219", "#d03b3b"
 INK, INK_SECONDARY, MUTED = "#0b0b0b", "#52514e", "#898781"
 CAT8 = ["#2a78d6", "#eb6834", "#1baf7a", "#eda100", "#e87ba4", "#008300", "#4a3aa7", "#e34948"]
 SEQ_BLUE = ["#cde2fb", "#9ec5f4", "#6da7ec", "#3987e5", "#256abf", "#184f95", "#0d366b"]
+# Brand chrome only (header, buttons, section rules) — never used for data encoding,
+# so it doesn't collide with the diverging blue/red or status colors used in charts.
+VIOLET, VIOLET_LIGHT = "#4a3aa7", "#7c6ce0"
 
 ATTEND_NUMERIC = ["attendance_rate", "unplanned_absences", "sick_days", "approved_leave_days",
                    "wfh_days", "late_arrivals", "overtime_hours", "avg_checkin_delay_min", "tenure_months"]
@@ -173,39 +176,77 @@ def sprint_tier(rate):
 st.markdown(
     f"""
     <style>
-    .block-container {{padding-top: 1.4rem; padding-bottom: 3rem; max-width: 1200px;}}
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+
+    html, body, [class*="css"] {{ font-family: 'Inter', -apple-system, 'Segoe UI', sans-serif; }}
+    .block-container {{padding-top: 1.6rem; padding-bottom: 3rem; max-width: 1180px;}}
+
     .app-header {{
-        background: #0f172a; border-bottom: 3px solid {BLUE}; padding: 1.05rem 1.6rem;
-        border-radius: 10px; display: flex; align-items: center; justify-content: space-between;
-        margin-bottom: 1.4rem;
+        background: linear-gradient(120deg, #1e1b4b 0%, #312e81 55%, {VIOLET} 100%);
+        padding: 1.5rem 2rem; border-radius: 16px; display: flex; align-items: center;
+        justify-content: space-between; margin-bottom: 1.8rem;
+        box-shadow: 0 8px 28px rgba(49,46,129,.28);
     }}
-    .app-header-left {{display: flex; align-items: center; gap: .85rem;}}
+    .app-header-left {{display: flex; align-items: center; gap: 1rem;}}
     .logo-mark {{
-        width: 40px; height: 40px; border-radius: 9px; background: {BLUE}; color: #fff;
-        display: flex; align-items: center; justify-content: center; font-weight: 800;
-        font-size: 1.1rem; flex-shrink: 0;
+        width: 46px; height: 46px; border-radius: 12px;
+        background: linear-gradient(135deg, {VIOLET_LIGHT}, {VIOLET});
+        color: #fff; display: flex; align-items: center; justify-content: center;
+        font-weight: 800; font-size: 1.2rem; flex-shrink: 0;
+        box-shadow: 0 2px 10px rgba(0,0,0,.25), inset 0 1px 0 rgba(255,255,255,.2);
     }}
-    .app-title {{color: #fff; font-size: 1.12rem; font-weight: 700; line-height: 1.25;}}
-    .app-subtitle {{color: #94a3b8; font-size: .8rem; margin-top: .1rem;}}
+    .app-title {{color: #fff; font-size: 1.3rem; font-weight: 800; line-height: 1.2; letter-spacing: -.01em;}}
+    .app-subtitle {{color: #c7c2f0; font-size: .82rem; margin-top: .15rem; font-weight: 500;}}
     .env-badge {{
-        background: rgba(255,255,255,.08); color: #cbd5e1; font-size: .66rem; font-weight: 700;
-        letter-spacing: .07em; padding: .32rem .65rem; border-radius: 20px;
-        border: 1px solid rgba(255,255,255,.15); white-space: nowrap;
+        background: rgba(255,255,255,.1); color: #e8e6fb; font-size: .66rem; font-weight: 700;
+        letter-spacing: .07em; padding: .4rem .8rem; border-radius: 20px;
+        border: 1px solid rgba(255,255,255,.22); white-space: nowrap; backdrop-filter: blur(4px);
     }}
+
+    /* Section labels — every "##### Heading" in the app renders as h5 */
+    h5 {{
+        font-size: .76rem !important; text-transform: uppercase; letter-spacing: .07em;
+        color: {INK_SECONDARY} !important; font-weight: 700 !important;
+        border-left: 3px solid {VIOLET}; padding-left: .6rem;
+        margin: 1.4rem 0 .9rem 0 !important;
+    }}
+    h6 {{ color: {INK_SECONDARY} !important; font-weight: 600 !important; }}
+
     .tier-badge {{
-        display: inline-flex; align-items: center; gap: .5rem; padding: .55rem 1.1rem;
+        display: inline-flex; align-items: center; gap: .5rem; padding: .6rem 1.2rem;
         border-radius: 10px; font-weight: 800; font-size: 1.3rem; color: #fff;
+        box-shadow: 0 3px 12px rgba(0,0,0,.14);
     }}
     .metric-card {{
-        border-radius: 10px; padding: .9rem 1.05rem; background: #f8fafc;
-        border: 1px solid #e2e8f0; height: 100%;
+        border-radius: 12px; padding: 1rem 1.15rem; background: #ffffff;
+        border: 1px solid #ebebf0; height: 100%;
+        box-shadow: 0 1px 2px rgba(15,23,42,.04), 0 2px 8px rgba(15,23,42,.04);
     }}
-    .metric-card .label {{font-size: .74rem; color: {INK_SECONDARY}; text-transform: uppercase;
-        letter-spacing: .04em; font-weight: 700;}}
-    .metric-card .value {{font-size: 1.55rem; font-weight: 800; color: {INK}; margin-top: .2rem;}}
+    .metric-card .label {{font-size: .72rem; color: {INK_SECONDARY}; text-transform: uppercase;
+        letter-spacing: .05em; font-weight: 700;}}
+    .metric-card .value {{font-size: 1.6rem; font-weight: 800; color: {INK}; margin-top: .25rem;}}
+
     .source-chip {{
-        display: inline-block; background: #eef2f7; color: {INK_SECONDARY}; font-size: .72rem;
-        padding: .15rem .55rem; border-radius: 12px; margin: .15rem .25rem .15rem 0;
+        display: inline-block; background: #f1effc; color: {VIOLET}; font-size: .72rem;
+        font-weight: 600; padding: .2rem .65rem; border-radius: 12px;
+        margin: .2rem .3rem .2rem 0; border: 1px solid #e2defa;
+    }}
+    .empty-state {{
+        background: #fafafc; border: 1.5px dashed #dcdce6; border-radius: 14px;
+        padding: 2.4rem 1.6rem; text-align: center;
+    }}
+    .empty-state .icon {{font-size: 2rem; margin-bottom: .6rem;}}
+    .empty-state .title {{font-weight: 700; color: {INK}; margin-bottom: .3rem; font-size: .95rem;}}
+    .empty-state .desc {{color: {INK_SECONDARY}; font-size: .83rem; line-height: 1.5;}}
+
+    section[data-testid="stForm"] {{
+        border: 1px solid #ebebf0; border-radius: 14px; padding: 1.3rem 1.4rem;
+        background: #fff; box-shadow: 0 1px 3px rgba(15,23,42,.03);
+    }}
+    .stTabs [data-baseweb="tab"] {{font-weight: 600; font-size: .92rem;}}
+    .stButton button[kind="primary"] {{
+        background: linear-gradient(120deg, {VIOLET}, {VIOLET_LIGHT}); border: none;
+        box-shadow: 0 2px 8px rgba(74,58,167,.3);
     }}
     </style>
     """,
@@ -229,7 +270,8 @@ st.markdown(
 )
 
 tab_attend, tab_sprint, tab_dash, tab_ask, tab_perf, tab_about = st.tabs(
-    ["Attendance Risk", "Sprint Performance", "Team Dashboard", "Ask SprintPulse", "Model Performance", "About"]
+    ["📅 Attendance Risk", "🚀 Sprint Performance", "📊 Team Dashboard",
+     "💬 Ask SprintPulse", "🧪 Model Performance", "ℹ️ About"]
 )
 
 # =======================================================================
@@ -300,7 +342,14 @@ with tab_attend:
             st.caption("This is a proactive-support signal per the attendance policy, not a disciplinary flag.")
     else:
         with right:
-            st.info("Fill in the employee's attendance details and click **Score employee**.")
+            st.markdown(
+                """<div class="empty-state"><div class="icon">📋</div>
+                    <div class="title">No prediction yet</div>
+                    <div class="desc">Fill in the employee's attendance details on the left and click
+                    <b>Score employee</b> to see the risk tier and a SHAP breakdown of what drove it.</div>
+                </div>""",
+                unsafe_allow_html=True,
+            )
 
 # =======================================================================
 # TAB 2 — Sprint performance scoring
@@ -372,7 +421,14 @@ with tab_sprint:
             st.altair_chart(chart, width="stretch")
     else:
         with right:
-            st.info("Fill in the sprint's metrics and click **Score sprint**.")
+            st.markdown(
+                """<div class="empty-state"><div class="icon">🚀</div>
+                    <div class="title">No prediction yet</div>
+                    <div class="desc">Fill in the sprint's metrics on the left and click
+                    <b>Score sprint</b> to see the predicted completion rate and what drove it.</div>
+                </div>""",
+                unsafe_allow_html=True,
+            )
 
 # =======================================================================
 # TAB 3 — Team dashboard
@@ -450,6 +506,18 @@ with tab_ask:
         if "chat_history" not in st.session_state:
             st.session_state.chat_history = []
 
+        if not st.session_state.chat_history:
+            st.markdown("###### Try asking")
+            suggestions = ["Why did Team Phoenix underperform?", "What's our Definition of Done?",
+                           "Which teams have the best attendance?"]
+            cols = st.columns(len(suggestions))
+            suggestion_clicked = None
+            for col, q in zip(cols, suggestions):
+                if col.button(q, width="stretch", key=f"suggest_{q}"):
+                    suggestion_clicked = q
+        else:
+            suggestion_clicked = None
+
         for msg in st.session_state.chat_history:
             with st.chat_message(msg["role"]):
                 st.markdown(msg["content"])
@@ -457,7 +525,7 @@ with tab_ask:
                     st.markdown(" ".join(f'<span class="source-chip">{s}</span>' for s in msg["sources"]),
                                 unsafe_allow_html=True)
 
-        query = st.chat_input("Ask a question about attendance, sprints, or policy...")
+        query = st.chat_input("Ask a question about attendance, sprints, or policy...") or suggestion_clicked
         if query:
             st.session_state.chat_history.append({"role": "user", "content": query})
             with st.chat_message("user"):
