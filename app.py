@@ -197,11 +197,6 @@ st.markdown(
     }}
     .app-title {{color: #fff; font-size: 1.3rem; font-weight: 800; line-height: 1.2; letter-spacing: -.01em;}}
     .app-subtitle {{color: #c7c2f0; font-size: .82rem; margin-top: .15rem; font-weight: 500;}}
-    .env-badge {{
-        background: rgba(255,255,255,.1); color: #e8e6fb; font-size: .66rem; font-weight: 700;
-        letter-spacing: .07em; padding: .4rem .8rem; border-radius: 20px;
-        border: 1px solid rgba(255,255,255,.22); white-space: nowrap; backdrop-filter: blur(4px);
-    }}
 
     /* Section labels — every "##### Heading" in the app renders as h5 */
     h5 {{
@@ -263,7 +258,6 @@ st.markdown(
                 <div class="app-subtitle">Team Performance &amp; Attendance Analytics</div>
             </div>
         </div>
-        <div class="env-badge">SYNTHETIC DATA · TENSORFLOW + RAG</div>
     </div>
     """,
     unsafe_allow_html=True,
