@@ -1,0 +1,129 @@
+employee_id,name,team,department,role,seniority,tenure_months
+1,Ethan Kowalski,Phoenix,Platform,DevOps,Mid,32
+2,Zara Larsen,Phoenix,Platform,DevOps,Senior,79
+3,Nina Rossi,Phoenix,Platform,QA,Mid,31
+4,Diego Dubois,Phoenix,Platform,DevOps,Junior,20
+5,Omar Novak,Phoenix,Platform,Engineer,Senior,101
+6,Sana Patel,Phoenix,Platform,Engineer,Junior,18
+7,Zara Tanaka,Falcon,Product,Designer,Mid,21
+8,Liam Tanaka,Falcon,Product,Product Manager,Mid,19
+9,Ravi Haddad,Falcon,Product,Engineer,Senior,111
+10,Leo Dubois,Falcon,Product,Product Manager,Junior,4
+11,Noah Patel,Falcon,Product,Engineer,Mid,39
+12,Finn Costa,Falcon,Product,QA,Mid,15
+13,Nina Mueller,Falcon,Product,DevOps,Junior,14
+14,Ravi Patel,Orion,Growth,QA,Junior,19
+15,Kenji Varga,Orion,Growth,Engineer,Senior,91
+16,Wei Dubois,Orion,Growth,QA,Junior,3
+17,Noah Silva,Orion,Growth,Engineer,Junior,4
+18,Nadia Silva,Orion,Growth,Designer,Mid,29
+19,Sofia Dubois,Orion,Growth,Engineer,Junior,21
+20,Erik Dubois,Orion,Growth,Engineer,Junior,2
+21,Aarav Santos,Orion,Growth,Designer,Mid,38
+22,Diego Kowalski,Nimbus,Data,Engineer,Mid,18
+23,Elena Kim,Nimbus,Data,QA,Junior,5
+24,Nina Tanaka,Nimbus,Data,QA,Junior,3
+25,Leo Kowalski,Nimbus,Data,Engineer,Junior,4
+26,Finn Novak,Nimbus,Data,Engineer,Mid,33
+27,Nina Silva,Nimbus,Data,DevOps,Junior,13
+28,Hana Kim,Nimbus,Data,Engineer,Junior,20
+29,Lucas Haddad,Nimbus,Data,Engineer,Mid,46
+30,Elena Varga,Nimbus,Data,Product Manager,Junior,22
+31,Erik Mueller,Vertex,Infra,DevOps,Senior,60
+32,Nina Okafor,Vertex,Infra,Designer,Junior,13
+33,Leo Tanaka,Vertex,Infra,Product Manager,Senior,111
+34,Liam Silva,Vertex,Infra,DevOps,Mid,29
+35,Fatima Okafor,Vertex,Infra,Engineer,Junior,7
+36,Priya Fischer,Vertex,Infra,DevOps,Mid,53
+37,Priya Rossi,Vertex,Infra,Engineer,Mid,32
+38,Amara Santos,Vertex,Infra,Engineer,Mid,17
+39,Mei Nguyen,Vertex,Infra,Engineer,Senior,96
+40,Elena Larsen,Vertex,Infra,DevOps,Senior,117
+41,Aarav Nguyen,Atlas,Platform,Engineer,Junior,23
+42,Noah Costa,Atlas,Platform,DevOps,Junior,15
+43,Lucas Kim,Atlas,Platform,Product Manager,Senior,89
+44,Sana Haddad,Atlas,Platform,DevOps,Senior,55
+45,Grace Nguyen,Atlas,Platform,DevOps,Mid,31
+46,Theo Dubois,Atlas,Platform,Product Manager,Mid,37
+47,Ingrid Okafor,Atlas,Platform,Engineer,Junior,21
+48,Noah Mueller,Atlas,Platform,Engineer,Junior,19
+49,Maya Varga,Atlas,Platform,QA,Junior,13
+50,Elena Dubois,Comet,Product,DevOps,Mid,30
+51,Ethan Rossi,Comet,Product,QA,Junior,21
+52,Grace Ibrahim,Comet,Product,Product Manager,Mid,14
+53,Jonas Varga,Comet,Product,DevOps,Junior,3
+54,Lucas Dubois,Comet,Product,QA,Senior,84
+55,Lucas Silva,Comet,Product,QA,Mid,58
+56,Diego Rossi,Lumen,Growth,Engineer,Junior,7
+57,Grace Rossi,Lumen,Growth,DevOps,Mid,27
+58,Nina Larsen,Lumen,Growth,Product Manager,Senior,76
+59,Amara Kowalski,Lumen,Growth,Designer,Mid,50
+60,Nadia Haddad,Lumen,Growth,Engineer,Junior,7
+61,Nadia Fischer,Lumen,Growth,Product Manager,Mid,16
+62,Erik Choi,Lumen,Growth,Engineer,Mid,33
+63,Zara Costa,Zephyr,Data,QA,Junior,14
+64,Sana Larsen,Zephyr,Data,QA,Mid,37
+65,Wei Kowalski,Zephyr,Data,Designer,Senior,46
+66,Tariq Dubois,Zephyr,Data,Product Manager,Mid,49
+67,Elena Okafor,Zephyr,Data,Engineer,Junior,21
+68,Grace Okafor,Zephyr,Data,DevOps,Senior,97
+69,Hana Fischer,Zephyr,Data,Designer,Senior,76
+70,Jonas Nguyen,Zephyr,Data,QA,Senior,58
+71,Wei Varga,Zephyr,Data,Engineer,Mid,38
+72,Sana Santos,Halcyon,Infra,Engineer,Mid,12
+73,Ravi Shah,Halcyon,Infra,DevOps,Senior,93
+74,Tariq Ibrahim,Halcyon,Infra,Engineer,Mid,18
+75,Lucas Shah,Halcyon,Infra,Designer,Junior,11
+76,Mei Haddad,Halcyon,Infra,Product Manager,Junior,21
+77,Maya Fischer,Halcyon,Infra,Product Manager,Junior,7
+78,Zara Nguyen,Halcyon,Infra,QA,Mid,51
+79,Sana Kowalski,Halcyon,Infra,Engineer,Mid,42
+80,Liam Haddad,Halcyon,Infra,Engineer,Mid,37
+81,Priya Santos,Halcyon,Infra,DevOps,Senior,70
+82,Hana Patel,Aurora,Platform,DevOps,Mid,49
+83,Sofia Haddad,Aurora,Platform,DevOps,Junior,4
+84,Kenji Nguyen,Aurora,Platform,Engineer,Junior,11
+85,Kenji Haddad,Aurora,Platform,Engineer,Junior,3
+86,Ingrid Choi,Aurora,Platform,Engineer,Mid,22
+87,Omar Costa,Aurora,Platform,Designer,Mid,19
+88,Omar Larsen,Griffin,Product,Engineer,Mid,41
+89,Amara Costa,Griffin,Product,DevOps,Mid,29
+90,Sofia Tanaka,Griffin,Product,Product Manager,Mid,47
+91,Liam Varga,Griffin,Product,Engineer,Mid,17
+92,Maya Dubois,Griffin,Product,Engineer,Junior,2
+93,Diego Kim,Griffin,Product,Engineer,Senior,70
+94,Kenji Tanaka,Griffin,Product,Designer,Senior,119
+95,Ethan Santos,Griffin,Product,Engineer,Mid,30
+96,Theo Rossi,Juniper,Growth,DevOps,Junior,10
+97,Elena Kowalski,Juniper,Growth,Product Manager,Junior,20
+98,Noah Rossi,Juniper,Growth,Engineer,Mid,34
+99,Theo Costa,Juniper,Growth,Engineer,Junior,21
+100,Jonas Costa,Juniper,Growth,Designer,Junior,7
+101,Fatima Tanaka,Juniper,Growth,Product Manager,Senior,40
+102,Jonas Patel,Juniper,Growth,QA,Mid,48
+103,Aarav Silva,Juniper,Growth,DevOps,Senior,64
+104,Sofia Shah,Kestrel,Data,DevOps,Junior,15
+105,Ingrid Patel,Kestrel,Data,Designer,Mid,26
+106,Fatima Novak,Kestrel,Data,Product Manager,Mid,46
+107,Nadia Novak,Kestrel,Data,Engineer,Senior,59
+108,Nadia Kim,Kestrel,Data,DevOps,Mid,50
+109,Sana Mueller,Kestrel,Data,Product Manager,Senior,105
+110,Elena Fischer,Kestrel,Data,Engineer,Mid,54
+111,Finn Mueller,Kestrel,Data,Product Manager,Senior,54
+112,Erik Kim,Kestrel,Data,Designer,Junior,22
+113,Grace Shah,Meridian,Infra,Engineer,Senior,98
+114,Aarav Mueller,Meridian,Infra,Engineer,Mid,53
+115,Sofia Rossi,Meridian,Infra,DevOps,Mid,45
+116,Ravi Larsen,Meridian,Infra,Engineer,Junior,18
+117,Finn Fischer,Meridian,Infra,Engineer,Junior,21
+118,Ingrid Kowalski,Meridian,Infra,DevOps,Mid,18
+119,Liam Kowalski,Meridian,Infra,Engineer,Mid,28
+120,Kenji Ibrahim,Meridian,Infra,Product Manager,Junior,7
+121,Finn Tanaka,Meridian,Infra,DevOps,Mid,59
+122,Jonas Rossi,Solstice,Platform,Engineer,Mid,22
+123,Ravi Mueller,Solstice,Platform,Product Manager,Junior,8
+124,Ingrid Kim,Solstice,Platform,Product Manager,Mid,53
+125,Priya Tanaka,Solstice,Platform,Designer,Senior,75
+126,Noah Shah,Solstice,Platform,DevOps,Senior,79
+127,Sofia Fischer,Solstice,Platform,QA,Junior,7
+128,Hana Silva,Solstice,Platform,Engineer,Junior,11

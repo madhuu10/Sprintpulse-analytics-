@@ -1,0 +1,2689 @@
+employee_id,month,team,department,role,seniority,tenure_months,attendance_rate,unplanned_absences,sick_days,approved_leave_days,wfh_days,late_arrivals,overtime_hours,avg_checkin_delay_min,high_absenteeism_risk
+1,2025-01,Phoenix,Platform,DevOps,Mid,32,1.0,0,0,0,4,0,11.5,0.0,0
+2,2025-01,Phoenix,Platform,DevOps,Senior,79,0.857,1,1,1,6,0,13.6,0.0,0
+3,2025-01,Phoenix,Platform,QA,Mid,31,0.857,1,2,0,4,1,10.7,0.4,1
+4,2025-01,Phoenix,Platform,DevOps,Junior,20,0.952,0,0,1,3,1,0.0,4.0,0
+5,2025-01,Phoenix,Platform,Engineer,Senior,101,0.81,2,2,0,7,0,18.2,11.4,0
+6,2025-01,Phoenix,Platform,Engineer,Junior,18,0.81,3,1,0,4,0,7.2,5.5,1
+7,2025-01,Falcon,Product,Designer,Mid,21,0.81,2,1,1,3,2,9.0,0.0,0
+8,2025-01,Falcon,Product,Product Manager,Mid,19,0.905,0,0,2,4,0,9.2,3.9,0
+9,2025-01,Falcon,Product,Engineer,Senior,111,0.952,0,1,0,5,1,13.0,6.1,0
+10,2025-01,Falcon,Product,Product Manager,Junior,4,0.905,1,0,1,5,1,0.0,0.7,1
+11,2025-01,Falcon,Product,Engineer,Mid,39,1.0,0,0,0,6,0,9.2,1.6,0
+12,2025-01,Falcon,Product,QA,Mid,15,0.762,3,2,0,4,2,7.4,7.8,0
+13,2025-01,Falcon,Product,DevOps,Junior,14,0.857,0,2,1,6,0,11.1,11.2,0
+14,2025-01,Orion,Growth,QA,Junior,19,0.81,2,2,0,3,1,0.5,7.8,0
+15,2025-01,Orion,Growth,Engineer,Senior,91,0.952,1,0,0,2,1,11.3,0.0,0
+16,2025-01,Orion,Growth,QA,Junior,3,0.952,1,0,0,4,0,3.8,3.9,0
+17,2025-01,Orion,Growth,Engineer,Junior,4,0.952,1,0,0,3,6,5.4,8.5,0
+18,2025-01,Orion,Growth,Designer,Mid,29,0.905,1,1,0,3,0,13.2,0.5,0
+19,2025-01,Orion,Growth,Engineer,Junior,21,0.81,1,2,1,3,1,2.9,0.0,0
+20,2025-01,Orion,Growth,Engineer,Junior,2,0.952,1,0,0,5,2,6.6,8.8,0
+21,2025-01,Orion,Growth,Designer,Mid,38,0.762,3,2,0,4,1,6.8,4.4,0
+22,2025-01,Nimbus,Data,Engineer,Mid,18,0.81,4,0,0,3,0,12.7,6.7,1
+23,2025-01,Nimbus,Data,QA,Junior,5,0.905,2,0,0,3,3,6.3,5.1,1
+24,2025-01,Nimbus,Data,QA,Junior,3,0.714,4,1,1,6,0,4.7,0.0,1
+25,2025-01,Nimbus,Data,Engineer,Junior,4,0.952,1,0,0,2,0,3.5,3.9,0
+26,2025-01,Nimbus,Data,Engineer,Mid,33,0.905,1,1,0,4,1,9.1,7.1,1
+27,2025-01,Nimbus,Data,DevOps,Junior,13,0.714,3,1,2,4,1,11.4,12.4,1
+28,2025-01,Nimbus,Data,Engineer,Junior,20,0.762,3,1,1,4,2,7.2,5.6,0
+29,2025-01,Nimbus,Data,Engineer,Mid,46,0.952,1,0,0,3,1,2.8,0.0,0
+30,2025-01,Nimbus,Data,Product Manager,Junior,22,0.905,0,1,1,3,0,0.0,0.0,0
+31,2025-01,Vertex,Infra,DevOps,Senior,60,0.81,1,3,0,5,0,5.4,2.2,0
+32,2025-01,Vertex,Infra,Designer,Junior,13,0.762,4,1,0,4,1,0.0,2.3,0
+33,2025-01,Vertex,Infra,Product Manager,Senior,111,0.81,2,1,1,4,0,15.4,2.3,1
+34,2025-01,Vertex,Infra,DevOps,Mid,29,0.952,0,0,1,6,0,7.7,0.0,0
+35,2025-01,Vertex,Infra,Engineer,Junior,7,0.952,1,0,0,10,0,5.1,7.4,0
+36,2025-01,Vertex,Infra,DevOps,Mid,53,0.952,0,0,1,3,2,0.3,6.5,0
+37,2025-01,Vertex,Infra,Engineer,Mid,32,0.81,1,1,2,11,0,15.9,4.0,1
+38,2025-01,Vertex,Infra,Engineer,Mid,17,0.857,2,0,1,3,3,12.2,10.6,0
+39,2025-01,Vertex,Infra,Engineer,Senior,96,0.905,0,2,0,2,1,10.3,3.9,0
+40,2025-01,Vertex,Infra,DevOps,Senior,117,0.905,1,1,0,2,1,6.7,0.0,0
+41,2025-01,Atlas,Platform,Engineer,Junior,23,0.905,1,1,0,5,1,0.0,0.1,0
+42,2025-01,Atlas,Platform,DevOps,Junior,15,0.952,0,0,1,4,1,1.2,3.7,0
+43,2025-01,Atlas,Platform,Product Manager,Senior,89,0.857,3,0,0,5,0,0.5,0.0,0
+44,2025-01,Atlas,Platform,DevOps,Senior,55,1.0,0,0,0,4,0,3.0,1.8,0
+45,2025-01,Atlas,Platform,DevOps,Mid,31,1.0,0,0,0,4,0,11.2,0.4,0
+46,2025-01,Atlas,Platform,Product Manager,Mid,37,0.857,1,2,0,4,1,17.7,13.6,0
+47,2025-01,Atlas,Platform,Engineer,Junior,21,1.0,0,0,0,2,0,0.7,0.0,0
+48,2025-01,Atlas,Platform,Engineer,Junior,19,0.905,1,1,0,6,1,0.0,0.0,0
+49,2025-01,Atlas,Platform,QA,Junior,13,0.762,3,2,0,10,0,6.6,6.5,0
+50,2025-01,Comet,Product,DevOps,Mid,30,0.857,0,3,0,4,1,9.6,0.0,0
+51,2025-01,Comet,Product,QA,Junior,21,0.952,0,1,0,3,0,9.2,0.5,0
+52,2025-01,Comet,Product,Product Manager,Mid,14,1.0,0,0,0,4,1,4.9,5.5,0
+53,2025-01,Comet,Product,DevOps,Junior,3,0.81,3,1,0,4,2,7.3,8.9,1
+54,2025-01,Comet,Product,QA,Senior,84,0.857,1,2,0,0,0,16.1,3.7,0
+55,2025-01,Comet,Product,QA,Mid,58,0.857,2,1,0,6,2,12.1,6.4,0
+56,2025-01,Lumen,Growth,Engineer,Junior,7,0.714,1,3,2,6,0,0.0,3.0,0
+57,2025-01,Lumen,Growth,DevOps,Mid,27,0.762,2,3,0,4,1,2.1,7.5,0
+58,2025-01,Lumen,Growth,Product Manager,Senior,76,0.905,2,0,0,4,0,4.2,0.0,0
+59,2025-01,Lumen,Growth,Designer,Mid,50,0.905,1,1,0,2,0,0.0,0.0,0
+60,2025-01,Lumen,Growth,Engineer,Junior,7,0.714,5,0,1,6,1,6.1,5.7,0
+61,2025-01,Lumen,Growth,Product Manager,Mid,16,0.952,0,1,0,7,0,10.8,0.0,0
+62,2025-01,Lumen,Growth,Engineer,Mid,33,0.81,2,2,0,4,1,0.0,7.3,0
+63,2025-01,Zephyr,Data,QA,Junior,14,0.857,0,2,1,6,3,5.8,6.9,0
+64,2025-01,Zephyr,Data,QA,Mid,37,0.905,2,0,0,4,0,8.5,7.7,0
+65,2025-01,Zephyr,Data,Designer,Senior,46,0.762,4,1,0,2,0,17.3,7.2,0
+66,2025-01,Zephyr,Data,Product Manager,Mid,49,1.0,0,0,0,2,0,11.5,1.8,0
+67,2025-01,Zephyr,Data,Engineer,Junior,21,0.762,3,1,1,7,0,0.0,14.6,0
+68,2025-01,Zephyr,Data,DevOps,Senior,97,0.952,1,0,0,3,0,3.4,4.3,0
+69,2025-01,Zephyr,Data,Designer,Senior,76,0.857,3,0,0,4,0,7.6,0.0,0
+70,2025-01,Zephyr,Data,QA,Senior,58,0.952,1,0,0,3,1,19.6,9.9,0
+71,2025-01,Zephyr,Data,Engineer,Mid,38,0.857,1,1,1,4,0,19.5,0.7,0
+72,2025-01,Halcyon,Infra,Engineer,Mid,12,0.857,3,0,0,6,0,1.6,0.0,0
+73,2025-01,Halcyon,Infra,DevOps,Senior,93,0.905,0,1,1,7,0,18.5,0.0,0
+74,2025-01,Halcyon,Infra,Engineer,Mid,18,0.857,1,1,1,5,0,12.4,0.0,0
+75,2025-01,Halcyon,Infra,Designer,Junior,11,0.905,0,1,1,2,0,5.6,0.0,0
+76,2025-01,Halcyon,Infra,Product Manager,Junior,21,1.0,0,0,0,4,0,0.0,1.8,0
+77,2025-01,Halcyon,Infra,Product Manager,Junior,7,0.952,1,0,0,3,2,2.4,0.0,0
+78,2025-01,Halcyon,Infra,QA,Mid,51,0.81,3,1,0,2,0,0.0,5.2,0
+79,2025-01,Halcyon,Infra,Engineer,Mid,42,0.857,3,0,0,6,4,9.2,2.3,0
+80,2025-01,Halcyon,Infra,Engineer,Mid,37,0.952,1,0,0,3,0,5.1,2.1,0
+81,2025-01,Halcyon,Infra,DevOps,Senior,70,0.905,0,2,0,7,0,3.9,0.0,0
+82,2025-01,Aurora,Platform,DevOps,Mid,49,1.0,0,0,0,3,1,7.9,0.0,1
+83,2025-01,Aurora,Platform,DevOps,Junior,4,0.762,5,0,0,4,1,3.4,0.0,1
+84,2025-01,Aurora,Platform,Engineer,Junior,11,0.952,0,0,1,5,0,5.9,2.7,0
+85,2025-01,Aurora,Platform,Engineer,Junior,3,0.714,4,2,0,4,0,2.4,11.2,0
+86,2025-01,Aurora,Platform,Engineer,Mid,22,0.857,3,0,0,3,0,4.6,6.2,0
+87,2025-01,Aurora,Platform,Designer,Mid,19,0.952,0,0,1,6,0,9.0,9.0,0
+88,2025-01,Griffin,Product,Engineer,Mid,41,0.81,3,0,1,5,0,9.4,7.9,0
+89,2025-01,Griffin,Product,DevOps,Mid,29,0.905,0,1,1,5,0,11.2,0.0,0
+90,2025-01,Griffin,Product,Product Manager,Mid,47,0.81,1,2,1,3,2,0.2,5.0,0
+91,2025-01,Griffin,Product,Engineer,Mid,17,0.81,3,0,1,4,1,9.1,0.5,0
+92,2025-01,Griffin,Product,Engineer,Junior,2,0.714,4,2,0,6,0,8.9,3.7,1
+93,2025-01,Griffin,Product,Engineer,Senior,70,1.0,0,0,0,1,0,5.3,2.0,0
+94,2025-01,Griffin,Product,Designer,Senior,119,0.905,1,0,1,5,1,10.1,0.0,0
+95,2025-01,Griffin,Product,Engineer,Mid,30,0.762,3,1,1,5,1,5.7,3.4,0
+96,2025-01,Juniper,Growth,DevOps,Junior,10,0.905,1,1,0,8,3,0.0,9.8,1
+97,2025-01,Juniper,Growth,Product Manager,Junior,20,0.952,0,0,1,4,3,2.9,0.0,0
+98,2025-01,Juniper,Growth,Engineer,Mid,34,0.905,0,2,0,2,0,10.5,0.0,0
+99,2025-01,Juniper,Growth,Engineer,Junior,21,0.857,3,0,0,5,1,1.2,9.5,0
+100,2025-01,Juniper,Growth,Designer,Junior,7,0.857,2,0,1,5,1,0.0,2.1,0
+101,2025-01,Juniper,Growth,Product Manager,Senior,40,0.857,2,0,1,4,2,13.6,4.9,0
+102,2025-01,Juniper,Growth,QA,Mid,48,0.952,1,0,0,4,1,14.1,7.7,0
+103,2025-01,Juniper,Growth,DevOps,Senior,64,1.0,0,0,0,5,1,6.4,2.5,0
+104,2025-01,Kestrel,Data,DevOps,Junior,15,0.905,1,1,0,5,0,6.4,2.2,0
+105,2025-01,Kestrel,Data,Designer,Mid,26,1.0,0,0,0,3,3,6.7,0.0,0
+106,2025-01,Kestrel,Data,Product Manager,Mid,46,0.952,1,0,0,9,2,8.3,0.0,0
+107,2025-01,Kestrel,Data,Engineer,Senior,59,0.857,2,0,1,3,0,8.1,6.8,0
+108,2025-01,Kestrel,Data,DevOps,Mid,50,0.857,2,1,0,3,0,9.2,1.7,1
+109,2025-01,Kestrel,Data,Product Manager,Senior,105,0.905,0,2,0,5,1,15.1,9.4,1
+110,2025-01,Kestrel,Data,Engineer,Mid,54,0.857,2,1,0,3,1,2.0,0.0,0
+111,2025-01,Kestrel,Data,Product Manager,Senior,54,0.952,1,0,0,3,1,0.0,4.2,0
+112,2025-01,Kestrel,Data,Designer,Junior,22,0.952,1,0,0,5,0,2.7,0.0,0
+113,2025-01,Meridian,Infra,Engineer,Senior,98,0.857,1,2,0,7,0,11.1,0.0,0
+114,2025-01,Meridian,Infra,Engineer,Mid,53,0.81,2,2,0,2,1,0.0,0.0,1
+115,2025-01,Meridian,Infra,DevOps,Mid,45,0.905,0,1,1,4,0,2.0,0.0,0
+116,2025-01,Meridian,Infra,Engineer,Junior,18,0.762,2,1,2,5,2,0.0,2.5,0
+117,2025-01,Meridian,Infra,Engineer,Junior,21,0.667,3,4,0,2,2,14.0,5.6,1
+118,2025-01,Meridian,Infra,DevOps,Mid,18,0.81,2,2,0,7,1,8.8,1.2,1
+119,2025-01,Meridian,Infra,Engineer,Mid,28,1.0,0,0,0,4,0,6.8,0.0,0
+120,2025-01,Meridian,Infra,Product Manager,Junior,7,0.952,1,0,0,3,0,4.9,0.0,0
+121,2025-01,Meridian,Infra,DevOps,Mid,59,0.952,0,1,0,4,0,10.0,4.8,0
+122,2025-01,Solstice,Platform,Engineer,Mid,22,0.905,0,1,1,7,1,4.7,3.8,0
+123,2025-01,Solstice,Platform,Product Manager,Junior,8,0.905,0,1,1,3,2,3.9,10.6,0
+124,2025-01,Solstice,Platform,Product Manager,Mid,53,0.905,0,2,0,8,0,7.7,0.0,0
+125,2025-01,Solstice,Platform,Designer,Senior,75,1.0,0,0,0,8,0,11.3,0.0,0
+126,2025-01,Solstice,Platform,DevOps,Senior,79,0.952,0,1,0,3,0,17.6,0.0,0
+127,2025-01,Solstice,Platform,QA,Junior,7,0.81,1,3,0,1,1,18.3,6.4,0
+128,2025-01,Solstice,Platform,Engineer,Junior,11,0.714,2,2,2,3,0,5.9,3.1,0
+1,2025-02,Phoenix,Platform,DevOps,Mid,32,0.905,2,0,0,2,0,6.7,1.0,0
+2,2025-02,Phoenix,Platform,DevOps,Senior,79,0.952,1,0,0,1,0,8.8,8.3,0
+3,2025-02,Phoenix,Platform,QA,Mid,31,0.905,0,1,1,6,1,8.5,5.3,0
+4,2025-02,Phoenix,Platform,DevOps,Junior,20,0.714,4,2,0,5,0,2.6,0.9,0
+5,2025-02,Phoenix,Platform,Engineer,Senior,101,0.952,1,0,0,4,0,10.4,1.2,0
+6,2025-02,Phoenix,Platform,Engineer,Junior,18,0.905,2,0,0,4,0,3.9,4.7,0
+7,2025-02,Falcon,Product,Designer,Mid,21,0.762,3,0,2,6,2,9.2,7.4,0
+8,2025-02,Falcon,Product,Product Manager,Mid,19,0.81,4,0,0,5,0,3.3,8.3,0
+9,2025-02,Falcon,Product,Engineer,Senior,111,0.905,1,0,1,7,0,9.7,0.0,0
+10,2025-02,Falcon,Product,Product Manager,Junior,4,0.762,0,5,0,6,0,7.0,8.6,0
+11,2025-02,Falcon,Product,Engineer,Mid,39,1.0,0,0,0,4,0,9.7,0.5,0
+12,2025-02,Falcon,Product,QA,Mid,15,0.857,2,0,1,2,3,5.7,11.8,0
+13,2025-02,Falcon,Product,DevOps,Junior,14,0.952,1,0,0,3,0,4.1,0.9,0
+14,2025-02,Orion,Growth,QA,Junior,19,0.81,1,1,2,4,2,1.8,7.0,0
+15,2025-02,Orion,Growth,Engineer,Senior,91,0.857,2,0,1,4,2,4.2,2.9,0
+16,2025-02,Orion,Growth,QA,Junior,3,0.857,2,0,1,5,0,0.0,0.0,0
+17,2025-02,Orion,Growth,Engineer,Junior,4,0.81,3,1,0,3,2,8.7,4.7,0
+18,2025-02,Orion,Growth,Designer,Mid,29,0.81,0,2,2,5,1,13.2,0.0,0
+19,2025-02,Orion,Growth,Engineer,Junior,21,0.619,4,4,0,4,0,6.4,7.6,0
+20,2025-02,Orion,Growth,Engineer,Junior,2,0.905,2,0,0,4,0,4.6,0.0,0
+21,2025-02,Orion,Growth,Designer,Mid,38,0.857,2,1,0,6,0,10.3,5.8,0
+22,2025-02,Nimbus,Data,Engineer,Mid,18,1.0,0,0,0,5,0,13.8,7.0,0
+23,2025-02,Nimbus,Data,QA,Junior,5,0.952,0,0,1,3,1,1.5,12.4,0
+24,2025-02,Nimbus,Data,QA,Junior,3,0.81,4,0,0,6,2,6.0,14.9,0
+25,2025-02,Nimbus,Data,Engineer,Junior,4,0.952,1,0,0,2,2,9.0,0.0,0
+26,2025-02,Nimbus,Data,Engineer,Mid,33,0.81,0,2,2,1,1,15.4,2.4,1
+27,2025-02,Nimbus,Data,DevOps,Junior,13,0.714,6,0,0,2,1,7.1,3.2,0
+28,2025-02,Nimbus,Data,Engineer,Junior,20,0.857,2,1,0,7,3,16.7,12.9,0
+29,2025-02,Nimbus,Data,Engineer,Mid,46,0.952,1,0,0,5,0,6.2,0.0,0
+30,2025-02,Nimbus,Data,Product Manager,Junior,22,0.857,1,1,1,5,0,7.4,0.0,0
+31,2025-02,Vertex,Infra,DevOps,Senior,60,0.714,2,4,0,3,1,2.2,0.0,0
+32,2025-02,Vertex,Infra,Designer,Junior,13,0.714,3,2,1,6,2,0.0,6.4,0
+33,2025-02,Vertex,Infra,Product Manager,Senior,111,0.952,0,1,0,5,1,4.3,0.0,0
+34,2025-02,Vertex,Infra,DevOps,Mid,29,1.0,0,0,0,2,0,18.5,0.0,0
+35,2025-02,Vertex,Infra,Engineer,Junior,7,0.952,0,1,0,6,1,0.0,0.0,0
+36,2025-02,Vertex,Infra,DevOps,Mid,53,0.81,3,1,0,3,2,5.7,7.1,1
+37,2025-02,Vertex,Infra,Engineer,Mid,32,0.762,3,2,0,5,0,5.0,0.0,0
+38,2025-02,Vertex,Infra,Engineer,Mid,17,1.0,0,0,0,3,0,14.6,6.5,0
+39,2025-02,Vertex,Infra,Engineer,Senior,96,0.667,4,2,1,5,2,6.6,12.9,0
+40,2025-02,Vertex,Infra,DevOps,Senior,117,1.0,0,0,0,4,0,8.0,4.7,0
+41,2025-02,Atlas,Platform,Engineer,Junior,23,0.857,1,1,1,7,0,10.2,5.6,0
+42,2025-02,Atlas,Platform,DevOps,Junior,15,0.857,1,1,1,4,0,2.5,0.0,0
+43,2025-02,Atlas,Platform,Product Manager,Senior,89,0.905,0,1,1,6,0,0.0,0.5,1
+44,2025-02,Atlas,Platform,DevOps,Senior,55,0.905,0,2,0,3,0,6.1,7.6,0
+45,2025-02,Atlas,Platform,DevOps,Mid,31,0.81,2,1,1,2,0,3.7,0.0,0
+46,2025-02,Atlas,Platform,Product Manager,Mid,37,0.857,2,1,0,5,0,6.4,13.9,0
+47,2025-02,Atlas,Platform,Engineer,Junior,21,0.81,2,2,0,6,0,0.0,6.9,0
+48,2025-02,Atlas,Platform,Engineer,Junior,19,0.714,3,3,0,7,1,6.2,0.0,1
+49,2025-02,Atlas,Platform,QA,Junior,13,0.762,2,2,1,4,1,10.3,9.7,0
+50,2025-02,Comet,Product,DevOps,Mid,30,0.857,1,2,0,6,2,3.8,12.7,0
+51,2025-02,Comet,Product,QA,Junior,21,0.905,0,2,0,4,0,1.3,7.3,0
+52,2025-02,Comet,Product,Product Manager,Mid,14,0.857,1,1,1,2,0,0.0,5.8,0
+53,2025-02,Comet,Product,DevOps,Junior,3,0.81,3,1,0,6,3,5.1,2.9,0
+54,2025-02,Comet,Product,QA,Senior,84,0.905,2,0,0,7,0,8.0,7.6,1
+55,2025-02,Comet,Product,QA,Mid,58,0.714,4,2,0,4,4,5.4,7.0,1
+56,2025-02,Lumen,Growth,Engineer,Junior,7,0.905,2,0,0,9,0,0.0,1.8,0
+57,2025-02,Lumen,Growth,DevOps,Mid,27,0.905,0,1,1,2,1,7.9,0.2,0
+58,2025-02,Lumen,Growth,Product Manager,Senior,76,1.0,0,0,0,5,0,0.0,2.6,0
+59,2025-02,Lumen,Growth,Designer,Mid,50,0.905,2,0,0,4,0,14.4,0.0,1
+60,2025-02,Lumen,Growth,Engineer,Junior,7,0.714,3,2,1,5,1,0.0,7.8,1
+61,2025-02,Lumen,Growth,Product Manager,Mid,16,0.857,1,1,1,9,0,7.4,1.8,0
+62,2025-02,Lumen,Growth,Engineer,Mid,33,0.905,1,1,0,2,0,2.6,3.9,0
+63,2025-02,Zephyr,Data,QA,Junior,14,0.762,3,1,1,4,1,0.0,0.0,0
+64,2025-02,Zephyr,Data,QA,Mid,37,0.857,1,1,1,10,0,3.7,4.7,0
+65,2025-02,Zephyr,Data,Designer,Senior,46,0.857,3,0,0,1,2,6.0,0.0,0
+66,2025-02,Zephyr,Data,Product Manager,Mid,49,0.905,1,0,1,1,2,12.4,0.0,0
+67,2025-02,Zephyr,Data,Engineer,Junior,21,0.81,2,1,1,5,2,17.2,6.2,0
+68,2025-02,Zephyr,Data,DevOps,Senior,97,1.0,0,0,0,3,0,8.5,0.3,0
+69,2025-02,Zephyr,Data,Designer,Senior,76,0.81,1,1,2,5,0,11.4,4.8,0
+70,2025-02,Zephyr,Data,QA,Senior,58,0.952,1,0,0,4,1,16.6,0.0,0
+71,2025-02,Zephyr,Data,Engineer,Mid,38,1.0,0,0,0,4,0,5.3,0.0,0
+72,2025-02,Halcyon,Infra,Engineer,Mid,12,0.905,0,0,2,2,0,7.4,10.5,0
+73,2025-02,Halcyon,Infra,DevOps,Senior,93,0.905,0,2,0,5,0,7.5,4.1,0
+74,2025-02,Halcyon,Infra,Engineer,Mid,18,0.857,1,2,0,7,0,2.8,0.0,0
+75,2025-02,Halcyon,Infra,Designer,Junior,11,0.952,0,0,1,1,2,4.6,0.4,0
+76,2025-02,Halcyon,Infra,Product Manager,Junior,21,0.905,1,0,1,5,0,11.6,2.4,0
+77,2025-02,Halcyon,Infra,Product Manager,Junior,7,1.0,0,0,0,9,0,1.3,0.0,0
+78,2025-02,Halcyon,Infra,QA,Mid,51,0.762,2,2,1,2,1,6.0,0.4,1
+79,2025-02,Halcyon,Infra,Engineer,Mid,42,0.81,1,2,1,8,0,12.9,3.2,0
+80,2025-02,Halcyon,Infra,Engineer,Mid,37,0.905,2,0,0,5,0,13.7,4.0,0
+81,2025-02,Halcyon,Infra,DevOps,Senior,70,0.81,2,2,0,3,0,15.9,12.0,1
+82,2025-02,Aurora,Platform,DevOps,Mid,49,0.905,0,1,1,6,0,12.0,2.9,0
+83,2025-02,Aurora,Platform,DevOps,Junior,4,0.762,4,0,1,5,0,0.0,8.8,0
+84,2025-02,Aurora,Platform,Engineer,Junior,11,0.952,0,1,0,6,1,6.1,4.1,1
+85,2025-02,Aurora,Platform,Engineer,Junior,3,0.857,1,1,1,4,1,4.6,5.3,0
+86,2025-02,Aurora,Platform,Engineer,Mid,22,0.857,3,0,0,3,3,13.1,3.3,0
+87,2025-02,Aurora,Platform,Designer,Mid,19,0.762,2,1,2,4,2,7.6,11.1,0
+88,2025-02,Griffin,Product,Engineer,Mid,41,0.905,1,1,0,3,0,14.9,5.7,0
+89,2025-02,Griffin,Product,DevOps,Mid,29,0.952,1,0,0,5,0,6.3,6.4,0
+90,2025-02,Griffin,Product,Product Manager,Mid,47,0.905,2,0,0,5,0,11.7,14.9,0
+91,2025-02,Griffin,Product,Engineer,Mid,17,1.0,0,0,0,4,2,0.0,0.0,1
+92,2025-02,Griffin,Product,Engineer,Junior,2,0.952,1,0,0,7,0,0.0,3.3,0
+93,2025-02,Griffin,Product,Engineer,Senior,70,0.952,0,0,1,3,0,3.8,0.4,0
+94,2025-02,Griffin,Product,Designer,Senior,119,0.952,1,0,0,2,0,12.4,8.5,0
+95,2025-02,Griffin,Product,Engineer,Mid,30,0.857,0,1,2,4,1,6.4,8.0,0
+96,2025-02,Juniper,Growth,DevOps,Junior,10,0.81,3,1,0,2,1,8.3,5.6,0
+97,2025-02,Juniper,Growth,Product Manager,Junior,20,0.952,1,0,0,3,0,1.7,0.0,1
+98,2025-02,Juniper,Growth,Engineer,Mid,34,0.714,1,3,2,2,2,12.7,0.0,1
+99,2025-02,Juniper,Growth,Engineer,Junior,21,0.714,3,1,2,5,0,7.9,9.2,0
+100,2025-02,Juniper,Growth,Designer,Junior,7,0.905,1,1,0,2,0,12.1,6.8,0
+101,2025-02,Juniper,Growth,Product Manager,Senior,40,0.905,0,1,1,5,1,10.7,4.6,0
+102,2025-02,Juniper,Growth,QA,Mid,48,0.762,3,1,1,4,0,4.9,0.0,0
+103,2025-02,Juniper,Growth,DevOps,Senior,64,0.81,3,1,0,5,0,6.9,4.5,0
+104,2025-02,Kestrel,Data,DevOps,Junior,15,0.857,2,1,0,6,1,3.3,0.0,1
+105,2025-02,Kestrel,Data,Designer,Mid,26,1.0,0,0,0,7,0,11.4,0.0,0
+106,2025-02,Kestrel,Data,Product Manager,Mid,46,1.0,0,0,0,3,1,11.9,0.0,0
+107,2025-02,Kestrel,Data,Engineer,Senior,59,0.952,0,1,0,3,1,1.2,0.0,0
+108,2025-02,Kestrel,Data,DevOps,Mid,50,0.952,0,0,1,7,0,13.3,0.0,0
+109,2025-02,Kestrel,Data,Product Manager,Senior,105,0.81,3,1,0,3,0,6.3,6.7,1
+110,2025-02,Kestrel,Data,Engineer,Mid,54,0.905,1,1,0,2,0,10.3,0.0,0
+111,2025-02,Kestrel,Data,Product Manager,Senior,54,0.762,4,1,0,4,0,5.0,0.0,0
+112,2025-02,Kestrel,Data,Designer,Junior,22,1.0,0,0,0,5,0,8.3,0.0,0
+113,2025-02,Meridian,Infra,Engineer,Senior,98,0.952,0,1,0,2,0,9.3,3.4,0
+114,2025-02,Meridian,Infra,Engineer,Mid,53,0.905,1,0,1,4,0,12.8,0.0,0
+115,2025-02,Meridian,Infra,DevOps,Mid,45,0.905,1,0,1,3,0,16.1,0.0,1
+116,2025-02,Meridian,Infra,Engineer,Junior,18,0.762,3,2,0,6,1,0.0,0.3,0
+117,2025-02,Meridian,Infra,Engineer,Junior,21,0.81,2,1,1,5,1,9.0,0.0,1
+118,2025-02,Meridian,Infra,DevOps,Mid,18,0.905,2,0,0,7,0,11.1,6.6,0
+119,2025-02,Meridian,Infra,Engineer,Mid,28,0.81,2,0,2,3,2,11.5,0.0,0
+120,2025-02,Meridian,Infra,Product Manager,Junior,7,0.952,0,0,1,8,0,0.7,7.2,0
+121,2025-02,Meridian,Infra,DevOps,Mid,59,0.857,2,0,1,4,3,8.1,1.9,0
+122,2025-02,Solstice,Platform,Engineer,Mid,22,0.952,1,0,0,3,1,11.8,10.1,0
+123,2025-02,Solstice,Platform,Product Manager,Junior,8,0.952,1,0,0,2,3,2.3,0.0,0
+124,2025-02,Solstice,Platform,Product Manager,Mid,53,1.0,0,0,0,3,0,10.4,0.0,0
+125,2025-02,Solstice,Platform,Designer,Senior,75,0.857,2,0,1,5,0,8.0,0.0,0
+126,2025-02,Solstice,Platform,DevOps,Senior,79,0.81,3,0,1,4,1,10.1,2.2,0
+127,2025-02,Solstice,Platform,QA,Junior,7,0.81,1,3,0,4,1,0.0,3.2,0
+128,2025-02,Solstice,Platform,Engineer,Junior,11,0.81,2,1,1,6,3,12.4,7.1,0
+1,2025-03,Phoenix,Platform,DevOps,Mid,32,0.952,0,0,1,5,1,12.7,1.4,1
+2,2025-03,Phoenix,Platform,DevOps,Senior,79,0.905,2,0,0,6,1,17.4,7.2,0
+3,2025-03,Phoenix,Platform,QA,Mid,31,0.952,1,0,0,4,1,17.6,11.3,0
+4,2025-03,Phoenix,Platform,DevOps,Junior,20,0.952,0,0,1,4,0,3.8,0.0,0
+5,2025-03,Phoenix,Platform,Engineer,Senior,101,1.0,0,0,0,3,2,0.9,0.0,0
+6,2025-03,Phoenix,Platform,Engineer,Junior,18,0.857,1,1,1,4,1,9.5,6.5,0
+7,2025-03,Falcon,Product,Designer,Mid,21,0.952,0,1,0,7,0,12.9,9.7,0
+8,2025-03,Falcon,Product,Product Manager,Mid,19,0.905,1,1,0,3,1,9.2,10.8,0
+9,2025-03,Falcon,Product,Engineer,Senior,111,0.952,1,0,0,5,1,8.8,9.0,0
+10,2025-03,Falcon,Product,Product Manager,Junior,4,0.905,1,1,0,1,4,6.2,2.0,0
+11,2025-03,Falcon,Product,Engineer,Mid,39,1.0,0,0,0,3,0,15.8,2.1,0
+12,2025-03,Falcon,Product,QA,Mid,15,0.952,1,0,0,2,0,1.3,6.5,0
+13,2025-03,Falcon,Product,DevOps,Junior,14,0.905,1,0,1,5,1,12.0,7.2,0
+14,2025-03,Orion,Growth,QA,Junior,19,0.952,0,1,0,6,1,6.0,5.9,1
+15,2025-03,Orion,Growth,Engineer,Senior,91,1.0,0,0,0,6,0,2.0,4.9,0
+16,2025-03,Orion,Growth,QA,Junior,3,0.952,0,0,1,1,0,5.7,3.4,0
+17,2025-03,Orion,Growth,Engineer,Junior,4,1.0,0,0,0,4,0,0.0,3.3,0
+18,2025-03,Orion,Growth,Designer,Mid,29,0.905,1,1,0,1,1,5.1,0.0,1
+19,2025-03,Orion,Growth,Engineer,Junior,21,0.714,5,1,0,1,1,7.9,3.5,1
+20,2025-03,Orion,Growth,Engineer,Junior,2,0.952,0,0,1,3,1,0.5,3.8,0
+21,2025-03,Orion,Growth,Designer,Mid,38,0.81,2,1,1,9,5,4.7,3.4,0
+22,2025-03,Nimbus,Data,Engineer,Mid,18,0.762,2,1,2,3,3,0.6,9.5,0
+23,2025-03,Nimbus,Data,QA,Junior,5,0.857,2,1,0,3,0,5.7,1.5,0
+24,2025-03,Nimbus,Data,QA,Junior,3,0.857,3,0,0,2,1,4.0,0.0,0
+25,2025-03,Nimbus,Data,Engineer,Junior,4,0.714,4,0,2,3,0,0.0,5.8,0
+26,2025-03,Nimbus,Data,Engineer,Mid,33,0.762,2,1,2,8,3,14.8,7.0,0
+27,2025-03,Nimbus,Data,DevOps,Junior,13,0.81,2,2,0,4,2,0.0,0.0,0
+28,2025-03,Nimbus,Data,Engineer,Junior,20,0.857,1,1,1,5,2,4.4,1.6,0
+29,2025-03,Nimbus,Data,Engineer,Mid,46,0.952,0,0,1,7,1,7.5,7.6,0
+30,2025-03,Nimbus,Data,Product Manager,Junior,22,0.952,0,0,1,6,1,1.8,0.0,0
+31,2025-03,Vertex,Infra,DevOps,Senior,60,0.905,0,1,1,4,1,0.0,6.7,0
+32,2025-03,Vertex,Infra,Designer,Junior,13,0.81,3,0,1,5,3,0.0,7.0,0
+33,2025-03,Vertex,Infra,Product Manager,Senior,111,1.0,0,0,0,5,0,10.2,6.2,0
+34,2025-03,Vertex,Infra,DevOps,Mid,29,0.952,0,0,1,3,1,10.3,0.0,0
+35,2025-03,Vertex,Infra,Engineer,Junior,7,1.0,0,0,0,2,1,4.2,9.7,0
+36,2025-03,Vertex,Infra,DevOps,Mid,53,0.762,4,1,0,8,0,0.0,0.0,1
+37,2025-03,Vertex,Infra,Engineer,Mid,32,0.952,1,0,0,7,0,3.8,2.3,0
+38,2025-03,Vertex,Infra,Engineer,Mid,17,0.857,2,1,0,4,3,15.8,1.7,0
+39,2025-03,Vertex,Infra,Engineer,Senior,96,0.952,1,0,0,4,1,2.4,0.0,0
+40,2025-03,Vertex,Infra,DevOps,Senior,117,0.952,0,0,1,2,1,1.1,0.2,0
+41,2025-03,Atlas,Platform,Engineer,Junior,23,0.905,1,1,0,2,0,7.0,0.0,0
+42,2025-03,Atlas,Platform,DevOps,Junior,15,0.952,0,0,1,3,0,0.0,3.8,0
+43,2025-03,Atlas,Platform,Product Manager,Senior,89,0.905,1,1,0,4,0,8.1,0.0,0
+44,2025-03,Atlas,Platform,DevOps,Senior,55,1.0,0,0,0,2,1,5.6,9.3,0
+45,2025-03,Atlas,Platform,DevOps,Mid,31,1.0,0,0,0,5,0,4.4,0.0,0
+46,2025-03,Atlas,Platform,Product Manager,Mid,37,0.905,0,0,2,10,2,11.3,0.0,1
+47,2025-03,Atlas,Platform,Engineer,Junior,21,0.905,1,0,1,3,1,1.6,0.0,0
+48,2025-03,Atlas,Platform,Engineer,Junior,19,0.952,1,0,0,7,0,0.0,5.9,0
+49,2025-03,Atlas,Platform,QA,Junior,13,0.905,2,0,0,3,4,10.0,5.2,0
+50,2025-03,Comet,Product,DevOps,Mid,30,0.952,1,0,0,3,1,14.5,0.0,0
+51,2025-03,Comet,Product,QA,Junior,21,1.0,0,0,0,3,0,8.9,0.0,0
+52,2025-03,Comet,Product,Product Manager,Mid,14,0.905,0,1,1,3,1,4.0,0.0,0
+53,2025-03,Comet,Product,DevOps,Junior,3,0.857,1,2,0,5,1,5.6,4.4,1
+54,2025-03,Comet,Product,QA,Senior,84,0.952,1,0,0,2,0,2.4,4.1,0
+55,2025-03,Comet,Product,QA,Mid,58,0.714,4,1,1,2,0,13.1,4.4,1
+56,2025-03,Lumen,Growth,Engineer,Junior,7,0.952,0,0,1,5,1,6.3,0.0,0
+57,2025-03,Lumen,Growth,DevOps,Mid,27,0.81,2,1,1,4,0,12.8,1.9,0
+58,2025-03,Lumen,Growth,Product Manager,Senior,76,1.0,0,0,0,4,2,9.0,0.0,0
+59,2025-03,Lumen,Growth,Designer,Mid,50,0.81,2,1,1,5,0,7.1,2.4,0
+60,2025-03,Lumen,Growth,Engineer,Junior,7,0.905,1,1,0,4,0,4.3,7.9,1
+61,2025-03,Lumen,Growth,Product Manager,Mid,16,1.0,0,0,0,4,0,11.6,5.0,0
+62,2025-03,Lumen,Growth,Engineer,Mid,33,0.952,1,0,0,3,1,7.5,0.0,0
+63,2025-03,Zephyr,Data,QA,Junior,14,0.81,1,2,1,9,1,1.5,9.7,0
+64,2025-03,Zephyr,Data,QA,Mid,37,0.905,1,0,1,4,2,8.3,0.0,1
+65,2025-03,Zephyr,Data,Designer,Senior,46,0.905,1,1,0,4,0,8.9,0.3,0
+66,2025-03,Zephyr,Data,Product Manager,Mid,49,0.952,0,0,1,5,0,10.8,0.0,0
+67,2025-03,Zephyr,Data,Engineer,Junior,21,0.952,1,0,0,3,1,0.0,5.2,1
+68,2025-03,Zephyr,Data,DevOps,Senior,97,0.952,0,0,1,5,0,9.7,0.0,1
+69,2025-03,Zephyr,Data,Designer,Senior,76,0.905,2,0,0,4,1,9.4,0.1,0
+70,2025-03,Zephyr,Data,QA,Senior,58,0.857,2,0,1,1,0,9.9,0.0,0
+71,2025-03,Zephyr,Data,Engineer,Mid,38,0.952,1,0,0,4,1,1.3,0.0,0
+72,2025-03,Halcyon,Infra,Engineer,Mid,12,0.952,0,0,1,6,2,4.3,0.0,1
+73,2025-03,Halcyon,Infra,DevOps,Senior,93,0.857,2,0,1,0,0,19.8,1.2,1
+74,2025-03,Halcyon,Infra,Engineer,Mid,18,0.905,0,2,0,2,0,3.0,7.3,0
+75,2025-03,Halcyon,Infra,Designer,Junior,11,0.952,0,0,1,4,2,2.7,2.1,0
+76,2025-03,Halcyon,Infra,Product Manager,Junior,21,0.905,1,0,1,3,1,10.9,8.1,0
+77,2025-03,Halcyon,Infra,Product Manager,Junior,7,0.905,1,0,1,2,0,6.1,4.1,0
+78,2025-03,Halcyon,Infra,QA,Mid,51,0.952,0,1,0,4,1,9.0,3.2,0
+79,2025-03,Halcyon,Infra,Engineer,Mid,42,1.0,0,0,0,5,3,10.5,0.0,0
+80,2025-03,Halcyon,Infra,Engineer,Mid,37,0.714,3,1,2,3,2,6.2,5.4,0
+81,2025-03,Halcyon,Infra,DevOps,Senior,70,0.952,1,0,0,4,0,13.8,1.9,0
+82,2025-03,Aurora,Platform,DevOps,Mid,49,0.905,1,0,1,1,0,6.1,0.0,0
+83,2025-03,Aurora,Platform,DevOps,Junior,4,0.905,1,0,1,4,0,3.3,3.8,0
+84,2025-03,Aurora,Platform,Engineer,Junior,11,0.952,0,0,1,2,1,12.4,0.0,0
+85,2025-03,Aurora,Platform,Engineer,Junior,3,0.762,4,0,1,2,1,0.0,6.0,0
+86,2025-03,Aurora,Platform,Engineer,Mid,22,1.0,0,0,0,3,0,3.3,18.7,0
+87,2025-03,Aurora,Platform,Designer,Mid,19,1.0,0,0,0,3,2,17.2,0.0,0
+88,2025-03,Griffin,Product,Engineer,Mid,41,0.952,1,0,0,6,1,13.6,2.1,0
+89,2025-03,Griffin,Product,DevOps,Mid,29,0.857,1,1,1,5,0,2.3,0.6,1
+90,2025-03,Griffin,Product,Product Manager,Mid,47,0.952,1,0,0,8,0,9.7,1.2,0
+91,2025-03,Griffin,Product,Engineer,Mid,17,0.905,1,0,1,1,0,5.1,0.0,0
+92,2025-03,Griffin,Product,Engineer,Junior,2,0.952,0,0,1,3,1,6.4,0.0,0
+93,2025-03,Griffin,Product,Engineer,Senior,70,0.857,1,2,0,3,0,2.6,0.0,0
+94,2025-03,Griffin,Product,Designer,Senior,119,1.0,0,0,0,2,0,4.6,9.1,0
+95,2025-03,Griffin,Product,Engineer,Mid,30,0.905,1,1,0,2,0,11.7,0.0,0
+96,2025-03,Juniper,Growth,DevOps,Junior,10,0.81,2,1,1,5,3,7.6,5.4,0
+97,2025-03,Juniper,Growth,Product Manager,Junior,20,0.905,1,0,1,6,0,13.5,8.1,0
+98,2025-03,Juniper,Growth,Engineer,Mid,34,0.905,0,0,2,3,1,2.6,5.4,0
+99,2025-03,Juniper,Growth,Engineer,Junior,21,0.81,2,1,1,1,2,2.7,1.1,0
+100,2025-03,Juniper,Growth,Designer,Junior,7,1.0,0,0,0,3,1,16.1,0.0,0
+101,2025-03,Juniper,Growth,Product Manager,Senior,40,0.857,2,0,1,6,4,10.2,4.6,0
+102,2025-03,Juniper,Growth,QA,Mid,48,0.905,2,0,0,8,0,4.3,0.0,0
+103,2025-03,Juniper,Growth,DevOps,Senior,64,0.714,4,1,1,3,1,12.0,0.0,1
+104,2025-03,Kestrel,Data,DevOps,Junior,15,1.0,0,0,0,2,1,4.5,6.9,0
+105,2025-03,Kestrel,Data,Designer,Mid,26,0.952,0,0,1,3,0,7.3,2.5,0
+106,2025-03,Kestrel,Data,Product Manager,Mid,46,1.0,0,0,0,5,0,17.0,0.0,0
+107,2025-03,Kestrel,Data,Engineer,Senior,59,0.81,0,3,1,3,0,0.0,0.0,1
+108,2025-03,Kestrel,Data,DevOps,Mid,50,0.905,1,1,0,4,0,4.6,5.0,1
+109,2025-03,Kestrel,Data,Product Manager,Senior,105,0.905,1,1,0,6,0,11.2,0.6,0
+110,2025-03,Kestrel,Data,Engineer,Mid,54,1.0,0,0,0,2,2,7.5,9.9,0
+111,2025-03,Kestrel,Data,Product Manager,Senior,54,0.905,2,0,0,5,1,12.0,3.6,0
+112,2025-03,Kestrel,Data,Designer,Junior,22,0.81,4,0,0,4,0,8.2,10.2,1
+113,2025-03,Meridian,Infra,Engineer,Senior,98,0.905,1,1,0,3,0,11.7,1.2,0
+114,2025-03,Meridian,Infra,Engineer,Mid,53,1.0,0,0,0,3,1,18.0,0.0,0
+115,2025-03,Meridian,Infra,DevOps,Mid,45,0.952,0,0,1,5,0,7.8,0.5,0
+116,2025-03,Meridian,Infra,Engineer,Junior,18,0.952,1,0,0,4,2,0.0,7.5,0
+117,2025-03,Meridian,Infra,Engineer,Junior,21,0.81,2,0,2,2,4,0.2,6.1,0
+118,2025-03,Meridian,Infra,DevOps,Mid,18,0.81,3,1,0,0,1,4.9,0.0,0
+119,2025-03,Meridian,Infra,Engineer,Mid,28,0.905,0,1,1,4,2,0.0,0.0,1
+120,2025-03,Meridian,Infra,Product Manager,Junior,7,0.905,2,0,0,3,0,12.1,2.0,0
+121,2025-03,Meridian,Infra,DevOps,Mid,59,0.905,0,1,1,4,1,9.5,3.4,0
+122,2025-03,Solstice,Platform,Engineer,Mid,22,0.952,1,0,0,4,0,5.6,0.0,0
+123,2025-03,Solstice,Platform,Product Manager,Junior,8,0.952,1,0,0,4,2,0.0,0.0,0
+124,2025-03,Solstice,Platform,Product Manager,Mid,53,1.0,0,0,0,2,1,9.2,5.9,0
+125,2025-03,Solstice,Platform,Designer,Senior,75,0.905,1,0,1,3,0,6.1,0.9,0
+126,2025-03,Solstice,Platform,DevOps,Senior,79,0.952,1,0,0,4,1,9.3,6.1,0
+127,2025-03,Solstice,Platform,QA,Junior,7,0.905,1,1,0,3,2,8.3,0.0,0
+128,2025-03,Solstice,Platform,Engineer,Junior,11,0.905,1,1,0,3,2,12.0,5.6,0
+1,2025-04,Phoenix,Platform,DevOps,Mid,32,1.0,0,0,0,3,0,8.2,0.0,0
+2,2025-04,Phoenix,Platform,DevOps,Senior,79,0.81,3,1,0,6,0,10.9,0.0,0
+3,2025-04,Phoenix,Platform,QA,Mid,31,0.857,2,0,1,5,1,5.9,1.5,0
+4,2025-04,Phoenix,Platform,DevOps,Junior,20,0.952,1,0,0,5,0,3.7,3.8,0
+5,2025-04,Phoenix,Platform,Engineer,Senior,101,0.952,0,0,1,5,0,1.1,0.1,0
+6,2025-04,Phoenix,Platform,Engineer,Junior,18,0.81,2,1,1,5,1,0.0,0.0,0
+7,2025-04,Falcon,Product,Designer,Mid,21,0.905,2,0,0,5,0,8.9,0.0,0
+8,2025-04,Falcon,Product,Product Manager,Mid,19,0.952,1,0,0,5,1,7.0,13.8,0
+9,2025-04,Falcon,Product,Engineer,Senior,111,0.952,0,0,1,7,0,11.0,4.1,0
+10,2025-04,Falcon,Product,Product Manager,Junior,4,0.952,0,1,0,0,2,0.0,0.0,0
+11,2025-04,Falcon,Product,Engineer,Mid,39,0.905,1,0,1,5,0,6.6,2.4,0
+12,2025-04,Falcon,Product,QA,Mid,15,0.952,1,0,0,3,1,3.7,1.3,0
+13,2025-04,Falcon,Product,DevOps,Junior,14,0.81,2,1,1,5,1,10.2,5.9,1
+14,2025-04,Orion,Growth,QA,Junior,19,0.905,2,0,0,5,0,4.5,0.0,0
+15,2025-04,Orion,Growth,Engineer,Senior,91,1.0,0,0,0,3,1,14.0,4.0,0
+16,2025-04,Orion,Growth,QA,Junior,3,0.857,2,0,1,3,1,0.0,6.0,0
+17,2025-04,Orion,Growth,Engineer,Junior,4,0.952,0,1,0,5,0,5.8,2.1,0
+18,2025-04,Orion,Growth,Designer,Mid,29,0.81,1,3,0,4,0,0.0,6.9,0
+19,2025-04,Orion,Growth,Engineer,Junior,21,0.905,0,2,0,6,2,5.7,2.8,0
+20,2025-04,Orion,Growth,Engineer,Junior,2,0.952,0,0,1,6,1,6.9,3.0,0
+21,2025-04,Orion,Growth,Designer,Mid,38,1.0,0,0,0,6,0,0.2,3.7,0
+22,2025-04,Nimbus,Data,Engineer,Mid,18,0.905,1,1,0,4,1,6.5,0.0,1
+23,2025-04,Nimbus,Data,QA,Junior,5,0.857,0,1,2,3,0,0.0,0.0,1
+24,2025-04,Nimbus,Data,QA,Junior,3,0.857,1,1,1,4,0,9.5,1.7,0
+25,2025-04,Nimbus,Data,Engineer,Junior,4,0.905,1,0,1,2,1,10.3,2.5,0
+26,2025-04,Nimbus,Data,Engineer,Mid,33,0.714,1,3,2,2,1,0.0,0.0,1
+27,2025-04,Nimbus,Data,DevOps,Junior,13,0.857,1,1,1,1,0,9.5,0.0,0
+28,2025-04,Nimbus,Data,Engineer,Junior,20,0.905,2,0,0,5,0,0.0,4.5,0
+29,2025-04,Nimbus,Data,Engineer,Mid,46,0.952,0,0,1,2,0,7.8,10.2,0
+30,2025-04,Nimbus,Data,Product Manager,Junior,22,1.0,0,0,0,2,0,0.8,0.7,0
+31,2025-04,Vertex,Infra,DevOps,Senior,60,1.0,0,0,0,8,1,1.3,2.2,0
+32,2025-04,Vertex,Infra,Designer,Junior,13,0.905,1,1,0,2,1,3.3,5.2,0
+33,2025-04,Vertex,Infra,Product Manager,Senior,111,0.905,2,0,0,5,1,16.2,4.5,1
+34,2025-04,Vertex,Infra,DevOps,Mid,29,1.0,0,0,0,5,0,5.4,7.6,0
+35,2025-04,Vertex,Infra,Engineer,Junior,7,0.952,0,0,1,6,0,1.3,0.0,0
+36,2025-04,Vertex,Infra,DevOps,Mid,53,0.952,0,1,0,1,0,0.0,3.8,0
+37,2025-04,Vertex,Infra,Engineer,Mid,32,0.905,1,1,0,5,0,11.3,0.0,0
+38,2025-04,Vertex,Infra,Engineer,Mid,17,0.81,4,0,0,2,2,0.0,0.0,0
+39,2025-04,Vertex,Infra,Engineer,Senior,96,0.762,2,1,2,3,0,18.6,10.8,0
+40,2025-04,Vertex,Infra,DevOps,Senior,117,0.857,0,0,3,3,0,9.1,3.7,0
+41,2025-04,Atlas,Platform,Engineer,Junior,23,0.952,0,0,1,4,0,8.7,3.2,1
+42,2025-04,Atlas,Platform,DevOps,Junior,15,0.952,0,0,1,4,0,2.8,0.0,0
+43,2025-04,Atlas,Platform,Product Manager,Senior,89,0.905,1,0,1,6,0,4.4,0.0,0
+44,2025-04,Atlas,Platform,DevOps,Senior,55,0.905,0,1,1,5,0,9.9,2.5,0
+45,2025-04,Atlas,Platform,DevOps,Mid,31,0.952,1,0,0,3,1,3.6,2.1,0
+46,2025-04,Atlas,Platform,Product Manager,Mid,37,0.857,1,1,1,3,0,24.2,9.1,0
+47,2025-04,Atlas,Platform,Engineer,Junior,21,0.905,1,0,1,3,2,0.0,3.9,0
+48,2025-04,Atlas,Platform,Engineer,Junior,19,0.857,3,0,0,8,1,0.2,7.0,0
+49,2025-04,Atlas,Platform,QA,Junior,13,0.905,2,0,0,2,1,0.0,4.8,0
+50,2025-04,Comet,Product,DevOps,Mid,30,0.905,2,0,0,5,0,10.4,0.0,0
+51,2025-04,Comet,Product,QA,Junior,21,1.0,0,0,0,7,0,0.2,0.0,0
+52,2025-04,Comet,Product,Product Manager,Mid,14,0.952,1,0,0,5,0,3.1,0.0,0
+53,2025-04,Comet,Product,DevOps,Junior,3,0.667,4,2,1,8,2,0.7,1.4,0
+54,2025-04,Comet,Product,QA,Senior,84,0.952,0,1,0,2,1,16.4,7.4,0
+55,2025-04,Comet,Product,QA,Mid,58,0.857,0,2,1,2,1,7.6,2.3,0
+56,2025-04,Lumen,Growth,Engineer,Junior,7,1.0,0,0,0,4,1,4.0,7.1,0
+57,2025-04,Lumen,Growth,DevOps,Mid,27,0.857,3,0,0,5,0,9.5,13.4,0
+58,2025-04,Lumen,Growth,Product Manager,Senior,76,0.952,1,0,0,3,0,8.4,4.8,0
+59,2025-04,Lumen,Growth,Designer,Mid,50,0.952,0,0,1,5,0,4.7,3.8,0
+60,2025-04,Lumen,Growth,Engineer,Junior,7,1.0,0,0,0,4,1,0.8,0.0,0
+61,2025-04,Lumen,Growth,Product Manager,Mid,16,0.905,0,1,1,3,1,11.7,0.0,0
+62,2025-04,Lumen,Growth,Engineer,Mid,33,0.857,1,0,2,4,1,5.3,7.6,0
+63,2025-04,Zephyr,Data,QA,Junior,14,0.952,1,0,0,3,0,3.1,3.9,0
+64,2025-04,Zephyr,Data,QA,Mid,37,0.952,0,1,0,2,0,2.6,6.5,0
+65,2025-04,Zephyr,Data,Designer,Senior,46,0.857,3,0,0,4,1,7.7,10.0,0
+66,2025-04,Zephyr,Data,Product Manager,Mid,49,1.0,0,0,0,5,0,2.9,0.0,0
+67,2025-04,Zephyr,Data,Engineer,Junior,21,0.905,1,1,0,1,2,6.4,7.4,0
+68,2025-04,Zephyr,Data,DevOps,Senior,97,0.952,1,0,0,4,0,2.7,0.0,1
+69,2025-04,Zephyr,Data,Designer,Senior,76,0.952,0,0,1,3,0,12.0,11.5,0
+70,2025-04,Zephyr,Data,QA,Senior,58,0.952,1,0,0,5,2,10.9,5.9,0
+71,2025-04,Zephyr,Data,Engineer,Mid,38,0.952,0,0,1,3,0,5.4,0.0,0
+72,2025-04,Halcyon,Infra,Engineer,Mid,12,1.0,0,0,0,4,0,6.0,0.0,0
+73,2025-04,Halcyon,Infra,DevOps,Senior,93,0.952,1,0,0,7,1,1.0,3.6,0
+74,2025-04,Halcyon,Infra,Engineer,Mid,18,1.0,0,0,0,7,0,2.2,0.0,0
+75,2025-04,Halcyon,Infra,Designer,Junior,11,0.952,0,1,0,4,1,12.6,7.0,0
+76,2025-04,Halcyon,Infra,Product Manager,Junior,21,1.0,0,0,0,6,1,6.5,0.0,0
+77,2025-04,Halcyon,Infra,Product Manager,Junior,7,0.905,0,1,1,1,1,0.0,1.5,0
+78,2025-04,Halcyon,Infra,QA,Mid,51,0.857,2,0,1,6,2,13.1,4.0,0
+79,2025-04,Halcyon,Infra,Engineer,Mid,42,0.952,0,1,0,2,3,12.7,4.8,0
+80,2025-04,Halcyon,Infra,Engineer,Mid,37,0.81,2,2,0,7,3,1.7,2.9,0
+81,2025-04,Halcyon,Infra,DevOps,Senior,70,0.905,0,0,2,8,1,7.5,2.3,1
+82,2025-04,Aurora,Platform,DevOps,Mid,49,1.0,0,0,0,1,0,10.0,0.0,0
+83,2025-04,Aurora,Platform,DevOps,Junior,4,0.952,0,0,1,6,0,6.2,7.5,0
+84,2025-04,Aurora,Platform,Engineer,Junior,11,0.905,0,0,2,9,0,0.0,0.0,0
+85,2025-04,Aurora,Platform,Engineer,Junior,3,0.81,3,0,1,5,0,0.0,2.7,0
+86,2025-04,Aurora,Platform,Engineer,Mid,22,0.905,2,0,0,5,2,4.8,6.2,1
+87,2025-04,Aurora,Platform,Designer,Mid,19,0.905,1,0,1,5,2,5.3,12.8,0
+88,2025-04,Griffin,Product,Engineer,Mid,41,0.952,1,0,0,2,1,6.2,1.1,0
+89,2025-04,Griffin,Product,DevOps,Mid,29,0.952,1,0,0,6,0,13.7,3.2,0
+90,2025-04,Griffin,Product,Product Manager,Mid,47,0.905,1,0,1,7,0,0.0,5.0,0
+91,2025-04,Griffin,Product,Engineer,Mid,17,0.952,0,0,1,4,0,12.0,0.6,1
+92,2025-04,Griffin,Product,Engineer,Junior,2,0.905,2,0,0,6,1,10.9,2.1,1
+93,2025-04,Griffin,Product,Engineer,Senior,70,1.0,0,0,0,2,0,10.9,4.0,0
+94,2025-04,Griffin,Product,Designer,Senior,119,1.0,0,0,0,2,1,13.7,0.0,0
+95,2025-04,Griffin,Product,Engineer,Mid,30,0.857,2,0,1,4,0,17.6,0.4,0
+96,2025-04,Juniper,Growth,DevOps,Junior,10,0.714,4,1,1,3,0,9.6,17.3,1
+97,2025-04,Juniper,Growth,Product Manager,Junior,20,0.81,2,1,1,6,0,1.4,3.5,0
+98,2025-04,Juniper,Growth,Engineer,Mid,34,0.905,0,1,1,6,0,13.6,0.0,0
+99,2025-04,Juniper,Growth,Engineer,Junior,21,0.952,1,0,0,5,3,2.1,0.0,1
+100,2025-04,Juniper,Growth,Designer,Junior,7,0.905,1,1,0,4,1,5.4,1.5,1
+101,2025-04,Juniper,Growth,Product Manager,Senior,40,0.952,1,0,0,4,0,12.8,16.1,0
+102,2025-04,Juniper,Growth,QA,Mid,48,0.952,1,0,0,4,2,7.8,0.0,0
+103,2025-04,Juniper,Growth,DevOps,Senior,64,0.905,1,1,0,5,0,10.8,3.1,0
+104,2025-04,Kestrel,Data,DevOps,Junior,15,0.81,1,2,1,4,0,9.7,8.7,0
+105,2025-04,Kestrel,Data,Designer,Mid,26,1.0,0,0,0,2,0,6.6,8.7,0
+106,2025-04,Kestrel,Data,Product Manager,Mid,46,0.905,1,0,1,2,0,5.5,0.0,0
+107,2025-04,Kestrel,Data,Engineer,Senior,59,0.81,3,0,1,6,1,17.9,6.9,0
+108,2025-04,Kestrel,Data,DevOps,Mid,50,0.905,0,0,2,6,1,16.4,5.3,1
+109,2025-04,Kestrel,Data,Product Manager,Senior,105,0.667,6,1,0,4,0,6.8,4.6,0
+110,2025-04,Kestrel,Data,Engineer,Mid,54,1.0,0,0,0,2,0,9.6,2.0,0
+111,2025-04,Kestrel,Data,Product Manager,Senior,54,0.905,1,0,1,4,0,3.2,2.4,1
+112,2025-04,Kestrel,Data,Designer,Junior,22,0.952,0,1,0,5,0,0.0,0.0,1
+113,2025-04,Meridian,Infra,Engineer,Senior,98,0.952,0,0,1,4,0,0.0,5.2,0
+114,2025-04,Meridian,Infra,Engineer,Mid,53,0.857,2,1,0,2,0,7.0,2.3,0
+115,2025-04,Meridian,Infra,DevOps,Mid,45,1.0,0,0,0,8,1,17.5,6.3,0
+116,2025-04,Meridian,Infra,Engineer,Junior,18,0.667,5,1,1,4,0,10.5,5.9,1
+117,2025-04,Meridian,Infra,Engineer,Junior,21,0.952,1,0,0,3,0,7.5,0.0,0
+118,2025-04,Meridian,Infra,DevOps,Mid,18,0.952,1,0,0,7,0,6.4,0.0,0
+119,2025-04,Meridian,Infra,Engineer,Mid,28,0.905,1,0,1,6,0,11.0,0.0,0
+120,2025-04,Meridian,Infra,Product Manager,Junior,7,1.0,0,0,0,4,0,4.2,0.0,0
+121,2025-04,Meridian,Infra,DevOps,Mid,59,0.905,0,1,1,5,0,1.5,5.2,0
+122,2025-04,Solstice,Platform,Engineer,Mid,22,0.905,0,0,2,5,0,15.2,3.6,0
+123,2025-04,Solstice,Platform,Product Manager,Junior,8,0.905,1,0,1,5,0,0.0,0.0,0
+124,2025-04,Solstice,Platform,Product Manager,Mid,53,1.0,0,0,0,6,0,2.0,10.2,0
+125,2025-04,Solstice,Platform,Designer,Senior,75,0.952,0,0,1,4,0,5.4,0.0,0
+126,2025-04,Solstice,Platform,DevOps,Senior,79,0.952,1,0,0,4,1,3.2,0.0,0
+127,2025-04,Solstice,Platform,QA,Junior,7,0.905,2,0,0,3,1,0.0,0.0,0
+128,2025-04,Solstice,Platform,Engineer,Junior,11,0.952,0,0,1,6,2,2.3,2.0,0
+1,2025-05,Phoenix,Platform,DevOps,Mid,32,0.905,2,0,0,6,0,5.2,9.4,0
+2,2025-05,Phoenix,Platform,DevOps,Senior,79,1.0,0,0,0,6,0,8.7,0.0,0
+3,2025-05,Phoenix,Platform,QA,Mid,31,1.0,0,0,0,4,0,12.7,0.0,0
+4,2025-05,Phoenix,Platform,DevOps,Junior,20,0.857,2,1,0,6,0,4.9,7.9,0
+5,2025-05,Phoenix,Platform,Engineer,Senior,101,0.81,3,0,1,5,3,12.8,0.2,0
+6,2025-05,Phoenix,Platform,Engineer,Junior,18,1.0,0,0,0,2,1,3.0,12.6,0
+7,2025-05,Falcon,Product,Designer,Mid,21,0.81,2,2,0,5,1,16.1,5.9,1
+8,2025-05,Falcon,Product,Product Manager,Mid,19,0.857,3,0,0,3,2,4.2,3.8,0
+9,2025-05,Falcon,Product,Engineer,Senior,111,1.0,0,0,0,5,2,16.6,0.0,0
+10,2025-05,Falcon,Product,Product Manager,Junior,4,0.905,1,0,1,7,1,6.8,0.0,0
+11,2025-05,Falcon,Product,Engineer,Mid,39,1.0,0,0,0,2,1,4.1,5.3,0
+12,2025-05,Falcon,Product,QA,Mid,15,0.857,0,2,1,3,0,6.6,1.7,0
+13,2025-05,Falcon,Product,DevOps,Junior,14,0.857,2,0,1,2,1,3.8,6.5,0
+14,2025-05,Orion,Growth,QA,Junior,19,0.952,1,0,0,5,1,0.0,0.0,0
+15,2025-05,Orion,Growth,Engineer,Senior,91,0.905,1,0,1,8,0,5.5,11.5,0
+16,2025-05,Orion,Growth,QA,Junior,3,0.81,4,0,0,4,0,4.1,0.0,0
+17,2025-05,Orion,Growth,Engineer,Junior,4,0.905,2,0,0,2,0,9.7,1.9,0
+18,2025-05,Orion,Growth,Designer,Mid,29,0.857,2,1,0,4,0,16.2,8.7,0
+19,2025-05,Orion,Growth,Engineer,Junior,21,0.857,3,0,0,5,1,4.4,0.0,0
+20,2025-05,Orion,Growth,Engineer,Junior,2,0.857,2,1,0,5,0,8.9,0.0,0
+21,2025-05,Orion,Growth,Designer,Mid,38,0.905,1,1,0,5,3,0.8,6.9,1
+22,2025-05,Nimbus,Data,Engineer,Mid,18,0.952,1,0,0,5,0,3.4,7.2,0
+23,2025-05,Nimbus,Data,QA,Junior,5,0.81,2,0,2,3,2,11.2,3.5,0
+24,2025-05,Nimbus,Data,QA,Junior,3,0.857,1,2,0,4,2,7.1,0.0,0
+25,2025-05,Nimbus,Data,Engineer,Junior,4,0.952,0,0,1,2,1,1.1,10.5,0
+26,2025-05,Nimbus,Data,Engineer,Mid,33,1.0,0,0,0,11,0,6.7,3.6,0
+27,2025-05,Nimbus,Data,DevOps,Junior,13,0.857,3,0,0,2,0,1.7,4.0,0
+28,2025-05,Nimbus,Data,Engineer,Junior,20,0.81,3,1,0,6,0,7.6,0.0,0
+29,2025-05,Nimbus,Data,Engineer,Mid,46,0.905,2,0,0,4,1,7.9,10.2,0
+30,2025-05,Nimbus,Data,Product Manager,Junior,22,1.0,0,0,0,5,0,4.1,0.0,0
+31,2025-05,Vertex,Infra,DevOps,Senior,60,0.952,1,0,0,5,0,8.4,0.0,0
+32,2025-05,Vertex,Infra,Designer,Junior,13,0.905,2,0,0,3,0,7.2,0.0,0
+33,2025-05,Vertex,Infra,Product Manager,Senior,111,0.762,1,1,3,3,0,6.7,0.0,1
+34,2025-05,Vertex,Infra,DevOps,Mid,29,0.952,0,0,1,2,1,11.0,1.0,0
+35,2025-05,Vertex,Infra,Engineer,Junior,7,0.952,0,1,0,4,1,5.6,0.0,1
+36,2025-05,Vertex,Infra,DevOps,Mid,53,0.857,0,2,1,4,0,12.8,1.9,0
+37,2025-05,Vertex,Infra,Engineer,Mid,32,0.952,1,0,0,5,1,8.8,0.0,0
+38,2025-05,Vertex,Infra,Engineer,Mid,17,1.0,0,0,0,7,0,6.3,11.8,0
+39,2025-05,Vertex,Infra,Engineer,Senior,96,0.81,1,1,2,6,1,7.8,4.4,0
+40,2025-05,Vertex,Infra,DevOps,Senior,117,0.952,1,0,0,6,0,11.8,1.4,0
+41,2025-05,Atlas,Platform,Engineer,Junior,23,0.905,1,1,0,4,2,0.0,0.0,0
+42,2025-05,Atlas,Platform,DevOps,Junior,15,1.0,0,0,0,2,1,8.6,2.1,0
+43,2025-05,Atlas,Platform,Product Manager,Senior,89,0.952,0,0,1,8,0,2.1,0.0,0
+44,2025-05,Atlas,Platform,DevOps,Senior,55,0.952,0,0,1,3,1,16.4,0.0,0
+45,2025-05,Atlas,Platform,DevOps,Mid,31,1.0,0,0,0,4,0,11.1,0.0,0
+46,2025-05,Atlas,Platform,Product Manager,Mid,37,0.857,2,1,0,6,1,2.9,1.9,0
+47,2025-05,Atlas,Platform,Engineer,Junior,21,0.905,2,0,0,0,0,0.0,0.0,0
+48,2025-05,Atlas,Platform,Engineer,Junior,19,0.952,0,0,1,7,0,5.4,0.0,0
+49,2025-05,Atlas,Platform,QA,Junior,13,0.952,0,0,1,5,0,3.3,0.0,0
+50,2025-05,Comet,Product,DevOps,Mid,30,1.0,0,0,0,8,0,7.7,5.0,0
+51,2025-05,Comet,Product,QA,Junior,21,1.0,0,0,0,5,0,4.4,0.0,0
+52,2025-05,Comet,Product,Product Manager,Mid,14,0.952,1,0,0,5,0,7.4,4.2,0
+53,2025-05,Comet,Product,DevOps,Junior,3,0.857,1,1,1,4,3,7.7,9.2,1
+54,2025-05,Comet,Product,QA,Senior,84,1.0,0,0,0,3,1,0.0,6.0,0
+55,2025-05,Comet,Product,QA,Mid,58,0.952,0,1,0,1,4,7.5,2.0,0
+56,2025-05,Lumen,Growth,Engineer,Junior,7,0.762,2,2,1,5,2,0.8,2.1,1
+57,2025-05,Lumen,Growth,DevOps,Mid,27,0.667,6,0,1,4,0,0.0,7.6,1
+58,2025-05,Lumen,Growth,Product Manager,Senior,76,1.0,0,0,0,3,0,2.6,0.0,0
+59,2025-05,Lumen,Growth,Designer,Mid,50,0.952,1,0,0,3,0,8.0,0.0,0
+60,2025-05,Lumen,Growth,Engineer,Junior,7,0.952,0,1,0,6,3,0.0,3.2,0
+61,2025-05,Lumen,Growth,Product Manager,Mid,16,1.0,0,0,0,7,0,17.2,0.0,0
+62,2025-05,Lumen,Growth,Engineer,Mid,33,0.952,0,0,1,5,2,1.2,10.3,0
+63,2025-05,Zephyr,Data,QA,Junior,14,0.905,2,0,0,5,2,0.0,7.1,0
+64,2025-05,Zephyr,Data,QA,Mid,37,0.857,2,0,1,4,1,14.9,0.0,1
+65,2025-05,Zephyr,Data,Designer,Senior,46,0.905,2,0,0,5,2,13.4,0.4,0
+66,2025-05,Zephyr,Data,Product Manager,Mid,49,0.952,0,0,1,4,0,2.5,0.0,0
+67,2025-05,Zephyr,Data,Engineer,Junior,21,0.952,1,0,0,4,1,13.6,1.7,0
+68,2025-05,Zephyr,Data,DevOps,Senior,97,0.905,2,0,0,6,0,5.7,5.7,0
+69,2025-05,Zephyr,Data,Designer,Senior,76,0.905,1,0,1,5,0,8.2,0.0,0
+70,2025-05,Zephyr,Data,QA,Senior,58,0.857,1,1,1,5,0,13.9,0.0,0
+71,2025-05,Zephyr,Data,Engineer,Mid,38,0.952,0,0,1,4,1,8.1,1.9,0
+72,2025-05,Halcyon,Infra,Engineer,Mid,12,0.857,1,0,2,4,0,11.2,0.0,0
+73,2025-05,Halcyon,Infra,DevOps,Senior,93,0.952,1,0,0,5,0,1.5,0.0,0
+74,2025-05,Halcyon,Infra,Engineer,Mid,18,0.952,0,0,1,2,0,8.4,0.0,0
+75,2025-05,Halcyon,Infra,Designer,Junior,11,0.762,3,2,0,3,0,3.3,0.0,0
+76,2025-05,Halcyon,Infra,Product Manager,Junior,21,0.952,0,0,1,2,1,2.9,2.9,0
+77,2025-05,Halcyon,Infra,Product Manager,Junior,7,0.81,1,1,2,4,1,0.0,2.6,0
+78,2025-05,Halcyon,Infra,QA,Mid,51,0.762,3,0,2,6,2,8.2,2.4,1
+79,2025-05,Halcyon,Infra,Engineer,Mid,42,1.0,0,0,0,6,2,1.5,9.9,1
+80,2025-05,Halcyon,Infra,Engineer,Mid,37,0.905,1,1,0,3,0,9.0,0.0,1
+81,2025-05,Halcyon,Infra,DevOps,Senior,70,0.905,1,1,0,6,1,3.8,0.0,0
+82,2025-05,Aurora,Platform,DevOps,Mid,49,0.857,2,1,0,10,0,16.5,10.8,0
+83,2025-05,Aurora,Platform,DevOps,Junior,4,1.0,0,0,0,5,0,0.0,10.3,0
+84,2025-05,Aurora,Platform,Engineer,Junior,11,0.905,1,0,1,5,0,5.0,7.6,0
+85,2025-05,Aurora,Platform,Engineer,Junior,3,0.524,8,1,1,5,2,1.8,0.0,1
+86,2025-05,Aurora,Platform,Engineer,Mid,22,0.81,3,0,1,3,1,8.2,7.0,0
+87,2025-05,Aurora,Platform,Designer,Mid,19,0.905,0,0,2,7,0,7.0,0.0,0
+88,2025-05,Griffin,Product,Engineer,Mid,41,1.0,0,0,0,2,1,8.8,0.0,0
+89,2025-05,Griffin,Product,DevOps,Mid,29,0.952,0,0,1,5,0,0.5,0.4,0
+90,2025-05,Griffin,Product,Product Manager,Mid,47,0.952,1,0,0,5,2,1.9,5.9,0
+91,2025-05,Griffin,Product,Engineer,Mid,17,1.0,0,0,0,3,0,5.9,1.2,0
+92,2025-05,Griffin,Product,Engineer,Junior,2,0.857,1,0,2,3,0,8.5,0.0,0
+93,2025-05,Griffin,Product,Engineer,Senior,70,0.905,1,0,1,4,0,15.9,2.9,0
+94,2025-05,Griffin,Product,Designer,Senior,119,1.0,0,0,0,4,0,13.9,0.0,1
+95,2025-05,Griffin,Product,Engineer,Mid,30,0.905,2,0,0,6,1,7.6,0.0,0
+96,2025-05,Juniper,Growth,DevOps,Junior,10,0.762,4,0,1,7,0,10.2,0.0,1
+97,2025-05,Juniper,Growth,Product Manager,Junior,20,0.81,2,1,1,2,0,3.3,5.9,0
+98,2025-05,Juniper,Growth,Engineer,Mid,34,0.905,2,0,0,3,1,9.0,0.0,1
+99,2025-05,Juniper,Growth,Engineer,Junior,21,0.857,2,0,1,6,1,0.0,0.1,0
+100,2025-05,Juniper,Growth,Designer,Junior,7,0.952,1,0,0,5,0,1.2,19.3,0
+101,2025-05,Juniper,Growth,Product Manager,Senior,40,1.0,0,0,0,7,1,12.9,5.6,0
+102,2025-05,Juniper,Growth,QA,Mid,48,0.81,3,0,1,4,2,7.5,3.2,0
+103,2025-05,Juniper,Growth,DevOps,Senior,64,1.0,0,0,0,3,1,7.6,1.5,0
+104,2025-05,Kestrel,Data,DevOps,Junior,15,0.905,1,0,1,2,0,5.7,0.0,0
+105,2025-05,Kestrel,Data,Designer,Mid,26,1.0,0,0,0,6,2,3.2,0.0,0
+106,2025-05,Kestrel,Data,Product Manager,Mid,46,1.0,0,0,0,3,0,8.4,0.0,0
+107,2025-05,Kestrel,Data,Engineer,Senior,59,0.952,1,0,0,3,0,5.9,0.0,0
+108,2025-05,Kestrel,Data,DevOps,Mid,50,0.81,1,0,3,6,1,10.9,2.3,1
+109,2025-05,Kestrel,Data,Product Manager,Senior,105,0.905,1,1,0,5,1,4.6,6.2,0
+110,2025-05,Kestrel,Data,Engineer,Mid,54,0.952,1,0,0,3,0,0.0,0.0,0
+111,2025-05,Kestrel,Data,Product Manager,Senior,54,0.81,1,2,1,5,1,8.5,1.4,0
+112,2025-05,Kestrel,Data,Designer,Junior,22,0.762,3,1,1,5,0,6.8,4.6,0
+113,2025-05,Meridian,Infra,Engineer,Senior,98,1.0,0,0,0,4,0,0.7,3.3,0
+114,2025-05,Meridian,Infra,Engineer,Mid,53,0.905,2,0,0,1,2,0.2,4.3,0
+115,2025-05,Meridian,Infra,DevOps,Mid,45,1.0,0,0,0,4,0,3.7,1.6,0
+116,2025-05,Meridian,Infra,Engineer,Junior,18,0.714,4,1,1,3,2,1.8,7.5,0
+117,2025-05,Meridian,Infra,Engineer,Junior,21,0.857,0,2,1,3,2,3.9,0.0,0
+118,2025-05,Meridian,Infra,DevOps,Mid,18,0.762,2,2,1,5,2,5.7,0.0,0
+119,2025-05,Meridian,Infra,Engineer,Mid,28,0.952,1,0,0,2,0,2.9,0.0,0
+120,2025-05,Meridian,Infra,Product Manager,Junior,7,0.952,1,0,0,2,0,2.3,4.2,0
+121,2025-05,Meridian,Infra,DevOps,Mid,59,0.905,2,0,0,7,0,6.2,0.0,0
+122,2025-05,Solstice,Platform,Engineer,Mid,22,1.0,0,0,0,6,1,14.7,4.9,0
+123,2025-05,Solstice,Platform,Product Manager,Junior,8,0.857,1,1,1,3,0,0.0,1.3,1
+124,2025-05,Solstice,Platform,Product Manager,Mid,53,0.857,1,1,1,7,0,1.0,0.0,0
+125,2025-05,Solstice,Platform,Designer,Senior,75,1.0,0,0,0,6,0,12.5,0.0,0
+126,2025-05,Solstice,Platform,DevOps,Senior,79,0.905,2,0,0,7,2,9.2,6.4,0
+127,2025-05,Solstice,Platform,QA,Junior,7,0.524,7,3,0,4,3,6.7,5.6,1
+128,2025-05,Solstice,Platform,Engineer,Junior,11,0.905,1,0,1,3,3,0.0,10.0,0
+1,2025-06,Phoenix,Platform,DevOps,Mid,32,0.857,2,1,0,6,0,13.4,1.7,1
+2,2025-06,Phoenix,Platform,DevOps,Senior,79,0.857,1,2,0,4,0,9.7,10.5,0
+3,2025-06,Phoenix,Platform,QA,Mid,31,1.0,0,0,0,5,1,10.2,0.0,0
+4,2025-06,Phoenix,Platform,DevOps,Junior,20,0.905,2,0,0,4,3,0.0,0.6,0
+5,2025-06,Phoenix,Platform,Engineer,Senior,101,0.762,4,0,1,4,0,6.9,1.7,0
+6,2025-06,Phoenix,Platform,Engineer,Junior,18,0.762,4,1,0,6,0,1.4,0.0,0
+7,2025-06,Falcon,Product,Designer,Mid,21,1.0,0,0,0,3,0,4.0,0.0,0
+8,2025-06,Falcon,Product,Product Manager,Mid,19,1.0,0,0,0,5,1,10.2,0.0,0
+9,2025-06,Falcon,Product,Engineer,Senior,111,0.952,1,0,0,3,0,11.0,9.4,0
+10,2025-06,Falcon,Product,Product Manager,Junior,4,0.905,2,0,0,6,0,0.0,1.3,0
+11,2025-06,Falcon,Product,Engineer,Mid,39,1.0,0,0,0,6,0,11.8,2.6,0
+12,2025-06,Falcon,Product,QA,Mid,15,0.857,1,1,1,6,0,5.6,3.7,0
+13,2025-06,Falcon,Product,DevOps,Junior,14,0.905,0,1,1,4,1,6.8,0.0,0
+14,2025-06,Orion,Growth,QA,Junior,19,0.952,0,0,1,0,1,9.4,7.7,1
+15,2025-06,Orion,Growth,Engineer,Senior,91,0.81,3,1,0,3,1,13.7,3.0,0
+16,2025-06,Orion,Growth,QA,Junior,3,0.857,0,2,1,6,1,8.3,2.5,0
+17,2025-06,Orion,Growth,Engineer,Junior,4,0.857,2,0,1,4,0,9.9,0.0,0
+18,2025-06,Orion,Growth,Designer,Mid,29,0.81,3,1,0,7,0,7.2,5.5,0
+19,2025-06,Orion,Growth,Engineer,Junior,21,0.857,1,1,1,8,1,1.6,8.5,0
+20,2025-06,Orion,Growth,Engineer,Junior,2,0.857,2,0,1,3,2,10.1,0.0,1
+21,2025-06,Orion,Growth,Designer,Mid,38,0.905,1,0,1,3,0,5.3,0.0,0
+22,2025-06,Nimbus,Data,Engineer,Mid,18,0.952,0,1,0,6,1,7.3,0.0,0
+23,2025-06,Nimbus,Data,QA,Junior,5,0.905,2,0,0,2,1,0.0,1.7,0
+24,2025-06,Nimbus,Data,QA,Junior,3,1.0,0,0,0,2,1,5.2,6.3,0
+25,2025-06,Nimbus,Data,Engineer,Junior,4,0.952,0,0,1,2,0,1.0,8.7,0
+26,2025-06,Nimbus,Data,Engineer,Mid,33,0.857,3,0,0,4,2,5.2,0.0,0
+27,2025-06,Nimbus,Data,DevOps,Junior,13,0.81,2,2,0,5,2,0.0,4.3,0
+28,2025-06,Nimbus,Data,Engineer,Junior,20,0.667,5,2,0,7,2,0.0,0.7,1
+29,2025-06,Nimbus,Data,Engineer,Mid,46,0.952,0,0,1,3,0,0.0,2.8,0
+30,2025-06,Nimbus,Data,Product Manager,Junior,22,0.952,0,0,1,2,0,10.5,1.2,0
+31,2025-06,Vertex,Infra,DevOps,Senior,60,0.905,1,0,1,5,2,5.1,4.6,0
+32,2025-06,Vertex,Infra,Designer,Junior,13,0.81,4,0,0,5,1,9.3,4.5,1
+33,2025-06,Vertex,Infra,Product Manager,Senior,111,1.0,0,0,0,1,2,18.8,0.5,0
+34,2025-06,Vertex,Infra,DevOps,Mid,29,0.857,1,1,1,3,2,3.5,7.4,1
+35,2025-06,Vertex,Infra,Engineer,Junior,7,1.0,0,0,0,7,0,6.0,1.4,0
+36,2025-06,Vertex,Infra,DevOps,Mid,53,0.857,1,1,1,5,3,8.1,8.2,0
+37,2025-06,Vertex,Infra,Engineer,Mid,32,1.0,0,0,0,7,0,18.3,12.1,0
+38,2025-06,Vertex,Infra,Engineer,Mid,17,0.905,2,0,0,4,0,8.1,0.0,0
+39,2025-06,Vertex,Infra,Engineer,Senior,96,0.857,3,0,0,6,2,18.6,0.0,0
+40,2025-06,Vertex,Infra,DevOps,Senior,117,0.905,1,0,1,7,0,2.9,0.0,0
+41,2025-06,Atlas,Platform,Engineer,Junior,23,0.952,0,0,1,7,0,3.9,0.0,0
+42,2025-06,Atlas,Platform,DevOps,Junior,15,1.0,0,0,0,8,0,4.3,7.8,0
+43,2025-06,Atlas,Platform,Product Manager,Senior,89,1.0,0,0,0,2,2,16.3,0.0,0
+44,2025-06,Atlas,Platform,DevOps,Senior,55,0.762,4,0,1,2,1,11.7,5.1,0
+45,2025-06,Atlas,Platform,DevOps,Mid,31,1.0,0,0,0,3,1,5.6,0.0,0
+46,2025-06,Atlas,Platform,Product Manager,Mid,37,0.857,1,2,0,3,1,8.1,0.0,0
+47,2025-06,Atlas,Platform,Engineer,Junior,21,0.952,0,0,1,5,0,1.3,4.4,0
+48,2025-06,Atlas,Platform,Engineer,Junior,19,0.952,1,0,0,6,0,7.0,2.8,0
+49,2025-06,Atlas,Platform,QA,Junior,13,0.952,1,0,0,6,0,3.3,4.5,0
+50,2025-06,Comet,Product,DevOps,Mid,30,0.905,1,1,0,3,0,7.1,5.1,0
+51,2025-06,Comet,Product,QA,Junior,21,0.905,0,0,2,3,0,12.6,0.0,0
+52,2025-06,Comet,Product,Product Manager,Mid,14,0.952,1,0,0,4,0,7.6,1.3,1
+53,2025-06,Comet,Product,DevOps,Junior,3,0.762,5,0,0,5,3,6.1,6.9,0
+54,2025-06,Comet,Product,QA,Senior,84,1.0,0,0,0,8,0,4.0,1.0,0
+55,2025-06,Comet,Product,QA,Mid,58,0.762,2,3,0,8,2,4.1,13.1,0
+56,2025-06,Lumen,Growth,Engineer,Junior,7,0.952,0,1,0,7,0,4.7,5.4,0
+57,2025-06,Lumen,Growth,DevOps,Mid,27,0.952,0,0,1,5,1,5.6,4.1,0
+58,2025-06,Lumen,Growth,Product Manager,Senior,76,0.952,0,1,0,7,0,9.9,4.8,1
+59,2025-06,Lumen,Growth,Designer,Mid,50,0.952,0,0,1,5,0,6.0,0.0,1
+60,2025-06,Lumen,Growth,Engineer,Junior,7,0.714,3,1,2,7,0,12.2,7.0,1
+61,2025-06,Lumen,Growth,Product Manager,Mid,16,0.905,2,0,0,4,2,14.1,0.0,0
+62,2025-06,Lumen,Growth,Engineer,Mid,33,0.952,0,0,1,3,0,13.2,6.4,1
+63,2025-06,Zephyr,Data,QA,Junior,14,0.905,1,1,0,0,1,3.2,0.0,0
+64,2025-06,Zephyr,Data,QA,Mid,37,1.0,0,0,0,8,1,5.4,0.0,0
+65,2025-06,Zephyr,Data,Designer,Senior,46,0.857,3,0,0,1,1,4.0,11.0,0
+66,2025-06,Zephyr,Data,Product Manager,Mid,49,0.952,1,0,0,5,0,3.2,3.7,0
+67,2025-06,Zephyr,Data,Engineer,Junior,21,0.905,1,1,0,4,1,0.0,2.8,0
+68,2025-06,Zephyr,Data,DevOps,Senior,97,0.952,0,0,1,6,0,9.7,0.0,0
+69,2025-06,Zephyr,Data,Designer,Senior,76,0.952,0,1,0,4,1,13.4,1.8,0
+70,2025-06,Zephyr,Data,QA,Senior,58,0.952,1,0,0,5,1,4.6,1.5,0
+71,2025-06,Zephyr,Data,Engineer,Mid,38,1.0,0,0,0,4,1,2.7,3.5,0
+72,2025-06,Halcyon,Infra,Engineer,Mid,12,0.905,2,0,0,4,2,8.3,3.1,0
+73,2025-06,Halcyon,Infra,DevOps,Senior,93,0.905,1,0,1,6,1,8.0,0.6,1
+74,2025-06,Halcyon,Infra,Engineer,Mid,18,0.952,1,0,0,2,0,1.7,0.0,0
+75,2025-06,Halcyon,Infra,Designer,Junior,11,0.81,2,0,2,5,0,6.3,1.6,0
+76,2025-06,Halcyon,Infra,Product Manager,Junior,21,0.905,0,1,1,2,1,0.0,4.0,1
+77,2025-06,Halcyon,Infra,Product Manager,Junior,7,0.905,1,0,1,7,0,4.9,0.0,1
+78,2025-06,Halcyon,Infra,QA,Mid,51,0.857,3,0,0,7,1,0.2,3.4,0
+79,2025-06,Halcyon,Infra,Engineer,Mid,42,0.952,1,0,0,6,0,10.4,5.1,0
+80,2025-06,Halcyon,Infra,Engineer,Mid,37,0.905,1,1,0,2,3,7.1,7.6,0
+81,2025-06,Halcyon,Infra,DevOps,Senior,70,0.81,3,0,1,5,1,11.0,0.0,1
+82,2025-06,Aurora,Platform,DevOps,Mid,49,0.952,0,0,1,3,0,1.0,4.1,0
+83,2025-06,Aurora,Platform,DevOps,Junior,4,0.905,1,1,0,4,1,6.3,4.1,0
+84,2025-06,Aurora,Platform,Engineer,Junior,11,0.952,0,0,1,6,0,6.7,0.0,0
+85,2025-06,Aurora,Platform,Engineer,Junior,3,0.857,3,0,0,7,0,3.6,10.2,0
+86,2025-06,Aurora,Platform,Engineer,Mid,22,0.905,1,0,1,4,2,9.4,0.0,0
+87,2025-06,Aurora,Platform,Designer,Mid,19,0.857,2,1,0,6,0,0.0,12.3,0
+88,2025-06,Griffin,Product,Engineer,Mid,41,0.857,2,0,1,6,2,9.5,0.0,1
+89,2025-06,Griffin,Product,DevOps,Mid,29,1.0,0,0,0,3,0,8.1,9.8,0
+90,2025-06,Griffin,Product,Product Manager,Mid,47,0.905,1,1,0,1,2,6.2,0.0,0
+91,2025-06,Griffin,Product,Engineer,Mid,17,1.0,0,0,0,9,0,5.6,6.3,0
+92,2025-06,Griffin,Product,Engineer,Junior,2,0.905,2,0,0,2,1,7.5,0.0,0
+93,2025-06,Griffin,Product,Engineer,Senior,70,1.0,0,0,0,1,0,6.1,1.9,0
+94,2025-06,Griffin,Product,Designer,Senior,119,1.0,0,0,0,4,0,9.1,0.0,0
+95,2025-06,Griffin,Product,Engineer,Mid,30,1.0,0,0,0,4,1,15.3,3.4,0
+96,2025-06,Juniper,Growth,DevOps,Junior,10,0.952,1,0,0,3,2,2.6,6.2,0
+97,2025-06,Juniper,Growth,Product Manager,Junior,20,0.905,1,0,1,5,1,7.0,0.0,0
+98,2025-06,Juniper,Growth,Engineer,Mid,34,0.81,2,1,1,5,0,0.0,4.3,1
+99,2025-06,Juniper,Growth,Engineer,Junior,21,0.905,2,0,0,6,1,3.4,2.2,0
+100,2025-06,Juniper,Growth,Designer,Junior,7,0.952,1,0,0,3,1,14.0,10.3,1
+101,2025-06,Juniper,Growth,Product Manager,Senior,40,0.952,0,0,1,2,2,6.4,0.0,0
+102,2025-06,Juniper,Growth,QA,Mid,48,0.905,1,0,1,5,0,10.0,0.0,0
+103,2025-06,Juniper,Growth,DevOps,Senior,64,1.0,0,0,0,4,1,11.2,6.9,0
+104,2025-06,Kestrel,Data,DevOps,Junior,15,0.905,1,0,1,4,0,8.3,0.0,0
+105,2025-06,Kestrel,Data,Designer,Mid,26,0.857,1,1,1,2,0,9.0,3.3,0
+106,2025-06,Kestrel,Data,Product Manager,Mid,46,0.952,0,0,1,4,0,13.0,5.7,1
+107,2025-06,Kestrel,Data,Engineer,Senior,59,0.857,2,0,1,5,0,2.7,4.7,0
+108,2025-06,Kestrel,Data,DevOps,Mid,50,0.905,0,2,0,5,0,0.0,4.7,0
+109,2025-06,Kestrel,Data,Product Manager,Senior,105,0.81,3,0,1,4,2,8.4,3.3,0
+110,2025-06,Kestrel,Data,Engineer,Mid,54,0.952,0,1,0,1,3,2.5,10.7,0
+111,2025-06,Kestrel,Data,Product Manager,Senior,54,0.81,2,1,1,7,0,6.4,2.2,0
+112,2025-06,Kestrel,Data,Designer,Junior,22,0.857,1,2,0,7,0,7.8,0.0,0
+113,2025-06,Meridian,Infra,Engineer,Senior,98,0.952,1,0,0,5,0,9.1,2.1,0
+114,2025-06,Meridian,Infra,Engineer,Mid,53,0.905,1,0,1,8,0,6.3,1.0,0
+115,2025-06,Meridian,Infra,DevOps,Mid,45,1.0,0,0,0,3,0,8.7,0.0,0
+116,2025-06,Meridian,Infra,Engineer,Junior,18,0.905,1,1,0,5,2,2.8,8.5,0
+117,2025-06,Meridian,Infra,Engineer,Junior,21,0.857,1,1,1,7,1,0.0,3.7,0
+118,2025-06,Meridian,Infra,DevOps,Mid,18,0.762,3,1,1,3,1,5.2,2.6,1
+119,2025-06,Meridian,Infra,Engineer,Mid,28,1.0,0,0,0,7,0,6.3,6.2,0
+120,2025-06,Meridian,Infra,Product Manager,Junior,7,1.0,0,0,0,4,0,6.9,0.0,0
+121,2025-06,Meridian,Infra,DevOps,Mid,59,0.952,1,0,0,4,0,15.1,9.1,0
+122,2025-06,Solstice,Platform,Engineer,Mid,22,0.857,1,0,2,6,1,9.6,0.0,1
+123,2025-06,Solstice,Platform,Product Manager,Junior,8,0.905,0,1,1,5,0,11.4,0.0,0
+124,2025-06,Solstice,Platform,Product Manager,Mid,53,0.952,0,1,0,4,0,9.8,0.1,0
+125,2025-06,Solstice,Platform,Designer,Senior,75,0.952,1,0,0,2,0,14.1,0.0,0
+126,2025-06,Solstice,Platform,DevOps,Senior,79,0.905,2,0,0,2,0,8.7,0.0,0
+127,2025-06,Solstice,Platform,QA,Junior,7,0.857,2,1,0,5,2,4.7,4.2,1
+128,2025-06,Solstice,Platform,Engineer,Junior,11,0.81,1,2,1,4,3,9.1,6.4,0
+1,2025-07,Phoenix,Platform,DevOps,Mid,32,0.952,1,0,0,4,0,7.0,0.0,0
+2,2025-07,Phoenix,Platform,DevOps,Senior,79,0.857,1,1,1,3,3,5.8,2.8,1
+3,2025-07,Phoenix,Platform,QA,Mid,31,0.952,0,1,0,6,0,2.3,2.4,0
+4,2025-07,Phoenix,Platform,DevOps,Junior,20,1.0,0,0,0,5,0,0.0,4.1,0
+5,2025-07,Phoenix,Platform,Engineer,Senior,101,0.952,0,0,1,6,4,15.4,8.7,0
+6,2025-07,Phoenix,Platform,Engineer,Junior,18,0.952,0,1,0,5,1,11.6,6.1,0
+7,2025-07,Falcon,Product,Designer,Mid,21,0.905,0,1,1,1,0,15.2,10.5,0
+8,2025-07,Falcon,Product,Product Manager,Mid,19,0.952,0,0,1,4,1,7.6,0.0,0
+9,2025-07,Falcon,Product,Engineer,Senior,111,0.857,1,0,2,3,0,11.6,0.0,0
+10,2025-07,Falcon,Product,Product Manager,Junior,4,0.905,1,1,0,8,0,0.0,0.0,0
+11,2025-07,Falcon,Product,Engineer,Mid,39,0.952,0,0,1,5,2,10.6,5.5,0
+12,2025-07,Falcon,Product,QA,Mid,15,0.905,1,0,1,4,0,9.6,0.0,0
+13,2025-07,Falcon,Product,DevOps,Junior,14,0.905,0,0,2,3,1,12.1,7.3,0
+14,2025-07,Orion,Growth,QA,Junior,19,0.952,1,0,0,8,2,0.0,1.2,0
+15,2025-07,Orion,Growth,Engineer,Senior,91,0.905,2,0,0,4,1,5.0,7.6,0
+16,2025-07,Orion,Growth,QA,Junior,3,0.81,0,1,3,4,1,2.5,4.3,0
+17,2025-07,Orion,Growth,Engineer,Junior,4,0.81,1,2,1,5,1,0.0,0.0,0
+18,2025-07,Orion,Growth,Designer,Mid,29,0.952,0,1,0,3,1,2.5,7.5,1
+19,2025-07,Orion,Growth,Engineer,Junior,21,0.905,2,0,0,5,2,0.0,4.2,0
+20,2025-07,Orion,Growth,Engineer,Junior,2,0.762,3,0,2,3,0,0.0,0.2,0
+21,2025-07,Orion,Growth,Designer,Mid,38,0.905,2,0,0,6,2,10.2,9.8,0
+22,2025-07,Nimbus,Data,Engineer,Mid,18,1.0,0,0,0,3,0,15.1,8.2,0
+23,2025-07,Nimbus,Data,QA,Junior,5,0.952,0,0,1,6,1,1.4,3.2,0
+24,2025-07,Nimbus,Data,QA,Junior,3,0.857,1,1,1,2,2,1.7,13.7,0
+25,2025-07,Nimbus,Data,Engineer,Junior,4,0.905,2,0,0,6,0,8.6,7.3,0
+26,2025-07,Nimbus,Data,Engineer,Mid,33,1.0,0,0,0,6,1,2.6,0.8,0
+27,2025-07,Nimbus,Data,DevOps,Junior,13,1.0,0,0,0,7,1,1.1,0.0,0
+28,2025-07,Nimbus,Data,Engineer,Junior,20,0.762,2,2,1,3,1,1.8,5.3,1
+29,2025-07,Nimbus,Data,Engineer,Mid,46,1.0,0,0,0,6,0,1.2,1.5,0
+30,2025-07,Nimbus,Data,Product Manager,Junior,22,1.0,0,0,0,1,0,0.0,0.0,0
+31,2025-07,Vertex,Infra,DevOps,Senior,60,1.0,0,0,0,3,0,7.8,5.2,0
+32,2025-07,Vertex,Infra,Designer,Junior,13,0.81,1,2,1,1,2,0.0,7.6,0
+33,2025-07,Vertex,Infra,Product Manager,Senior,111,0.952,1,0,0,4,1,8.5,0.7,0
+34,2025-07,Vertex,Infra,DevOps,Mid,29,0.952,1,0,0,5,1,13.5,6.4,0
+35,2025-07,Vertex,Infra,Engineer,Junior,7,1.0,0,0,0,7,0,3.3,1.8,0
+36,2025-07,Vertex,Infra,DevOps,Mid,53,0.857,2,1,0,3,2,15.9,0.0,0
+37,2025-07,Vertex,Infra,Engineer,Mid,32,0.905,1,0,1,5,0,8.0,0.0,0
+38,2025-07,Vertex,Infra,Engineer,Mid,17,0.81,1,2,1,4,1,6.5,12.2,1
+39,2025-07,Vertex,Infra,Engineer,Senior,96,0.905,0,1,1,2,1,14.0,0.0,0
+40,2025-07,Vertex,Infra,DevOps,Senior,117,0.952,1,0,0,5,0,3.4,0.0,0
+41,2025-07,Atlas,Platform,Engineer,Junior,23,0.952,1,0,0,4,0,0.0,5.2,0
+42,2025-07,Atlas,Platform,DevOps,Junior,15,1.0,0,0,0,3,0,7.9,0.1,0
+43,2025-07,Atlas,Platform,Product Manager,Senior,89,0.857,3,0,0,5,0,11.4,0.0,1
+44,2025-07,Atlas,Platform,DevOps,Senior,55,0.857,1,2,0,5,0,0.9,14.0,0
+45,2025-07,Atlas,Platform,DevOps,Mid,31,0.952,0,0,1,4,2,13.5,0.0,0
+46,2025-07,Atlas,Platform,Product Manager,Mid,37,0.905,0,0,2,3,2,2.8,7.6,0
+47,2025-07,Atlas,Platform,Engineer,Junior,21,0.905,2,0,0,4,0,9.2,0.0,0
+48,2025-07,Atlas,Platform,Engineer,Junior,19,0.952,0,0,1,5,0,3.2,0.5,0
+49,2025-07,Atlas,Platform,QA,Junior,13,0.905,2,0,0,5,3,8.0,0.0,0
+50,2025-07,Comet,Product,DevOps,Mid,30,0.81,4,0,0,5,0,5.3,0.0,1
+51,2025-07,Comet,Product,QA,Junior,21,1.0,0,0,0,2,0,0.0,1.0,0
+52,2025-07,Comet,Product,Product Manager,Mid,14,0.952,0,0,1,5,0,15.9,3.7,0
+53,2025-07,Comet,Product,DevOps,Junior,3,0.762,3,1,1,1,1,1.2,20.4,0
+54,2025-07,Comet,Product,QA,Senior,84,0.905,0,1,1,6,0,7.1,0.6,0
+55,2025-07,Comet,Product,QA,Mid,58,0.762,4,1,0,4,0,12.3,8.3,0
+56,2025-07,Lumen,Growth,Engineer,Junior,7,0.905,2,0,0,7,1,17.4,0.0,0
+57,2025-07,Lumen,Growth,DevOps,Mid,27,0.952,1,0,0,1,0,3.8,7.9,0
+58,2025-07,Lumen,Growth,Product Manager,Senior,76,0.952,0,0,1,5,0,0.4,0.0,0
+59,2025-07,Lumen,Growth,Designer,Mid,50,0.952,0,0,1,1,1,11.6,4.2,0
+60,2025-07,Lumen,Growth,Engineer,Junior,7,0.952,0,1,0,4,1,0.0,0.0,0
+61,2025-07,Lumen,Growth,Product Manager,Mid,16,0.952,0,0,1,4,0,9.1,1.6,0
+62,2025-07,Lumen,Growth,Engineer,Mid,33,0.667,3,3,1,6,0,3.9,0.0,1
+63,2025-07,Zephyr,Data,QA,Junior,14,0.857,2,1,0,4,1,12.2,6.1,1
+64,2025-07,Zephyr,Data,QA,Mid,37,0.905,2,0,0,4,0,0.0,4.7,0
+65,2025-07,Zephyr,Data,Designer,Senior,46,0.905,2,0,0,2,0,11.9,2.9,1
+66,2025-07,Zephyr,Data,Product Manager,Mid,49,0.952,1,0,0,6,0,2.2,4.1,0
+67,2025-07,Zephyr,Data,Engineer,Junior,21,0.952,0,1,0,5,2,0.2,0.0,0
+68,2025-07,Zephyr,Data,DevOps,Senior,97,0.905,2,0,0,9,0,2.7,8.3,0
+69,2025-07,Zephyr,Data,Designer,Senior,76,1.0,0,0,0,4,1,10.3,5.2,0
+70,2025-07,Zephyr,Data,QA,Senior,58,0.81,3,1,0,1,1,0.0,1.4,0
+71,2025-07,Zephyr,Data,Engineer,Mid,38,0.952,1,0,0,4,0,4.8,0.0,0
+72,2025-07,Halcyon,Infra,Engineer,Mid,12,0.952,0,0,1,2,0,5.7,0.0,0
+73,2025-07,Halcyon,Infra,DevOps,Senior,93,0.952,1,0,0,5,0,8.0,0.0,0
+74,2025-07,Halcyon,Infra,Engineer,Mid,18,1.0,0,0,0,3,0,6.8,0.0,0
+75,2025-07,Halcyon,Infra,Designer,Junior,11,0.905,1,0,1,3,2,6.9,2.6,0
+76,2025-07,Halcyon,Infra,Product Manager,Junior,21,0.905,0,2,0,1,0,2.0,1.6,0
+77,2025-07,Halcyon,Infra,Product Manager,Junior,7,1.0,0,0,0,7,0,11.7,2.7,0
+78,2025-07,Halcyon,Infra,QA,Mid,51,0.857,2,1,0,2,0,11.9,9.9,1
+79,2025-07,Halcyon,Infra,Engineer,Mid,42,0.905,2,0,0,6,0,8.3,5.2,0
+80,2025-07,Halcyon,Infra,Engineer,Mid,37,1.0,0,0,0,5,2,10.6,3.9,0
+81,2025-07,Halcyon,Infra,DevOps,Senior,70,0.905,1,0,1,2,1,10.5,6.7,0
+82,2025-07,Aurora,Platform,DevOps,Mid,49,0.905,2,0,0,3,0,9.2,5.2,0
+83,2025-07,Aurora,Platform,DevOps,Junior,4,0.905,1,0,1,4,0,4.7,0.3,0
+84,2025-07,Aurora,Platform,Engineer,Junior,11,0.905,1,0,1,3,0,0.0,0.4,0
+85,2025-07,Aurora,Platform,Engineer,Junior,3,0.81,3,0,1,2,2,9.7,0.6,0
+86,2025-07,Aurora,Platform,Engineer,Mid,22,0.905,2,0,0,5,0,20.1,0.6,1
+87,2025-07,Aurora,Platform,Designer,Mid,19,0.905,1,0,1,4,0,7.8,6.1,0
+88,2025-07,Griffin,Product,Engineer,Mid,41,0.905,1,1,0,6,1,11.2,6.7,0
+89,2025-07,Griffin,Product,DevOps,Mid,29,0.905,0,1,1,4,0,5.3,0.0,0
+90,2025-07,Griffin,Product,Product Manager,Mid,47,0.952,1,0,0,8,0,7.3,0.0,0
+91,2025-07,Griffin,Product,Engineer,Mid,17,0.905,0,0,2,3,0,0.0,5.0,0
+92,2025-07,Griffin,Product,Engineer,Junior,2,0.905,0,0,2,5,2,0.0,10.6,0
+93,2025-07,Griffin,Product,Engineer,Senior,70,1.0,0,0,0,4,0,6.5,0.0,0
+94,2025-07,Griffin,Product,Designer,Senior,119,1.0,0,0,0,2,0,2.3,4.5,0
+95,2025-07,Griffin,Product,Engineer,Mid,30,0.952,0,0,1,2,1,9.0,7.1,0
+96,2025-07,Juniper,Growth,DevOps,Junior,10,0.714,6,0,0,7,0,4.1,7.5,0
+97,2025-07,Juniper,Growth,Product Manager,Junior,20,0.714,0,4,2,7,2,5.1,0.0,1
+98,2025-07,Juniper,Growth,Engineer,Mid,34,0.857,1,0,2,5,0,6.6,0.0,0
+99,2025-07,Juniper,Growth,Engineer,Junior,21,0.952,0,0,1,8,3,8.2,1.7,0
+100,2025-07,Juniper,Growth,Designer,Junior,7,0.952,0,0,1,3,1,0.0,5.6,0
+101,2025-07,Juniper,Growth,Product Manager,Senior,40,0.905,2,0,0,8,3,6.3,0.0,1
+102,2025-07,Juniper,Growth,QA,Mid,48,0.857,1,1,1,1,1,0.0,8.5,0
+103,2025-07,Juniper,Growth,DevOps,Senior,64,0.952,1,0,0,7,1,0.0,0.0,0
+104,2025-07,Kestrel,Data,DevOps,Junior,15,0.905,1,1,0,4,0,11.2,0.0,0
+105,2025-07,Kestrel,Data,Designer,Mid,26,0.905,0,0,2,2,0,7.8,9.7,0
+106,2025-07,Kestrel,Data,Product Manager,Mid,46,0.952,0,0,1,3,0,7.7,6.4,0
+107,2025-07,Kestrel,Data,Engineer,Senior,59,0.905,2,0,0,4,1,9.3,0.0,0
+108,2025-07,Kestrel,Data,DevOps,Mid,50,0.857,2,1,0,5,0,14.4,3.2,1
+109,2025-07,Kestrel,Data,Product Manager,Senior,105,0.714,4,1,1,2,1,7.0,0.0,0
+110,2025-07,Kestrel,Data,Engineer,Mid,54,0.952,0,0,1,6,1,5.7,0.8,0
+111,2025-07,Kestrel,Data,Product Manager,Senior,54,0.857,1,0,2,2,0,0.0,2.9,1
+112,2025-07,Kestrel,Data,Designer,Junior,22,0.81,2,1,1,6,0,9.2,8.7,0
+113,2025-07,Meridian,Infra,Engineer,Senior,98,1.0,0,0,0,1,0,7.9,0.0,0
+114,2025-07,Meridian,Infra,Engineer,Mid,53,0.952,0,0,1,6,1,14.9,3.7,0
+115,2025-07,Meridian,Infra,DevOps,Mid,45,1.0,0,0,0,5,0,7.1,1.1,0
+116,2025-07,Meridian,Infra,Engineer,Junior,18,0.952,1,0,0,3,2,3.0,7.9,0
+117,2025-07,Meridian,Infra,Engineer,Junior,21,0.81,3,0,1,3,2,1.3,11.5,1
+118,2025-07,Meridian,Infra,DevOps,Mid,18,0.952,1,0,0,3,1,4.3,0.0,0
+119,2025-07,Meridian,Infra,Engineer,Mid,28,0.952,0,0,1,4,0,18.7,0.0,0
+120,2025-07,Meridian,Infra,Product Manager,Junior,7,0.952,0,0,1,7,0,3.9,6.5,0
+121,2025-07,Meridian,Infra,DevOps,Mid,59,0.952,0,0,1,4,2,1.1,0.0,0
+122,2025-07,Solstice,Platform,Engineer,Mid,22,0.952,0,0,1,2,0,0.0,0.0,0
+123,2025-07,Solstice,Platform,Product Manager,Junior,8,0.857,1,0,2,4,1,1.2,0.0,1
+124,2025-07,Solstice,Platform,Product Manager,Mid,53,1.0,0,0,0,6,0,5.5,4.1,0
+125,2025-07,Solstice,Platform,Designer,Senior,75,0.952,0,1,0,5,2,0.0,1.7,0
+126,2025-07,Solstice,Platform,DevOps,Senior,79,0.905,1,1,0,4,1,12.1,0.0,0
+127,2025-07,Solstice,Platform,QA,Junior,7,0.857,2,1,0,3,1,0.0,1.6,0
+128,2025-07,Solstice,Platform,Engineer,Junior,11,0.952,1,0,0,3,3,4.6,5.9,0
+1,2025-08,Phoenix,Platform,DevOps,Mid,32,0.952,1,0,0,5,0,8.9,2.9,0
+2,2025-08,Phoenix,Platform,DevOps,Senior,79,0.857,2,1,0,1,1,12.5,0.0,0
+3,2025-08,Phoenix,Platform,QA,Mid,31,1.0,0,0,0,6,1,6.9,1.5,0
+4,2025-08,Phoenix,Platform,DevOps,Junior,20,0.857,1,2,0,2,0,1.7,5.6,0
+5,2025-08,Phoenix,Platform,Engineer,Senior,101,0.952,1,0,0,6,0,2.0,2.1,0
+6,2025-08,Phoenix,Platform,Engineer,Junior,18,0.762,2,3,0,7,2,3.7,0.0,0
+7,2025-08,Falcon,Product,Designer,Mid,21,0.905,2,0,0,3,2,1.9,0.0,0
+8,2025-08,Falcon,Product,Product Manager,Mid,19,0.81,1,1,2,5,0,17.9,3.7,0
+9,2025-08,Falcon,Product,Engineer,Senior,111,1.0,0,0,0,4,1,8.4,4.8,0
+10,2025-08,Falcon,Product,Product Manager,Junior,4,0.81,2,2,0,6,1,3.4,2.1,0
+11,2025-08,Falcon,Product,Engineer,Mid,39,0.905,0,0,2,4,2,10.9,2.1,0
+12,2025-08,Falcon,Product,QA,Mid,15,0.952,0,0,1,5,0,10.1,0.4,0
+13,2025-08,Falcon,Product,DevOps,Junior,14,0.952,0,0,1,2,0,2.6,8.9,0
+14,2025-08,Orion,Growth,QA,Junior,19,0.952,0,1,0,8,1,4.8,9.4,0
+15,2025-08,Orion,Growth,Engineer,Senior,91,0.952,0,0,1,6,2,2.3,0.0,0
+16,2025-08,Orion,Growth,QA,Junior,3,0.905,2,0,0,4,1,0.0,4.9,0
+17,2025-08,Orion,Growth,Engineer,Junior,4,0.905,0,1,1,3,1,6.0,2.1,0
+18,2025-08,Orion,Growth,Designer,Mid,29,0.857,1,2,0,4,1,12.2,6.6,0
+19,2025-08,Orion,Growth,Engineer,Junior,21,0.952,0,1,0,4,1,1.6,11.7,0
+20,2025-08,Orion,Growth,Engineer,Junior,2,0.905,0,1,1,4,1,0.0,0.0,0
+21,2025-08,Orion,Growth,Designer,Mid,38,0.81,1,2,1,4,0,0.0,0.0,0
+22,2025-08,Nimbus,Data,Engineer,Mid,18,0.952,0,1,0,4,0,10.0,0.0,0
+23,2025-08,Nimbus,Data,QA,Junior,5,0.857,2,1,0,4,1,1.2,12.5,1
+24,2025-08,Nimbus,Data,QA,Junior,3,0.667,5,1,1,2,3,6.7,1.2,0
+25,2025-08,Nimbus,Data,Engineer,Junior,4,0.905,1,0,1,3,0,2.0,0.9,0
+26,2025-08,Nimbus,Data,Engineer,Mid,33,0.857,1,1,1,4,1,0.0,0.0,0
+27,2025-08,Nimbus,Data,DevOps,Junior,13,0.952,1,0,0,2,0,0.0,0.0,0
+28,2025-08,Nimbus,Data,Engineer,Junior,20,0.857,2,1,0,4,5,7.1,14.1,0
+29,2025-08,Nimbus,Data,Engineer,Mid,46,0.952,0,0,1,2,0,12.8,0.5,0
+30,2025-08,Nimbus,Data,Product Manager,Junior,22,1.0,0,0,0,4,1,6.3,0.0,0
+31,2025-08,Vertex,Infra,DevOps,Senior,60,0.952,1,0,0,4,1,10.6,8.0,1
+32,2025-08,Vertex,Infra,Designer,Junior,13,0.524,5,4,1,5,3,0.0,13.6,1
+33,2025-08,Vertex,Infra,Product Manager,Senior,111,0.952,1,0,0,7,1,5.5,0.0,0
+34,2025-08,Vertex,Infra,DevOps,Mid,29,1.0,0,0,0,3,0,11.3,3.8,0
+35,2025-08,Vertex,Infra,Engineer,Junior,7,0.857,1,1,1,3,0,0.0,0.0,0
+36,2025-08,Vertex,Infra,DevOps,Mid,53,0.857,1,1,1,1,0,10.3,6.6,0
+37,2025-08,Vertex,Infra,Engineer,Mid,32,1.0,0,0,0,4,0,8.7,8.7,0
+38,2025-08,Vertex,Infra,Engineer,Mid,17,0.857,0,2,1,4,1,3.0,8.3,0
+39,2025-08,Vertex,Infra,Engineer,Senior,96,1.0,0,0,0,2,2,3.4,8.5,0
+40,2025-08,Vertex,Infra,DevOps,Senior,117,0.952,0,0,1,2,0,0.0,0.0,0
+41,2025-08,Atlas,Platform,Engineer,Junior,23,1.0,0,0,0,3,2,10.4,5.5,1
+42,2025-08,Atlas,Platform,DevOps,Junior,15,0.952,1,0,0,3,0,0.0,0.0,0
+43,2025-08,Atlas,Platform,Product Manager,Senior,89,0.952,0,0,1,5,0,9.5,0.8,0
+44,2025-08,Atlas,Platform,DevOps,Senior,55,0.857,2,1,0,5,1,15.0,4.4,0
+45,2025-08,Atlas,Platform,DevOps,Mid,31,1.0,0,0,0,1,0,1.8,0.0,0
+46,2025-08,Atlas,Platform,Product Manager,Mid,37,0.857,0,3,0,3,1,7.2,0.0,0
+47,2025-08,Atlas,Platform,Engineer,Junior,21,0.905,1,1,0,2,0,12.9,7.0,0
+48,2025-08,Atlas,Platform,Engineer,Junior,19,0.905,1,1,0,2,0,0.9,2.9,0
+49,2025-08,Atlas,Platform,QA,Junior,13,0.857,2,0,1,7,2,5.5,4.1,0
+50,2025-08,Comet,Product,DevOps,Mid,30,1.0,0,0,0,5,1,4.6,0.0,0
+51,2025-08,Comet,Product,QA,Junior,21,1.0,0,0,0,6,0,3.6,0.0,0
+52,2025-08,Comet,Product,Product Manager,Mid,14,0.905,1,1,0,4,4,15.6,1.5,0
+53,2025-08,Comet,Product,DevOps,Junior,3,0.524,5,3,2,4,2,1.3,0.0,1
+54,2025-08,Comet,Product,QA,Senior,84,0.905,1,1,0,4,0,8.8,4.5,0
+55,2025-08,Comet,Product,QA,Mid,58,0.905,2,0,0,4,1,8.9,5.0,0
+56,2025-08,Lumen,Growth,Engineer,Junior,7,0.762,4,0,1,5,1,4.7,0.0,0
+57,2025-08,Lumen,Growth,DevOps,Mid,27,0.81,1,2,1,1,3,11.2,1.8,0
+58,2025-08,Lumen,Growth,Product Manager,Senior,76,0.952,0,0,1,3,1,8.4,3.1,0
+59,2025-08,Lumen,Growth,Designer,Mid,50,0.762,2,2,1,3,1,11.2,5.3,1
+60,2025-08,Lumen,Growth,Engineer,Junior,7,0.714,5,0,1,7,1,6.5,10.6,1
+61,2025-08,Lumen,Growth,Product Manager,Mid,16,0.952,0,0,1,6,0,0.0,2.5,0
+62,2025-08,Lumen,Growth,Engineer,Mid,33,0.952,0,0,1,3,0,5.2,0.4,0
+63,2025-08,Zephyr,Data,QA,Junior,14,0.952,1,0,0,7,1,3.3,14.9,0
+64,2025-08,Zephyr,Data,QA,Mid,37,0.952,1,0,0,4,0,7.9,5.0,0
+65,2025-08,Zephyr,Data,Designer,Senior,46,0.714,1,4,1,5,3,6.8,1.7,1
+66,2025-08,Zephyr,Data,Product Manager,Mid,49,1.0,0,0,0,6,0,4.4,0.0,0
+67,2025-08,Zephyr,Data,Engineer,Junior,21,0.952,1,0,0,4,1,7.5,4.0,0
+68,2025-08,Zephyr,Data,DevOps,Senior,97,1.0,0,0,0,5,0,2.4,3.8,0
+69,2025-08,Zephyr,Data,Designer,Senior,76,0.952,1,0,0,3,5,5.6,9.8,0
+70,2025-08,Zephyr,Data,QA,Senior,58,1.0,0,0,0,1,0,6.1,1.8,0
+71,2025-08,Zephyr,Data,Engineer,Mid,38,0.952,0,0,1,6,0,7.0,4.6,0
+72,2025-08,Halcyon,Infra,Engineer,Mid,12,0.905,2,0,0,6,1,9.9,10.0,0
+73,2025-08,Halcyon,Infra,DevOps,Senior,93,0.952,0,0,1,7,0,9.4,0.0,0
+74,2025-08,Halcyon,Infra,Engineer,Mid,18,0.952,0,1,0,3,0,10.0,4.6,0
+75,2025-08,Halcyon,Infra,Designer,Junior,11,0.952,1,0,0,2,0,0.0,13.4,0
+76,2025-08,Halcyon,Infra,Product Manager,Junior,21,0.952,0,0,1,6,0,8.2,0.9,1
+77,2025-08,Halcyon,Infra,Product Manager,Junior,7,0.952,0,1,0,4,1,3.1,0.0,0
+78,2025-08,Halcyon,Infra,QA,Mid,51,0.857,1,1,1,5,0,0.0,7.2,0
+79,2025-08,Halcyon,Infra,Engineer,Mid,42,0.857,1,1,1,2,1,7.9,1.9,0
+80,2025-08,Halcyon,Infra,Engineer,Mid,37,0.905,2,0,0,4,1,0.4,6.3,0
+81,2025-08,Halcyon,Infra,DevOps,Senior,70,0.905,2,0,0,6,1,11.4,3.9,0
+82,2025-08,Aurora,Platform,DevOps,Mid,49,1.0,0,0,0,8,0,5.1,9.3,0
+83,2025-08,Aurora,Platform,DevOps,Junior,4,1.0,0,0,0,4,0,13.6,6.0,0
+84,2025-08,Aurora,Platform,Engineer,Junior,11,1.0,0,0,0,2,0,17.1,0.0,0
+85,2025-08,Aurora,Platform,Engineer,Junior,3,0.762,2,1,2,8,3,4.0,5.5,0
+86,2025-08,Aurora,Platform,Engineer,Mid,22,0.952,1,0,0,3,1,11.8,0.0,0
+87,2025-08,Aurora,Platform,Designer,Mid,19,0.857,3,0,0,5,0,3.2,13.9,0
+88,2025-08,Griffin,Product,Engineer,Mid,41,0.952,1,0,0,3,1,9.7,7.9,0
+89,2025-08,Griffin,Product,DevOps,Mid,29,0.952,0,0,1,1,0,14.1,0.0,1
+90,2025-08,Griffin,Product,Product Manager,Mid,47,0.952,1,0,0,7,0,17.2,10.7,0
+91,2025-08,Griffin,Product,Engineer,Mid,17,0.952,0,0,1,2,1,11.9,6.8,0
+92,2025-08,Griffin,Product,Engineer,Junior,2,0.952,0,0,1,3,1,5.2,0.0,0
+93,2025-08,Griffin,Product,Engineer,Senior,70,0.952,0,0,1,2,0,4.2,0.0,0
+94,2025-08,Griffin,Product,Designer,Senior,119,0.905,0,1,1,2,2,7.2,3.5,0
+95,2025-08,Griffin,Product,Engineer,Mid,30,1.0,0,0,0,2,0,13.4,0.0,0
+96,2025-08,Juniper,Growth,DevOps,Junior,10,0.762,2,1,2,5,0,3.4,20.6,0
+97,2025-08,Juniper,Growth,Product Manager,Junior,20,0.952,0,0,1,2,0,9.5,1.0,0
+98,2025-08,Juniper,Growth,Engineer,Mid,34,0.905,0,1,1,3,0,6.4,0.0,1
+99,2025-08,Juniper,Growth,Engineer,Junior,21,0.905,1,1,0,6,2,0.0,10.0,0
+100,2025-08,Juniper,Growth,Designer,Junior,7,0.905,1,0,1,3,2,0.0,0.0,0
+101,2025-08,Juniper,Growth,Product Manager,Senior,40,1.0,0,0,0,1,0,18.9,1.9,0
+102,2025-08,Juniper,Growth,QA,Mid,48,1.0,0,0,0,4,2,18.8,3.7,1
+103,2025-08,Juniper,Growth,DevOps,Senior,64,0.905,2,0,0,9,1,6.5,0.5,0
+104,2025-08,Kestrel,Data,DevOps,Junior,15,1.0,0,0,0,6,0,1.7,0.0,0
+105,2025-08,Kestrel,Data,Designer,Mid,26,0.905,0,2,0,3,1,10.0,0.0,0
+106,2025-08,Kestrel,Data,Product Manager,Mid,46,0.952,0,0,1,5,0,10.2,4.3,0
+107,2025-08,Kestrel,Data,Engineer,Senior,59,0.952,0,0,1,6,1,7.4,9.6,0
+108,2025-08,Kestrel,Data,DevOps,Mid,50,0.905,1,0,1,2,2,13.1,5.9,0
+109,2025-08,Kestrel,Data,Product Manager,Senior,105,0.857,2,1,0,4,0,6.8,0.3,0
+110,2025-08,Kestrel,Data,Engineer,Mid,54,0.81,1,1,2,3,2,2.5,6.4,0
+111,2025-08,Kestrel,Data,Product Manager,Senior,54,0.952,1,0,0,6,2,0.0,0.0,0
+112,2025-08,Kestrel,Data,Designer,Junior,22,0.952,1,0,0,4,0,7.6,0.0,0
+113,2025-08,Meridian,Infra,Engineer,Senior,98,0.857,3,0,0,5,0,3.6,0.9,0
+114,2025-08,Meridian,Infra,Engineer,Mid,53,0.857,2,1,0,3,0,6.6,11.1,0
+115,2025-08,Meridian,Infra,DevOps,Mid,45,0.952,0,0,1,3,0,0.0,0.0,0
+116,2025-08,Meridian,Infra,Engineer,Junior,18,0.952,1,0,0,4,5,2.2,0.0,0
+117,2025-08,Meridian,Infra,Engineer,Junior,21,0.905,1,0,1,4,2,9.9,1.3,0
+118,2025-08,Meridian,Infra,DevOps,Mid,18,0.714,5,1,0,3,2,3.3,5.3,0
+119,2025-08,Meridian,Infra,Engineer,Mid,28,1.0,0,0,0,3,0,13.3,0.6,0
+120,2025-08,Meridian,Infra,Product Manager,Junior,7,0.857,1,1,1,6,0,4.6,9.4,0
+121,2025-08,Meridian,Infra,DevOps,Mid,59,1.0,0,0,0,6,1,11.5,0.0,0
+122,2025-08,Solstice,Platform,Engineer,Mid,22,0.952,1,0,0,4,0,12.0,4.0,1
+123,2025-08,Solstice,Platform,Product Manager,Junior,8,0.857,1,1,1,3,1,14.4,0.0,0
+124,2025-08,Solstice,Platform,Product Manager,Mid,53,1.0,0,0,0,5,0,1.9,6.0,0
+125,2025-08,Solstice,Platform,Designer,Senior,75,0.952,0,0,1,6,1,2.5,0.0,0
+126,2025-08,Solstice,Platform,DevOps,Senior,79,0.905,1,1,0,2,0,8.6,16.2,0
+127,2025-08,Solstice,Platform,QA,Junior,7,0.762,2,1,2,3,1,6.5,8.8,1
+128,2025-08,Solstice,Platform,Engineer,Junior,11,0.905,0,1,1,1,0,3.9,5.0,0
+1,2025-09,Phoenix,Platform,DevOps,Mid,32,1.0,0,0,0,3,1,9.5,7.2,0
+2,2025-09,Phoenix,Platform,DevOps,Senior,79,0.857,2,0,1,3,2,11.9,0.0,0
+3,2025-09,Phoenix,Platform,QA,Mid,31,0.952,0,0,1,4,1,10.9,0.0,0
+4,2025-09,Phoenix,Platform,DevOps,Junior,20,0.81,2,2,0,7,2,5.6,6.2,0
+5,2025-09,Phoenix,Platform,Engineer,Senior,101,0.857,1,1,1,5,0,1.4,8.2,0
+6,2025-09,Phoenix,Platform,Engineer,Junior,18,0.952,1,0,0,6,2,4.5,4.8,0
+7,2025-09,Falcon,Product,Designer,Mid,21,0.905,1,0,1,4,0,5.9,3.2,0
+8,2025-09,Falcon,Product,Product Manager,Mid,19,0.952,1,0,0,4,1,14.9,24.4,0
+9,2025-09,Falcon,Product,Engineer,Senior,111,0.952,1,0,0,1,0,12.9,0.5,0
+10,2025-09,Falcon,Product,Product Manager,Junior,4,0.952,0,0,1,5,1,7.3,0.0,0
+11,2025-09,Falcon,Product,Engineer,Mid,39,1.0,0,0,0,4,0,5.8,0.5,0
+12,2025-09,Falcon,Product,QA,Mid,15,1.0,0,0,0,3,0,2.2,0.0,0
+13,2025-09,Falcon,Product,DevOps,Junior,14,0.857,1,1,1,3,3,13.7,0.0,0
+14,2025-09,Orion,Growth,QA,Junior,19,0.905,2,0,0,4,3,0.2,4.3,0
+15,2025-09,Orion,Growth,Engineer,Senior,91,0.762,2,3,0,5,1,18.3,0.0,0
+16,2025-09,Orion,Growth,QA,Junior,3,0.952,1,0,0,6,0,11.0,1.8,0
+17,2025-09,Orion,Growth,Engineer,Junior,4,1.0,0,0,0,5,0,4.3,0.0,0
+18,2025-09,Orion,Growth,Designer,Mid,29,0.905,1,1,0,7,1,4.3,0.0,0
+19,2025-09,Orion,Growth,Engineer,Junior,21,0.952,1,0,0,3,0,6.6,0.0,0
+20,2025-09,Orion,Growth,Engineer,Junior,2,0.81,3,0,1,3,0,6.5,0.0,0
+21,2025-09,Orion,Growth,Designer,Mid,38,0.952,1,0,0,9,0,8.2,0.0,0
+22,2025-09,Nimbus,Data,Engineer,Mid,18,0.857,2,0,1,2,0,14.5,14.7,0
+23,2025-09,Nimbus,Data,QA,Junior,5,0.952,1,0,0,1,1,5.5,0.0,0
+24,2025-09,Nimbus,Data,QA,Junior,3,0.857,2,1,0,3,2,0.0,2.9,0
+25,2025-09,Nimbus,Data,Engineer,Junior,4,0.952,0,0,1,5,0,7.2,0.0,0
+26,2025-09,Nimbus,Data,Engineer,Mid,33,0.857,1,2,0,3,1,8.3,9.8,0
+27,2025-09,Nimbus,Data,DevOps,Junior,13,0.952,1,0,0,8,0,6.6,0.0,0
+28,2025-09,Nimbus,Data,Engineer,Junior,20,0.714,2,4,0,9,0,2.5,7.7,1
+29,2025-09,Nimbus,Data,Engineer,Mid,46,0.905,1,0,1,2,0,11.3,0.6,0
+30,2025-09,Nimbus,Data,Product Manager,Junior,22,1.0,0,0,0,2,1,6.1,0.0,0
+31,2025-09,Vertex,Infra,DevOps,Senior,60,0.905,2,0,0,3,0,12.2,4.6,0
+32,2025-09,Vertex,Infra,Designer,Junior,13,0.905,1,0,1,2,1,4.8,10.4,0
+33,2025-09,Vertex,Infra,Product Manager,Senior,111,0.905,1,0,1,4,0,14.0,0.0,0
+34,2025-09,Vertex,Infra,DevOps,Mid,29,0.952,0,0,1,4,0,0.0,2.2,0
+35,2025-09,Vertex,Infra,Engineer,Junior,7,0.952,1,0,0,1,1,2.1,9.0,0
+36,2025-09,Vertex,Infra,DevOps,Mid,53,0.905,0,2,0,5,0,0.0,9.0,0
+37,2025-09,Vertex,Infra,Engineer,Mid,32,1.0,0,0,0,6,0,5.7,7.1,0
+38,2025-09,Vertex,Infra,Engineer,Mid,17,0.952,1,0,0,6,2,9.6,2.7,0
+39,2025-09,Vertex,Infra,Engineer,Senior,96,0.952,1,0,0,4,0,6.3,5.1,0
+40,2025-09,Vertex,Infra,DevOps,Senior,117,0.905,1,0,1,7,0,9.3,0.0,0
+41,2025-09,Atlas,Platform,Engineer,Junior,23,0.857,2,0,1,6,1,1.3,0.0,0
+42,2025-09,Atlas,Platform,DevOps,Junior,15,0.952,0,0,1,2,0,3.5,0.5,0
+43,2025-09,Atlas,Platform,Product Manager,Senior,89,0.905,2,0,0,7,1,10.8,0.0,0
+44,2025-09,Atlas,Platform,DevOps,Senior,55,0.81,2,1,1,4,1,9.7,5.5,1
+45,2025-09,Atlas,Platform,DevOps,Mid,31,0.952,0,0,1,5,0,3.9,0.0,0
+46,2025-09,Atlas,Platform,Product Manager,Mid,37,0.952,0,1,0,4,0,6.7,5.3,0
+47,2025-09,Atlas,Platform,Engineer,Junior,21,0.952,0,1,0,7,1,3.4,6.9,0
+48,2025-09,Atlas,Platform,Engineer,Junior,19,0.952,1,0,0,6,1,8.8,0.0,0
+49,2025-09,Atlas,Platform,QA,Junior,13,0.667,2,5,0,3,0,5.8,0.0,1
+50,2025-09,Comet,Product,DevOps,Mid,30,0.952,0,0,1,5,0,6.2,16.0,0
+51,2025-09,Comet,Product,QA,Junior,21,0.952,1,0,0,6,0,3.0,6.4,0
+52,2025-09,Comet,Product,Product Manager,Mid,14,0.952,1,0,0,4,0,7.1,4.1,1
+53,2025-09,Comet,Product,DevOps,Junior,3,0.905,0,1,1,5,2,4.3,10.3,0
+54,2025-09,Comet,Product,QA,Senior,84,0.857,2,0,1,4,0,13.6,0.0,0
+55,2025-09,Comet,Product,QA,Mid,58,0.571,5,4,0,4,0,19.4,12.6,0
+56,2025-09,Lumen,Growth,Engineer,Junior,7,0.857,2,0,1,3,0,2.8,6.4,1
+57,2025-09,Lumen,Growth,DevOps,Mid,27,0.857,2,0,1,4,1,4.1,3.9,0
+58,2025-09,Lumen,Growth,Product Manager,Senior,76,1.0,0,0,0,5,0,2.1,0.4,0
+59,2025-09,Lumen,Growth,Designer,Mid,50,0.905,1,0,1,5,0,4.1,0.0,0
+60,2025-09,Lumen,Growth,Engineer,Junior,7,0.81,2,1,1,7,4,4.5,2.4,0
+61,2025-09,Lumen,Growth,Product Manager,Mid,16,1.0,0,0,0,5,2,8.6,0.0,0
+62,2025-09,Lumen,Growth,Engineer,Mid,33,0.952,1,0,0,4,1,7.4,0.6,0
+63,2025-09,Zephyr,Data,QA,Junior,14,0.81,2,1,1,4,0,1.1,1.5,0
+64,2025-09,Zephyr,Data,QA,Mid,37,0.952,0,0,1,2,1,8.0,0.0,0
+65,2025-09,Zephyr,Data,Designer,Senior,46,1.0,0,0,0,5,0,11.0,2.8,0
+66,2025-09,Zephyr,Data,Product Manager,Mid,49,0.952,0,1,0,6,0,3.9,4.5,0
+67,2025-09,Zephyr,Data,Engineer,Junior,21,0.905,1,1,0,0,0,13.0,0.0,0
+68,2025-09,Zephyr,Data,DevOps,Senior,97,1.0,0,0,0,5,0,3.1,0.8,0
+69,2025-09,Zephyr,Data,Designer,Senior,76,0.857,1,1,1,0,0,8.6,0.0,0
+70,2025-09,Zephyr,Data,QA,Senior,58,1.0,0,0,0,4,2,5.4,0.0,1
+71,2025-09,Zephyr,Data,Engineer,Mid,38,1.0,0,0,0,4,0,6.9,6.4,0
+72,2025-09,Halcyon,Infra,Engineer,Mid,12,0.952,1,0,0,2,0,3.6,0.9,0
+73,2025-09,Halcyon,Infra,DevOps,Senior,93,0.952,1,0,0,5,0,3.7,3.0,0
+74,2025-09,Halcyon,Infra,Engineer,Mid,18,1.0,0,0,0,5,1,9.1,0.0,0
+75,2025-09,Halcyon,Infra,Designer,Junior,11,0.81,2,1,1,3,1,0.4,0.0,0
+76,2025-09,Halcyon,Infra,Product Manager,Junior,21,0.952,0,0,1,5,0,0.4,6.6,0
+77,2025-09,Halcyon,Infra,Product Manager,Junior,7,0.857,2,1,0,5,2,2.0,2.8,0
+78,2025-09,Halcyon,Infra,QA,Mid,51,0.952,0,0,1,5,1,14.0,0.3,1
+79,2025-09,Halcyon,Infra,Engineer,Mid,42,0.952,0,1,0,4,0,12.5,6.3,0
+80,2025-09,Halcyon,Infra,Engineer,Mid,37,0.762,4,1,0,3,0,14.5,0.3,0
+81,2025-09,Halcyon,Infra,DevOps,Senior,70,0.952,0,1,0,6,1,2.1,1.5,0
+82,2025-09,Aurora,Platform,DevOps,Mid,49,0.952,1,0,0,3,0,8.9,2.7,0
+83,2025-09,Aurora,Platform,DevOps,Junior,4,0.905,1,0,1,7,0,0.0,0.0,0
+84,2025-09,Aurora,Platform,Engineer,Junior,11,0.952,0,0,1,4,1,0.8,1.3,0
+85,2025-09,Aurora,Platform,Engineer,Junior,3,0.952,0,1,0,4,2,2.6,0.0,0
+86,2025-09,Aurora,Platform,Engineer,Mid,22,0.952,0,1,0,4,1,8.6,3.1,0
+87,2025-09,Aurora,Platform,Designer,Mid,19,0.857,1,1,1,5,1,0.0,1.6,0
+88,2025-09,Griffin,Product,Engineer,Mid,41,1.0,0,0,0,2,0,8.9,0.0,0
+89,2025-09,Griffin,Product,DevOps,Mid,29,0.905,0,0,2,2,0,17.0,3.1,0
+90,2025-09,Griffin,Product,Product Manager,Mid,47,0.952,0,0,1,6,1,1.3,0.0,0
+91,2025-09,Griffin,Product,Engineer,Mid,17,0.952,0,0,1,2,1,3.1,0.0,0
+92,2025-09,Griffin,Product,Engineer,Junior,2,0.905,0,1,1,3,0,3.5,0.0,0
+93,2025-09,Griffin,Product,Engineer,Senior,70,0.952,1,0,0,2,0,7.1,0.0,0
+94,2025-09,Griffin,Product,Designer,Senior,119,1.0,0,0,0,1,0,6.9,6.0,0
+95,2025-09,Griffin,Product,Engineer,Mid,30,0.905,1,0,1,6,1,5.8,0.3,1
+96,2025-09,Juniper,Growth,DevOps,Junior,10,0.81,2,2,0,4,3,2.7,5.3,0
+97,2025-09,Juniper,Growth,Product Manager,Junior,20,0.81,3,0,1,5,0,3.1,7.4,0
+98,2025-09,Juniper,Growth,Engineer,Mid,34,1.0,0,0,0,3,0,9.3,5.6,0
+99,2025-09,Juniper,Growth,Engineer,Junior,21,0.905,2,0,0,4,0,4.9,6.5,0
+100,2025-09,Juniper,Growth,Designer,Junior,7,0.81,1,3,0,4,1,2.3,0.0,0
+101,2025-09,Juniper,Growth,Product Manager,Senior,40,0.762,2,1,2,2,0,7.3,3.9,1
+102,2025-09,Juniper,Growth,QA,Mid,48,0.905,1,0,1,3,0,0.8,2.5,0
+103,2025-09,Juniper,Growth,DevOps,Senior,64,0.952,0,1,0,1,1,6.6,6.0,0
+104,2025-09,Kestrel,Data,DevOps,Junior,15,1.0,0,0,0,6,2,10.7,0.6,0
+105,2025-09,Kestrel,Data,Designer,Mid,26,0.952,0,0,1,5,0,3.9,1.0,0
+106,2025-09,Kestrel,Data,Product Manager,Mid,46,0.905,0,0,2,2,1,1.3,0.0,0
+107,2025-09,Kestrel,Data,Engineer,Senior,59,0.952,0,1,0,7,1,4.5,3.4,0
+108,2025-09,Kestrel,Data,DevOps,Mid,50,0.905,0,2,0,5,0,14.7,7.5,0
+109,2025-09,Kestrel,Data,Product Manager,Senior,105,0.714,3,3,0,3,1,0.0,2.2,0
+110,2025-09,Kestrel,Data,Engineer,Mid,54,0.952,1,0,0,4,0,4.5,2.3,0
+111,2025-09,Kestrel,Data,Product Manager,Senior,54,0.905,2,0,0,4,2,15.5,3.7,0
+112,2025-09,Kestrel,Data,Designer,Junior,22,1.0,0,0,0,2,0,0.0,15.5,0
+113,2025-09,Meridian,Infra,Engineer,Senior,98,0.952,0,0,1,3,0,2.3,0.0,0
+114,2025-09,Meridian,Infra,Engineer,Mid,53,0.952,1,0,0,4,0,12.6,0.0,0
+115,2025-09,Meridian,Infra,DevOps,Mid,45,1.0,0,0,0,4,0,6.3,0.0,0
+116,2025-09,Meridian,Infra,Engineer,Junior,18,0.857,2,1,0,4,2,17.0,2.5,0
+117,2025-09,Meridian,Infra,Engineer,Junior,21,0.857,1,2,0,5,0,9.0,2.9,0
+118,2025-09,Meridian,Infra,DevOps,Mid,18,0.905,2,0,0,2,0,7.9,1.5,0
+119,2025-09,Meridian,Infra,Engineer,Mid,28,0.857,0,1,2,4,0,4.3,8.9,0
+120,2025-09,Meridian,Infra,Product Manager,Junior,7,0.857,3,0,0,6,0,4.5,0.0,1
+121,2025-09,Meridian,Infra,DevOps,Mid,59,0.952,1,0,0,7,2,8.2,3.3,1
+122,2025-09,Solstice,Platform,Engineer,Mid,22,0.952,1,0,0,3,0,0.0,7.4,0
+123,2025-09,Solstice,Platform,Product Manager,Junior,8,0.952,1,0,0,5,1,8.5,3.0,0
+124,2025-09,Solstice,Platform,Product Manager,Mid,53,1.0,0,0,0,5,0,5.3,0.0,0
+125,2025-09,Solstice,Platform,Designer,Senior,75,1.0,0,0,0,5,0,23.1,8.3,0
+126,2025-09,Solstice,Platform,DevOps,Senior,79,0.952,1,0,0,2,0,3.1,0.8,0
+127,2025-09,Solstice,Platform,QA,Junior,7,0.905,1,1,0,7,1,0.0,4.0,0
+128,2025-09,Solstice,Platform,Engineer,Junior,11,0.857,3,0,0,2,1,7.3,0.9,0
+1,2025-10,Phoenix,Platform,DevOps,Mid,32,1.0,0,0,0,1,1,8.9,0.0,0
+2,2025-10,Phoenix,Platform,DevOps,Senior,79,0.81,2,1,1,4,2,10.0,9.4,1
+3,2025-10,Phoenix,Platform,QA,Mid,31,0.952,1,0,0,4,0,17.9,0.0,0
+4,2025-10,Phoenix,Platform,DevOps,Junior,20,1.0,0,0,0,3,3,10.4,11.6,0
+5,2025-10,Phoenix,Platform,Engineer,Senior,101,0.952,0,1,0,8,0,4.4,9.6,1
+6,2025-10,Phoenix,Platform,Engineer,Junior,18,0.905,2,0,0,3,1,3.1,2.8,0
+7,2025-10,Falcon,Product,Designer,Mid,21,0.952,1,0,0,6,0,4.5,0.0,0
+8,2025-10,Falcon,Product,Product Manager,Mid,19,0.857,2,1,0,4,1,3.9,0.4,0
+9,2025-10,Falcon,Product,Engineer,Senior,111,0.905,1,0,1,3,0,11.1,0.0,0
+10,2025-10,Falcon,Product,Product Manager,Junior,4,0.81,4,0,0,7,1,4.3,1.0,1
+11,2025-10,Falcon,Product,Engineer,Mid,39,0.952,0,0,1,1,0,10.4,0.0,0
+12,2025-10,Falcon,Product,QA,Mid,15,1.0,0,0,0,4,1,4.7,0.0,0
+13,2025-10,Falcon,Product,DevOps,Junior,14,0.905,0,0,2,4,1,8.8,0.0,0
+14,2025-10,Orion,Growth,QA,Junior,19,0.81,2,1,1,8,3,2.3,10.7,0
+15,2025-10,Orion,Growth,Engineer,Senior,91,0.952,0,0,1,5,3,11.1,7.9,0
+16,2025-10,Orion,Growth,QA,Junior,3,0.905,1,1,0,6,0,8.4,7.6,0
+17,2025-10,Orion,Growth,Engineer,Junior,4,0.952,0,0,1,8,1,1.9,2.5,0
+18,2025-10,Orion,Growth,Designer,Mid,29,0.952,1,0,0,4,1,18.9,0.0,1
+19,2025-10,Orion,Growth,Engineer,Junior,21,1.0,0,0,0,6,3,0.0,2.4,0
+20,2025-10,Orion,Growth,Engineer,Junior,2,0.905,2,0,0,4,0,2.8,1.5,0
+21,2025-10,Orion,Growth,Designer,Mid,38,0.952,1,0,0,5,1,6.9,5.9,0
+22,2025-10,Nimbus,Data,Engineer,Mid,18,0.905,0,1,1,6,0,2.3,6.9,0
+23,2025-10,Nimbus,Data,QA,Junior,5,0.952,0,1,0,9,3,2.7,4.0,0
+24,2025-10,Nimbus,Data,QA,Junior,3,0.905,2,0,0,2,1,9.2,5.6,0
+25,2025-10,Nimbus,Data,Engineer,Junior,4,0.952,0,0,1,4,0,2.9,2.9,0
+26,2025-10,Nimbus,Data,Engineer,Mid,33,0.857,1,0,2,4,0,15.0,0.0,0
+27,2025-10,Nimbus,Data,DevOps,Junior,13,0.857,3,0,0,3,0,0.0,1.9,0
+28,2025-10,Nimbus,Data,Engineer,Junior,20,0.81,1,3,0,6,0,7.5,6.0,0
+29,2025-10,Nimbus,Data,Engineer,Mid,46,1.0,0,0,0,6,0,17.0,4.2,0
+30,2025-10,Nimbus,Data,Product Manager,Junior,22,1.0,0,0,0,3,0,11.9,0.0,0
+31,2025-10,Vertex,Infra,DevOps,Senior,60,0.905,1,0,1,7,0,10.9,1.1,0
+32,2025-10,Vertex,Infra,Designer,Junior,13,0.952,1,0,0,9,0,5.4,1.2,0
+33,2025-10,Vertex,Infra,Product Manager,Senior,111,1.0,0,0,0,5,1,4.5,8.2,0
+34,2025-10,Vertex,Infra,DevOps,Mid,29,0.952,0,0,1,3,0,8.0,0.0,0
+35,2025-10,Vertex,Infra,Engineer,Junior,7,1.0,0,0,0,4,0,0.0,0.0,0
+36,2025-10,Vertex,Infra,DevOps,Mid,53,0.905,2,0,0,5,1,12.3,4.3,0
+37,2025-10,Vertex,Infra,Engineer,Mid,32,0.857,2,0,1,2,1,6.3,8.1,0
+38,2025-10,Vertex,Infra,Engineer,Mid,17,0.952,1,0,0,6,0,10.9,5.9,0
+39,2025-10,Vertex,Infra,Engineer,Senior,96,0.857,2,1,0,2,1,5.4,9.6,1
+40,2025-10,Vertex,Infra,DevOps,Senior,117,0.952,1,0,0,8,0,9.8,0.0,0
+41,2025-10,Atlas,Platform,Engineer,Junior,23,0.952,1,0,0,5,1,0.0,0.0,0
+42,2025-10,Atlas,Platform,DevOps,Junior,15,0.952,0,0,1,2,1,9.9,0.0,0
+43,2025-10,Atlas,Platform,Product Manager,Senior,89,1.0,0,0,0,3,1,11.5,2.0,0
+44,2025-10,Atlas,Platform,DevOps,Senior,55,0.905,1,0,1,2,0,17.4,1.4,0
+45,2025-10,Atlas,Platform,DevOps,Mid,31,0.905,1,1,0,5,0,2.9,1.6,0
+46,2025-10,Atlas,Platform,Product Manager,Mid,37,0.762,4,0,1,3,0,8.9,0.0,1
+47,2025-10,Atlas,Platform,Engineer,Junior,21,1.0,0,0,0,6,2,7.4,0.0,0
+48,2025-10,Atlas,Platform,Engineer,Junior,19,0.857,1,0,2,4,1,0.0,5.8,0
+49,2025-10,Atlas,Platform,QA,Junior,13,0.952,0,0,1,5,3,8.8,0.0,0
+50,2025-10,Comet,Product,DevOps,Mid,30,1.0,0,0,0,2,0,19.1,0.0,0
+51,2025-10,Comet,Product,QA,Junior,21,1.0,0,0,0,0,0,0.0,0.0,0
+52,2025-10,Comet,Product,Product Manager,Mid,14,1.0,0,0,0,6,0,21.1,2.6,0
+53,2025-10,Comet,Product,DevOps,Junior,3,0.762,2,3,0,3,3,2.2,4.0,0
+54,2025-10,Comet,Product,QA,Senior,84,0.952,0,0,1,5,2,10.1,0.8,0
+55,2025-10,Comet,Product,QA,Mid,58,0.81,2,1,1,6,2,7.5,1.7,0
+56,2025-10,Lumen,Growth,Engineer,Junior,7,0.81,2,1,1,4,0,8.0,9.5,0
+57,2025-10,Lumen,Growth,DevOps,Mid,27,0.81,1,1,2,4,0,10.0,0.0,1
+58,2025-10,Lumen,Growth,Product Manager,Senior,76,0.952,0,0,1,4,0,19.2,4.9,0
+59,2025-10,Lumen,Growth,Designer,Mid,50,0.905,2,0,0,6,0,0.6,1.0,0
+60,2025-10,Lumen,Growth,Engineer,Junior,7,0.857,2,1,0,3,0,3.8,7.0,0
+61,2025-10,Lumen,Growth,Product Manager,Mid,16,1.0,0,0,0,4,0,14.4,0.0,0
+62,2025-10,Lumen,Growth,Engineer,Mid,33,0.952,1,0,0,3,2,3.5,9.1,0
+63,2025-10,Zephyr,Data,QA,Junior,14,0.905,1,1,0,6,2,7.9,6.5,0
+64,2025-10,Zephyr,Data,QA,Mid,37,1.0,0,0,0,1,0,1.8,5.1,0
+65,2025-10,Zephyr,Data,Designer,Senior,46,0.952,1,0,0,5,2,7.2,10.7,0
+66,2025-10,Zephyr,Data,Product Manager,Mid,49,1.0,0,0,0,3,0,9.6,5.4,0
+67,2025-10,Zephyr,Data,Engineer,Junior,21,0.905,2,0,0,2,0,0.0,8.5,0
+68,2025-10,Zephyr,Data,DevOps,Senior,97,0.952,0,0,1,7,0,6.0,0.0,0
+69,2025-10,Zephyr,Data,Designer,Senior,76,0.905,2,0,0,3,0,12.5,0.0,0
+70,2025-10,Zephyr,Data,QA,Senior,58,0.81,2,1,1,4,0,8.2,3.0,0
+71,2025-10,Zephyr,Data,Engineer,Mid,38,0.952,0,0,1,4,0,9.8,0.0,0
+72,2025-10,Halcyon,Infra,Engineer,Mid,12,0.905,1,0,1,2,1,5.1,6.9,0
+73,2025-10,Halcyon,Infra,DevOps,Senior,93,0.905,0,0,2,5,0,6.0,3.6,0
+74,2025-10,Halcyon,Infra,Engineer,Mid,18,1.0,0,0,0,5,0,12.7,5.7,0
+75,2025-10,Halcyon,Infra,Designer,Junior,11,1.0,0,0,0,2,2,1.7,8.1,0
+76,2025-10,Halcyon,Infra,Product Manager,Junior,21,0.762,2,2,1,3,0,3.9,3.5,1
+77,2025-10,Halcyon,Infra,Product Manager,Junior,7,0.81,1,1,2,4,1,0.6,0.0,1
+78,2025-10,Halcyon,Infra,QA,Mid,51,0.952,0,1,0,7,2,7.1,0.0,0
+79,2025-10,Halcyon,Infra,Engineer,Mid,42,0.81,0,3,1,3,1,13.6,12.1,1
+80,2025-10,Halcyon,Infra,Engineer,Mid,37,0.905,2,0,0,4,2,9.6,14.6,0
+81,2025-10,Halcyon,Infra,DevOps,Senior,70,0.905,1,1,0,6,2,8.2,4.1,0
+82,2025-10,Aurora,Platform,DevOps,Mid,49,1.0,0,0,0,4,0,7.5,10.8,0
+83,2025-10,Aurora,Platform,DevOps,Junior,4,0.952,1,0,0,4,2,14.5,0.0,0
+84,2025-10,Aurora,Platform,Engineer,Junior,11,0.952,1,0,0,9,1,6.1,3.6,0
+85,2025-10,Aurora,Platform,Engineer,Junior,3,0.952,1,0,0,4,0,13.3,5.2,0
+86,2025-10,Aurora,Platform,Engineer,Mid,22,0.81,1,1,2,5,3,16.7,0.5,0
+87,2025-10,Aurora,Platform,Designer,Mid,19,0.952,1,0,0,4,0,9.9,3.3,0
+88,2025-10,Griffin,Product,Engineer,Mid,41,1.0,0,0,0,4,2,9.1,2.3,0
+89,2025-10,Griffin,Product,DevOps,Mid,29,1.0,0,0,0,7,2,7.4,5.2,0
+90,2025-10,Griffin,Product,Product Manager,Mid,47,0.952,1,0,0,4,0,17.4,4.4,0
+91,2025-10,Griffin,Product,Engineer,Mid,17,1.0,0,0,0,5,1,0.0,2.0,0
+92,2025-10,Griffin,Product,Engineer,Junior,2,0.857,2,0,1,4,2,6.5,1.5,0
+93,2025-10,Griffin,Product,Engineer,Senior,70,1.0,0,0,0,7,0,10.9,0.0,0
+94,2025-10,Griffin,Product,Designer,Senior,119,0.952,0,0,1,6,2,0.0,6.8,0
+95,2025-10,Griffin,Product,Engineer,Mid,30,0.905,1,0,1,6,0,18.6,0.2,0
+96,2025-10,Juniper,Growth,DevOps,Junior,10,0.857,3,0,0,4,2,8.0,3.1,0
+97,2025-10,Juniper,Growth,Product Manager,Junior,20,0.81,2,1,1,7,1,0.0,6.9,0
+98,2025-10,Juniper,Growth,Engineer,Mid,34,0.762,3,1,1,2,2,0.0,4.7,1
+99,2025-10,Juniper,Growth,Engineer,Junior,21,0.905,1,0,1,5,1,7.2,11.0,0
+100,2025-10,Juniper,Growth,Designer,Junior,7,0.857,3,0,0,6,0,8.4,7.5,0
+101,2025-10,Juniper,Growth,Product Manager,Senior,40,0.857,1,2,0,5,0,3.9,4.9,0
+102,2025-10,Juniper,Growth,QA,Mid,48,0.952,1,0,0,0,0,17.5,2.7,0
+103,2025-10,Juniper,Growth,DevOps,Senior,64,0.905,1,0,1,4,1,5.3,0.0,0
+104,2025-10,Kestrel,Data,DevOps,Junior,15,0.857,2,0,1,6,2,7.8,7.1,0
+105,2025-10,Kestrel,Data,Designer,Mid,26,0.905,1,0,1,5,0,9.9,6.0,0
+106,2025-10,Kestrel,Data,Product Manager,Mid,46,1.0,0,0,0,5,1,8.7,0.0,0
+107,2025-10,Kestrel,Data,Engineer,Senior,59,0.81,3,0,1,3,1,7.1,6.4,0
+108,2025-10,Kestrel,Data,DevOps,Mid,50,0.952,0,1,0,7,0,0.0,0.0,0
+109,2025-10,Kestrel,Data,Product Manager,Senior,105,0.81,2,2,0,4,1,5.9,10.7,1
+110,2025-10,Kestrel,Data,Engineer,Mid,54,1.0,0,0,0,2,0,11.2,8.1,0
+111,2025-10,Kestrel,Data,Product Manager,Senior,54,0.952,1,0,0,4,0,7.1,8.2,1
+112,2025-10,Kestrel,Data,Designer,Junior,22,0.905,1,0,1,6,0,8.5,2.5,0
+113,2025-10,Meridian,Infra,Engineer,Senior,98,0.905,2,0,0,6,3,7.5,6.0,0
+114,2025-10,Meridian,Infra,Engineer,Mid,53,0.905,1,0,1,7,0,2.8,4.3,0
+115,2025-10,Meridian,Infra,DevOps,Mid,45,1.0,0,0,0,3,0,4.0,0.0,0
+116,2025-10,Meridian,Infra,Engineer,Junior,18,0.905,1,1,0,3,1,6.4,6.4,0
+117,2025-10,Meridian,Infra,Engineer,Junior,21,0.905,1,1,0,5,1,9.9,6.8,0
+118,2025-10,Meridian,Infra,DevOps,Mid,18,0.905,2,0,0,7,1,3.3,0.0,0
+119,2025-10,Meridian,Infra,Engineer,Mid,28,0.952,0,0,1,6,0,8.7,0.0,0
+120,2025-10,Meridian,Infra,Product Manager,Junior,7,1.0,0,0,0,2,0,0.0,8.0,0
+121,2025-10,Meridian,Infra,DevOps,Mid,59,0.905,1,1,0,4,1,10.0,0.4,0
+122,2025-10,Solstice,Platform,Engineer,Mid,22,0.952,1,0,0,5,1,5.1,3.6,0
+123,2025-10,Solstice,Platform,Product Manager,Junior,8,1.0,0,0,0,6,0,6.9,0.1,0
+124,2025-10,Solstice,Platform,Product Manager,Mid,53,1.0,0,0,0,5,0,4.9,0.0,0
+125,2025-10,Solstice,Platform,Designer,Senior,75,0.905,0,1,1,3,0,0.0,0.0,0
+126,2025-10,Solstice,Platform,DevOps,Senior,79,0.952,0,1,0,7,1,7.5,6.5,0
+127,2025-10,Solstice,Platform,QA,Junior,7,0.667,5,1,1,4,2,10.2,0.0,1
+128,2025-10,Solstice,Platform,Engineer,Junior,11,0.762,2,2,1,7,1,6.6,0.0,0
+1,2025-11,Phoenix,Platform,DevOps,Mid,32,0.905,2,0,0,8,2,14.3,5.6,1
+2,2025-11,Phoenix,Platform,DevOps,Senior,79,0.952,1,0,0,1,0,4.6,1.8,0
+3,2025-11,Phoenix,Platform,QA,Mid,31,0.952,0,1,0,3,0,2.6,0.0,0
+4,2025-11,Phoenix,Platform,DevOps,Junior,20,0.905,2,0,0,8,1,0.0,10.4,0
+5,2025-11,Phoenix,Platform,Engineer,Senior,101,1.0,0,0,0,6,0,11.9,0.4,0
+6,2025-11,Phoenix,Platform,Engineer,Junior,18,0.952,0,1,0,7,3,6.3,0.0,0
+7,2025-11,Falcon,Product,Designer,Mid,21,0.905,1,1,0,7,2,5.7,11.3,1
+8,2025-11,Falcon,Product,Product Manager,Mid,19,0.905,1,0,1,1,1,10.9,5.6,0
+9,2025-11,Falcon,Product,Engineer,Senior,111,0.952,0,1,0,5,0,0.8,0.0,1
+10,2025-11,Falcon,Product,Product Manager,Junior,4,0.857,2,0,1,5,1,3.7,3.6,0
+11,2025-11,Falcon,Product,Engineer,Mid,39,1.0,0,0,0,6,1,3.5,9.9,0
+12,2025-11,Falcon,Product,QA,Mid,15,0.905,0,2,0,3,0,7.0,0.0,0
+13,2025-11,Falcon,Product,DevOps,Junior,14,0.905,1,0,1,2,0,2.1,5.5,0
+14,2025-11,Orion,Growth,QA,Junior,19,0.952,0,0,1,2,3,7.5,2.6,0
+15,2025-11,Orion,Growth,Engineer,Senior,91,0.857,1,1,1,2,1,7.3,4.5,0
+16,2025-11,Orion,Growth,QA,Junior,3,0.81,1,2,1,5,0,8.1,0.0,0
+17,2025-11,Orion,Growth,Engineer,Junior,4,0.905,2,0,0,7,0,6.4,0.0,0
+18,2025-11,Orion,Growth,Designer,Mid,29,0.857,1,2,0,5,1,3.9,6.2,0
+19,2025-11,Orion,Growth,Engineer,Junior,21,0.952,1,0,0,5,1,0.0,3.2,0
+20,2025-11,Orion,Growth,Engineer,Junior,2,0.952,0,1,0,7,1,0.0,0.0,0
+21,2025-11,Orion,Growth,Designer,Mid,38,0.81,1,2,1,6,0,7.2,6.4,0
+22,2025-11,Nimbus,Data,Engineer,Mid,18,0.952,0,0,1,2,0,3.0,8.0,0
+23,2025-11,Nimbus,Data,QA,Junior,5,0.905,1,1,0,5,0,0.0,2.5,0
+24,2025-11,Nimbus,Data,QA,Junior,3,0.905,2,0,0,6,2,3.3,3.5,0
+25,2025-11,Nimbus,Data,Engineer,Junior,4,0.905,1,0,1,5,0,6.5,0.0,0
+26,2025-11,Nimbus,Data,Engineer,Mid,33,0.905,2,0,0,0,1,17.1,2.9,0
+27,2025-11,Nimbus,Data,DevOps,Junior,13,0.857,3,0,0,1,1,2.3,12.0,0
+28,2025-11,Nimbus,Data,Engineer,Junior,20,0.81,2,2,0,4,2,3.2,11.2,0
+29,2025-11,Nimbus,Data,Engineer,Mid,46,1.0,0,0,0,5,0,5.3,8.4,0
+30,2025-11,Nimbus,Data,Product Manager,Junior,22,0.952,0,0,1,3,1,16.1,0.0,0
+31,2025-11,Vertex,Infra,DevOps,Senior,60,0.952,1,0,0,2,0,5.8,1.9,0
+32,2025-11,Vertex,Infra,Designer,Junior,13,0.714,4,2,0,4,3,3.2,5.4,1
+33,2025-11,Vertex,Infra,Product Manager,Senior,111,0.905,2,0,0,6,1,19.6,7.7,0
+34,2025-11,Vertex,Infra,DevOps,Mid,29,0.952,1,0,0,1,0,10.6,0.0,0
+35,2025-11,Vertex,Infra,Engineer,Junior,7,0.952,1,0,0,4,0,4.5,1.8,0
+36,2025-11,Vertex,Infra,DevOps,Mid,53,0.952,0,1,0,6,1,6.2,2.9,0
+37,2025-11,Vertex,Infra,Engineer,Mid,32,0.905,1,1,0,4,0,1.7,6.8,0
+38,2025-11,Vertex,Infra,Engineer,Mid,17,0.905,1,0,1,3,2,3.7,0.7,1
+39,2025-11,Vertex,Infra,Engineer,Senior,96,0.81,3,0,1,5,1,16.2,0.0,1
+40,2025-11,Vertex,Infra,DevOps,Senior,117,1.0,0,0,0,1,1,13.0,2.3,0
+41,2025-11,Atlas,Platform,Engineer,Junior,23,0.857,2,1,0,6,0,10.8,0.0,0
+42,2025-11,Atlas,Platform,DevOps,Junior,15,0.952,0,0,1,6,1,0.0,0.0,0
+43,2025-11,Atlas,Platform,Product Manager,Senior,89,0.952,0,0,1,6,0,3.2,5.6,0
+44,2025-11,Atlas,Platform,DevOps,Senior,55,0.905,1,1,0,2,0,6.7,0.1,0
+45,2025-11,Atlas,Platform,DevOps,Mid,31,0.952,1,0,0,7,0,17.2,0.0,0
+46,2025-11,Atlas,Platform,Product Manager,Mid,37,0.81,2,1,1,5,0,0.0,5.4,0
+47,2025-11,Atlas,Platform,Engineer,Junior,21,0.952,0,0,1,0,1,4.7,0.5,0
+48,2025-11,Atlas,Platform,Engineer,Junior,19,0.905,1,0,1,2,0,3.0,8.4,0
+49,2025-11,Atlas,Platform,QA,Junior,13,0.857,1,1,1,6,2,7.9,0.0,1
+50,2025-11,Comet,Product,DevOps,Mid,30,0.857,1,1,1,1,0,6.4,2.7,0
+51,2025-11,Comet,Product,QA,Junior,21,0.952,0,0,1,5,0,0.0,5.3,0
+52,2025-11,Comet,Product,Product Manager,Mid,14,0.857,2,0,1,3,0,15.0,1.1,0
+53,2025-11,Comet,Product,DevOps,Junior,3,0.714,5,1,0,6,1,2.9,0.0,1
+54,2025-11,Comet,Product,QA,Senior,84,0.952,1,0,0,6,0,15.7,0.0,1
+55,2025-11,Comet,Product,QA,Mid,58,0.905,0,2,0,4,1,9.5,11.4,0
+56,2025-11,Lumen,Growth,Engineer,Junior,7,1.0,0,0,0,6,0,6.4,2.8,0
+57,2025-11,Lumen,Growth,DevOps,Mid,27,0.952,0,1,0,4,1,10.6,0.4,0
+58,2025-11,Lumen,Growth,Product Manager,Senior,76,0.952,0,1,0,8,1,16.0,0.0,0
+59,2025-11,Lumen,Growth,Designer,Mid,50,1.0,0,0,0,5,0,8.4,0.0,0
+60,2025-11,Lumen,Growth,Engineer,Junior,7,0.905,1,0,1,4,1,4.9,4.8,0
+61,2025-11,Lumen,Growth,Product Manager,Mid,16,0.905,0,1,1,5,1,5.2,0.0,0
+62,2025-11,Lumen,Growth,Engineer,Mid,33,0.952,1,0,0,5,2,7.3,15.4,0
+63,2025-11,Zephyr,Data,QA,Junior,14,0.762,3,1,1,3,2,15.5,2.8,1
+64,2025-11,Zephyr,Data,QA,Mid,37,0.952,1,0,0,3,0,11.5,1.4,0
+65,2025-11,Zephyr,Data,Designer,Senior,46,0.81,3,0,1,5,1,7.7,1.4,0
+66,2025-11,Zephyr,Data,Product Manager,Mid,49,0.952,1,0,0,6,0,3.1,2.2,0
+67,2025-11,Zephyr,Data,Engineer,Junior,21,0.905,1,0,1,2,1,8.1,7.6,0
+68,2025-11,Zephyr,Data,DevOps,Senior,97,1.0,0,0,0,7,0,8.6,0.0,0
+69,2025-11,Zephyr,Data,Designer,Senior,76,1.0,0,0,0,5,0,2.2,7.6,0
+70,2025-11,Zephyr,Data,QA,Senior,58,0.762,2,2,1,2,2,13.1,3.9,0
+71,2025-11,Zephyr,Data,Engineer,Mid,38,0.952,0,0,1,4,1,17.8,8.0,0
+72,2025-11,Halcyon,Infra,Engineer,Mid,12,0.952,1,0,0,5,0,4.3,0.3,0
+73,2025-11,Halcyon,Infra,DevOps,Senior,93,1.0,0,0,0,4,1,2.6,0.0,0
+74,2025-11,Halcyon,Infra,Engineer,Mid,18,0.952,0,1,0,3,0,12.0,0.2,0
+75,2025-11,Halcyon,Infra,Designer,Junior,11,0.952,1,0,0,5,0,3.4,0.0,0
+76,2025-11,Halcyon,Infra,Product Manager,Junior,21,0.905,0,0,2,4,0,0.0,0.3,0
+77,2025-11,Halcyon,Infra,Product Manager,Junior,7,0.952,1,0,0,0,0,2.4,0.0,0
+78,2025-11,Halcyon,Infra,QA,Mid,51,0.857,2,0,1,6,1,10.1,2.1,0
+79,2025-11,Halcyon,Infra,Engineer,Mid,42,0.81,2,0,2,1,0,17.3,4.9,0
+80,2025-11,Halcyon,Infra,Engineer,Mid,37,0.952,0,1,0,3,1,15.8,4.4,0
+81,2025-11,Halcyon,Infra,DevOps,Senior,70,0.762,4,1,0,8,0,11.3,2.5,0
+82,2025-11,Aurora,Platform,DevOps,Mid,49,0.905,2,0,0,3,0,14.0,0.0,0
+83,2025-11,Aurora,Platform,DevOps,Junior,4,0.952,0,0,1,3,0,6.0,7.2,1
+84,2025-11,Aurora,Platform,Engineer,Junior,11,0.952,0,0,1,1,1,7.3,5.6,0
+85,2025-11,Aurora,Platform,Engineer,Junior,3,0.762,2,1,2,5,2,2.6,2.3,0
+86,2025-11,Aurora,Platform,Engineer,Mid,22,0.857,3,0,0,5,1,15.6,0.0,0
+87,2025-11,Aurora,Platform,Designer,Mid,19,0.952,0,1,0,6,0,5.7,0.0,1
+88,2025-11,Griffin,Product,Engineer,Mid,41,1.0,0,0,0,5,1,5.8,3.9,0
+89,2025-11,Griffin,Product,DevOps,Mid,29,1.0,0,0,0,2,0,11.5,6.3,0
+90,2025-11,Griffin,Product,Product Manager,Mid,47,0.857,2,0,1,4,0,10.2,0.0,0
+91,2025-11,Griffin,Product,Engineer,Mid,17,0.952,0,1,0,10,0,10.1,0.0,0
+92,2025-11,Griffin,Product,Engineer,Junior,2,0.857,0,0,3,4,0,3.2,0.0,0
+93,2025-11,Griffin,Product,Engineer,Senior,70,1.0,0,0,0,2,0,4.8,4.4,0
+94,2025-11,Griffin,Product,Designer,Senior,119,0.857,2,1,0,7,1,9.2,3.1,0
+95,2025-11,Griffin,Product,Engineer,Mid,30,0.952,1,0,0,6,0,11.4,12.0,0
+96,2025-11,Juniper,Growth,DevOps,Junior,10,0.857,1,1,1,5,2,8.7,10.5,0
+97,2025-11,Juniper,Growth,Product Manager,Junior,20,0.81,2,1,1,5,1,3.8,3.9,0
+98,2025-11,Juniper,Growth,Engineer,Mid,34,0.857,1,0,2,1,1,0.0,11.5,0
+99,2025-11,Juniper,Growth,Engineer,Junior,21,0.905,2,0,0,2,2,1.1,16.1,1
+100,2025-11,Juniper,Growth,Designer,Junior,7,0.905,0,1,1,3,0,0.0,4.4,0
+101,2025-11,Juniper,Growth,Product Manager,Senior,40,0.905,2,0,0,2,1,9.6,12.1,0
+102,2025-11,Juniper,Growth,QA,Mid,48,0.952,0,0,1,4,0,0.0,4.9,0
+103,2025-11,Juniper,Growth,DevOps,Senior,64,0.952,1,0,0,6,3,4.2,2.4,0
+104,2025-11,Kestrel,Data,DevOps,Junior,15,0.952,0,1,0,4,1,1.9,0.0,0
+105,2025-11,Kestrel,Data,Designer,Mid,26,1.0,0,0,0,6,1,4.8,0.0,0
+106,2025-11,Kestrel,Data,Product Manager,Mid,46,0.905,0,0,2,3,0,7.0,0.0,0
+107,2025-11,Kestrel,Data,Engineer,Senior,59,0.952,0,1,0,5,1,11.4,4.8,0
+108,2025-11,Kestrel,Data,DevOps,Mid,50,0.857,3,0,0,8,0,9.9,0.0,0
+109,2025-11,Kestrel,Data,Product Manager,Senior,105,0.762,4,0,1,2,2,14.2,4.1,0
+110,2025-11,Kestrel,Data,Engineer,Mid,54,0.905,0,0,2,4,0,1.1,11.3,0
+111,2025-11,Kestrel,Data,Product Manager,Senior,54,0.857,1,1,1,1,3,3.6,4.2,0
+112,2025-11,Kestrel,Data,Designer,Junior,22,0.905,1,0,1,6,1,1.2,0.0,0
+113,2025-11,Meridian,Infra,Engineer,Senior,98,0.952,1,0,0,3,0,10.9,0.0,0
+114,2025-11,Meridian,Infra,Engineer,Mid,53,1.0,0,0,0,5,0,4.7,6.7,0
+115,2025-11,Meridian,Infra,DevOps,Mid,45,0.952,0,0,1,4,0,14.9,0.2,0
+116,2025-11,Meridian,Infra,Engineer,Junior,18,0.714,4,0,2,4,1,2.2,0.0,1
+117,2025-11,Meridian,Infra,Engineer,Junior,21,0.619,8,0,0,6,3,4.9,9.3,0
+118,2025-11,Meridian,Infra,DevOps,Mid,18,0.81,3,1,0,4,4,5.1,0.6,0
+119,2025-11,Meridian,Infra,Engineer,Mid,28,0.952,0,1,0,6,0,9.6,0.0,0
+120,2025-11,Meridian,Infra,Product Manager,Junior,7,0.952,1,0,0,5,0,3.7,0.0,0
+121,2025-11,Meridian,Infra,DevOps,Mid,59,0.857,3,0,0,5,0,7.8,8.6,0
+122,2025-11,Solstice,Platform,Engineer,Mid,22,0.952,0,0,1,3,0,10.2,0.0,0
+123,2025-11,Solstice,Platform,Product Manager,Junior,8,0.81,2,0,2,7,1,0.0,0.0,0
+124,2025-11,Solstice,Platform,Product Manager,Mid,53,0.905,2,0,0,4,0,7.1,3.9,0
+125,2025-11,Solstice,Platform,Designer,Senior,75,0.857,1,1,1,7,1,10.6,2.0,0
+126,2025-11,Solstice,Platform,DevOps,Senior,79,0.857,2,0,1,2,1,14.1,1.9,0
+127,2025-11,Solstice,Platform,QA,Junior,7,0.857,3,0,0,1,1,0.0,0.0,0
+128,2025-11,Solstice,Platform,Engineer,Junior,11,0.905,2,0,0,4,2,3.1,7.0,0
+1,2025-12,Phoenix,Platform,DevOps,Mid,32,0.952,0,1,0,5,0,12.0,0.0,0
+2,2025-12,Phoenix,Platform,DevOps,Senior,79,0.905,1,0,1,4,0,0.2,0.1,0
+3,2025-12,Phoenix,Platform,QA,Mid,31,0.905,2,0,0,5,0,1.5,0.0,1
+4,2025-12,Phoenix,Platform,DevOps,Junior,20,0.857,1,2,0,2,1,7.0,2.6,0
+5,2025-12,Phoenix,Platform,Engineer,Senior,101,0.952,0,1,0,5,1,11.8,0.8,1
+6,2025-12,Phoenix,Platform,Engineer,Junior,18,0.857,1,1,1,4,2,4.2,0.0,1
+7,2025-12,Falcon,Product,Designer,Mid,21,0.857,3,0,0,2,2,14.2,0.0,1
+8,2025-12,Falcon,Product,Product Manager,Mid,19,0.81,1,1,2,3,1,5.8,14.2,1
+9,2025-12,Falcon,Product,Engineer,Senior,111,0.762,4,1,0,4,0,1.4,4.1,1
+10,2025-12,Falcon,Product,Product Manager,Junior,4,0.905,1,0,1,5,1,11.5,11.7,0
+11,2025-12,Falcon,Product,Engineer,Mid,39,0.762,0,4,1,4,2,12.4,0.0,1
+12,2025-12,Falcon,Product,QA,Mid,15,0.857,1,0,2,4,0,6.1,6.5,0
+13,2025-12,Falcon,Product,DevOps,Junior,14,0.81,2,1,1,4,2,7.9,4.9,0
+14,2025-12,Orion,Growth,QA,Junior,19,0.905,2,0,0,3,0,7.7,5.1,0
+15,2025-12,Orion,Growth,Engineer,Senior,91,1.0,0,0,0,3,1,6.8,8.7,0
+16,2025-12,Orion,Growth,QA,Junior,3,0.81,2,1,1,5,1,4.4,3.4,1
+17,2025-12,Orion,Growth,Engineer,Junior,4,0.905,0,0,2,3,0,6.2,1.2,0
+18,2025-12,Orion,Growth,Designer,Mid,29,0.905,1,1,0,3,0,12.1,10.2,0
+19,2025-12,Orion,Growth,Engineer,Junior,21,0.714,3,3,0,4,0,0.0,1.6,1
+20,2025-12,Orion,Growth,Engineer,Junior,2,0.952,0,0,1,6,1,3.1,0.0,0
+21,2025-12,Orion,Growth,Designer,Mid,38,0.857,1,1,1,6,0,10.8,6.7,0
+22,2025-12,Nimbus,Data,Engineer,Mid,18,0.762,4,1,0,2,0,13.6,8.6,1
+23,2025-12,Nimbus,Data,QA,Junior,5,0.81,2,1,1,3,3,0.0,0.0,1
+24,2025-12,Nimbus,Data,QA,Junior,3,0.81,2,2,0,7,1,6.6,8.9,0
+25,2025-12,Nimbus,Data,Engineer,Junior,4,0.81,3,0,1,7,1,0.7,5.0,0
+26,2025-12,Nimbus,Data,Engineer,Mid,33,0.81,4,0,0,1,3,13.1,3.1,0
+27,2025-12,Nimbus,Data,DevOps,Junior,13,0.905,1,0,1,4,2,4.5,3.4,0
+28,2025-12,Nimbus,Data,Engineer,Junior,20,0.857,0,2,1,5,2,6.3,5.0,0
+29,2025-12,Nimbus,Data,Engineer,Mid,46,0.857,0,2,1,3,1,1.9,7.8,0
+30,2025-12,Nimbus,Data,Product Manager,Junior,22,0.857,3,0,0,7,0,4.5,0.0,0
+31,2025-12,Vertex,Infra,DevOps,Senior,60,0.905,2,0,0,6,0,2.1,9.2,0
+32,2025-12,Vertex,Infra,Designer,Junior,13,0.81,3,0,1,6,0,4.6,0.0,0
+33,2025-12,Vertex,Infra,Product Manager,Senior,111,0.857,2,0,1,6,2,10.9,0.0,1
+34,2025-12,Vertex,Infra,DevOps,Mid,29,0.905,0,0,2,6,0,3.2,10.1,0
+35,2025-12,Vertex,Infra,Engineer,Junior,7,1.0,0,0,0,3,0,3.4,0.0,0
+36,2025-12,Vertex,Infra,DevOps,Mid,53,0.905,1,1,0,5,1,8.0,2.9,0
+37,2025-12,Vertex,Infra,Engineer,Mid,32,0.762,3,1,1,7,1,0.0,0.9,0
+38,2025-12,Vertex,Infra,Engineer,Mid,17,0.905,2,0,0,2,1,7.1,2.3,0
+39,2025-12,Vertex,Infra,Engineer,Senior,96,0.619,5,2,1,3,0,6.6,3.8,1
+40,2025-12,Vertex,Infra,DevOps,Senior,117,0.905,1,0,1,1,0,5.7,0.0,1
+41,2025-12,Atlas,Platform,Engineer,Junior,23,0.81,1,2,1,4,1,3.5,1.6,1
+42,2025-12,Atlas,Platform,DevOps,Junior,15,1.0,0,0,0,4,0,5.7,0.0,0
+43,2025-12,Atlas,Platform,Product Manager,Senior,89,0.857,1,1,1,2,0,6.4,0.0,0
+44,2025-12,Atlas,Platform,DevOps,Senior,55,0.952,0,1,0,3,0,6.8,9.5,0
+45,2025-12,Atlas,Platform,DevOps,Mid,31,0.905,2,0,0,4,0,9.4,0.0,0
+46,2025-12,Atlas,Platform,Product Manager,Mid,37,0.857,2,1,0,3,1,12.5,2.8,0
+47,2025-12,Atlas,Platform,Engineer,Junior,21,0.857,2,1,0,5,0,4.4,14.5,0
+48,2025-12,Atlas,Platform,Engineer,Junior,19,0.905,2,0,0,2,0,2.6,2.7,0
+49,2025-12,Atlas,Platform,QA,Junior,13,0.952,0,1,0,7,1,1.3,0.9,0
+50,2025-12,Comet,Product,DevOps,Mid,30,0.952,1,0,0,2,0,9.4,0.0,0
+51,2025-12,Comet,Product,QA,Junior,21,0.905,0,1,1,6,0,4.4,2.8,1
+52,2025-12,Comet,Product,Product Manager,Mid,14,0.762,2,1,2,3,0,8.2,0.0,0
+53,2025-12,Comet,Product,DevOps,Junior,3,0.714,4,2,0,5,3,10.2,3.2,1
+54,2025-12,Comet,Product,QA,Senior,84,0.905,2,0,0,1,0,5.9,5.5,0
+55,2025-12,Comet,Product,QA,Mid,58,0.667,6,0,1,2,0,19.3,11.4,1
+56,2025-12,Lumen,Growth,Engineer,Junior,7,0.905,2,0,0,2,0,3.0,0.0,0
+57,2025-12,Lumen,Growth,DevOps,Mid,27,0.81,2,1,1,2,1,1.2,2.8,1
+58,2025-12,Lumen,Growth,Product Manager,Senior,76,1.0,0,0,0,6,1,6.7,3.4,0
+59,2025-12,Lumen,Growth,Designer,Mid,50,0.714,5,1,0,7,1,2.7,0.0,0
+60,2025-12,Lumen,Growth,Engineer,Junior,7,0.667,3,2,2,6,0,10.4,5.6,1
+61,2025-12,Lumen,Growth,Product Manager,Mid,16,0.952,1,0,0,8,1,9.1,1.5,0
+62,2025-12,Lumen,Growth,Engineer,Mid,33,0.857,2,0,1,3,0,11.3,0.0,0
+63,2025-12,Zephyr,Data,QA,Junior,14,0.81,0,2,2,1,4,0.0,1.5,0
+64,2025-12,Zephyr,Data,QA,Mid,37,0.952,0,0,1,5,0,14.4,1.2,0
+65,2025-12,Zephyr,Data,Designer,Senior,46,0.81,4,0,0,6,1,15.9,2.1,0
+66,2025-12,Zephyr,Data,Product Manager,Mid,49,0.81,2,1,1,5,0,5.3,0.0,0
+67,2025-12,Zephyr,Data,Engineer,Junior,21,0.905,2,0,0,1,0,2.6,3.8,0
+68,2025-12,Zephyr,Data,DevOps,Senior,97,0.905,2,0,0,4,0,20.5,0.0,0
+69,2025-12,Zephyr,Data,Designer,Senior,76,0.81,0,2,2,3,2,15.6,0.8,1
+70,2025-12,Zephyr,Data,QA,Senior,58,0.857,1,0,2,3,1,14.0,0.0,0
+71,2025-12,Zephyr,Data,Engineer,Mid,38,0.81,3,1,0,3,0,6.1,0.0,0
+72,2025-12,Halcyon,Infra,Engineer,Mid,12,0.952,0,1,0,5,0,4.5,5.6,0
+73,2025-12,Halcyon,Infra,DevOps,Senior,93,0.952,0,1,0,2,1,5.6,0.0,0
+74,2025-12,Halcyon,Infra,Engineer,Mid,18,0.952,0,0,1,4,0,2.8,7.3,0
+75,2025-12,Halcyon,Infra,Designer,Junior,11,0.952,1,0,0,2,0,2.1,1.1,0
+76,2025-12,Halcyon,Infra,Product Manager,Junior,21,0.905,2,0,0,6,0,0.0,7.2,0
+77,2025-12,Halcyon,Infra,Product Manager,Junior,7,0.857,2,1,0,4,4,9.5,0.8,0
+78,2025-12,Halcyon,Infra,QA,Mid,51,0.857,1,0,2,5,1,6.6,7.7,0
+79,2025-12,Halcyon,Infra,Engineer,Mid,42,0.857,1,1,1,7,1,11.5,0.0,1
+80,2025-12,Halcyon,Infra,Engineer,Mid,37,0.762,2,0,3,7,1,12.9,2.9,0
+81,2025-12,Halcyon,Infra,DevOps,Senior,70,0.905,0,1,1,0,0,9.8,6.1,1
+82,2025-12,Aurora,Platform,DevOps,Mid,49,0.905,1,1,0,4,0,6.4,0.0,0
+83,2025-12,Aurora,Platform,DevOps,Junior,4,0.952,1,0,0,3,1,7.3,10.1,0
+84,2025-12,Aurora,Platform,Engineer,Junior,11,0.857,2,1,0,7,0,4.0,4.0,0
+85,2025-12,Aurora,Platform,Engineer,Junior,3,0.571,7,1,1,0,2,3.1,0.2,1
+86,2025-12,Aurora,Platform,Engineer,Mid,22,0.762,3,2,0,4,1,13.7,2.9,1
+87,2025-12,Aurora,Platform,Designer,Mid,19,0.857,3,0,0,2,0,5.7,5.6,1
+88,2025-12,Griffin,Product,Engineer,Mid,41,0.905,2,0,0,5,0,2.8,0.0,1
+89,2025-12,Griffin,Product,DevOps,Mid,29,0.952,1,0,0,4,0,7.0,0.0,0
+90,2025-12,Griffin,Product,Product Manager,Mid,47,0.81,3,0,1,2,0,16.8,8.4,0
+91,2025-12,Griffin,Product,Engineer,Mid,17,0.905,1,0,1,7,0,5.4,0.0,0
+92,2025-12,Griffin,Product,Engineer,Junior,2,0.905,0,1,1,10,1,4.8,2.4,0
+93,2025-12,Griffin,Product,Engineer,Senior,70,0.952,0,0,1,4,0,3.1,10.1,0
+94,2025-12,Griffin,Product,Designer,Senior,119,0.952,1,0,0,0,0,9.3,0.0,0
+95,2025-12,Griffin,Product,Engineer,Mid,30,0.571,6,3,0,2,0,5.9,8.7,1
+96,2025-12,Juniper,Growth,DevOps,Junior,10,0.762,3,2,0,6,0,0.0,0.0,0
+97,2025-12,Juniper,Growth,Product Manager,Junior,20,0.762,3,2,0,3,0,13.4,0.0,0
+98,2025-12,Juniper,Growth,Engineer,Mid,34,1.0,0,0,0,5,0,5.9,7.5,0
+99,2025-12,Juniper,Growth,Engineer,Junior,21,0.762,4,1,0,1,4,14.1,2.7,0
+100,2025-12,Juniper,Growth,Designer,Junior,7,0.762,3,2,0,2,0,0.2,11.3,0
+101,2025-12,Juniper,Growth,Product Manager,Senior,40,0.857,2,1,0,5,1,8.3,0.0,0
+102,2025-12,Juniper,Growth,QA,Mid,48,0.905,2,0,0,7,0,3.3,5.0,0
+103,2025-12,Juniper,Growth,DevOps,Senior,64,0.905,0,0,2,5,1,6.7,0.0,0
+104,2025-12,Kestrel,Data,DevOps,Junior,15,0.952,0,0,1,2,0,6.3,0.9,0
+105,2025-12,Kestrel,Data,Designer,Mid,26,0.905,1,1,0,5,1,9.3,0.0,0
+106,2025-12,Kestrel,Data,Product Manager,Mid,46,0.857,0,1,2,2,1,6.4,0.8,0
+107,2025-12,Kestrel,Data,Engineer,Senior,59,0.905,1,0,1,7,0,13.3,11.1,0
+108,2025-12,Kestrel,Data,DevOps,Mid,50,0.857,3,0,0,3,0,3.3,0.0,1
+109,2025-12,Kestrel,Data,Product Manager,Senior,105,0.857,2,1,0,6,1,4.8,0.0,0
+110,2025-12,Kestrel,Data,Engineer,Mid,54,0.952,1,0,0,4,1,10.3,3.1,0
+111,2025-12,Kestrel,Data,Product Manager,Senior,54,0.857,1,1,1,8,0,10.7,0.0,1
+112,2025-12,Kestrel,Data,Designer,Junior,22,0.857,3,0,0,4,1,0.0,1.0,0
+113,2025-12,Meridian,Infra,Engineer,Senior,98,0.857,0,2,1,3,0,16.0,0.0,0
+114,2025-12,Meridian,Infra,Engineer,Mid,53,0.905,2,0,0,7,0,1.3,9.1,0
+115,2025-12,Meridian,Infra,DevOps,Mid,45,1.0,0,0,0,6,0,10.0,0.0,0
+116,2025-12,Meridian,Infra,Engineer,Junior,18,0.905,2,0,0,6,0,3.8,0.0,0
+117,2025-12,Meridian,Infra,Engineer,Junior,21,0.571,5,4,0,6,2,0.0,8.6,1
+118,2025-12,Meridian,Infra,DevOps,Mid,18,0.857,1,1,1,3,0,0.0,0.0,0
+119,2025-12,Meridian,Infra,Engineer,Mid,28,0.952,0,1,0,6,0,9.0,0.0,0
+120,2025-12,Meridian,Infra,Product Manager,Junior,7,0.952,0,1,0,3,0,1.5,4.7,0
+121,2025-12,Meridian,Infra,DevOps,Mid,59,0.762,3,2,0,5,0,3.6,0.0,1
+122,2025-12,Solstice,Platform,Engineer,Mid,22,0.762,2,1,2,3,0,14.7,0.0,1
+123,2025-12,Solstice,Platform,Product Manager,Junior,8,0.952,1,0,0,5,0,6.4,6.3,0
+124,2025-12,Solstice,Platform,Product Manager,Mid,53,0.81,2,1,1,4,0,1.0,0.0,1
+125,2025-12,Solstice,Platform,Designer,Senior,75,0.905,1,0,1,6,0,11.0,0.0,0
+126,2025-12,Solstice,Platform,DevOps,Senior,79,0.667,3,4,0,5,0,18.2,9.0,1
+127,2025-12,Solstice,Platform,QA,Junior,7,0.952,1,0,0,5,1,6.2,6.9,0
+128,2025-12,Solstice,Platform,Engineer,Junior,11,0.81,3,0,1,7,1,6.2,8.3,0
+1,2026-01,Phoenix,Platform,DevOps,Mid,32,0.905,2,0,0,5,0,9.4,0.9,0
+2,2026-01,Phoenix,Platform,DevOps,Senior,79,0.857,0,3,0,4,0,5.6,1.7,0
+3,2026-01,Phoenix,Platform,QA,Mid,31,0.762,3,2,0,8,2,11.5,6.2,0
+4,2026-01,Phoenix,Platform,DevOps,Junior,20,0.905,2,0,0,8,0,0.0,0.0,0
+5,2026-01,Phoenix,Platform,Engineer,Senior,101,0.81,3,1,0,2,0,5.1,9.6,1
+6,2026-01,Phoenix,Platform,Engineer,Junior,18,0.714,4,1,1,2,1,13.8,5.1,1
+7,2026-01,Falcon,Product,Designer,Mid,21,0.905,2,0,0,3,1,8.5,11.0,0
+8,2026-01,Falcon,Product,Product Manager,Mid,19,0.81,4,0,0,2,1,10.3,2.5,0
+9,2026-01,Falcon,Product,Engineer,Senior,111,0.905,1,1,0,4,0,10.8,3.9,0
+10,2026-01,Falcon,Product,Product Manager,Junior,4,0.762,2,2,1,2,0,0.0,5.1,0
+11,2026-01,Falcon,Product,Engineer,Mid,39,1.0,0,0,0,4,1,13.9,0.0,0
+12,2026-01,Falcon,Product,QA,Mid,15,0.952,1,0,0,5,0,0.0,0.0,0
+13,2026-01,Falcon,Product,DevOps,Junior,14,0.952,0,0,1,4,0,2.8,0.0,0
+14,2026-01,Orion,Growth,QA,Junior,19,0.905,1,0,1,7,1,12.1,4.8,0
+15,2026-01,Orion,Growth,Engineer,Senior,91,0.905,1,0,1,4,0,10.2,2.3,0
+16,2026-01,Orion,Growth,QA,Junior,3,0.81,3,1,0,3,0,9.5,8.5,1
+17,2026-01,Orion,Growth,Engineer,Junior,4,0.952,0,0,1,5,1,0.0,3.8,0
+18,2026-01,Orion,Growth,Designer,Mid,29,0.857,2,1,0,3,1,5.7,0.0,0
+19,2026-01,Orion,Growth,Engineer,Junior,21,0.762,2,2,1,4,1,12.2,2.0,0
+20,2026-01,Orion,Growth,Engineer,Junior,2,0.905,2,0,0,5,1,1.5,3.6,0
+21,2026-01,Orion,Growth,Designer,Mid,38,0.857,3,0,0,4,1,13.5,8.5,0
+22,2026-01,Nimbus,Data,Engineer,Mid,18,0.857,2,0,1,3,1,16.9,1.8,1
+23,2026-01,Nimbus,Data,QA,Junior,5,0.905,1,1,0,6,0,1.7,2.7,0
+24,2026-01,Nimbus,Data,QA,Junior,3,0.857,3,0,0,2,2,2.4,2.6,0
+25,2026-01,Nimbus,Data,Engineer,Junior,4,0.905,1,1,0,3,1,5.2,2.0,0
+26,2026-01,Nimbus,Data,Engineer,Mid,33,0.952,0,0,1,6,0,9.0,0.5,0
+27,2026-01,Nimbus,Data,DevOps,Junior,13,0.952,1,0,0,4,0,7.3,8.8,0
+28,2026-01,Nimbus,Data,Engineer,Junior,20,0.762,3,1,1,1,2,7.1,7.6,1
+29,2026-01,Nimbus,Data,Engineer,Mid,46,0.952,0,1,0,4,0,14.0,4.6,0
+30,2026-01,Nimbus,Data,Product Manager,Junior,22,0.905,0,0,2,2,0,1.8,0.0,0
+31,2026-01,Vertex,Infra,DevOps,Senior,60,0.857,1,2,0,5,0,6.4,0.0,0
+32,2026-01,Vertex,Infra,Designer,Junior,13,0.714,3,3,0,7,0,0.0,2.5,0
+33,2026-01,Vertex,Infra,Product Manager,Senior,111,0.857,2,0,1,8,1,5.0,0.0,0
+34,2026-01,Vertex,Infra,DevOps,Mid,29,0.905,0,0,2,6,1,7.8,0.0,0
+35,2026-01,Vertex,Infra,Engineer,Junior,7,0.952,0,0,1,1,0,0.0,7.0,0
+36,2026-01,Vertex,Infra,DevOps,Mid,53,0.905,2,0,0,3,0,9.2,0.0,0
+37,2026-01,Vertex,Infra,Engineer,Mid,32,0.857,1,1,1,5,0,9.1,0.4,1
+38,2026-01,Vertex,Infra,Engineer,Mid,17,0.857,2,1,0,7,1,6.6,0.0,0
+39,2026-01,Vertex,Infra,Engineer,Senior,96,0.905,0,0,2,4,2,9.9,10.6,0
+40,2026-01,Vertex,Infra,DevOps,Senior,117,0.952,0,0,1,4,0,16.6,4.4,0
+41,2026-01,Atlas,Platform,Engineer,Junior,23,0.714,4,1,1,5,1,0.0,11.3,1
+42,2026-01,Atlas,Platform,DevOps,Junior,15,0.952,0,0,1,3,2,2.7,0.0,0
+43,2026-01,Atlas,Platform,Product Manager,Senior,89,0.762,4,0,1,4,0,4.4,6.5,0
+44,2026-01,Atlas,Platform,DevOps,Senior,55,0.762,2,2,1,4,0,15.0,0.0,1
+45,2026-01,Atlas,Platform,DevOps,Mid,31,0.905,1,0,1,3,0,8.3,0.6,0
+46,2026-01,Atlas,Platform,Product Manager,Mid,37,0.905,1,1,0,3,2,6.1,11.3,0
+47,2026-01,Atlas,Platform,Engineer,Junior,21,0.952,1,0,0,3,1,0.0,0.0,0
+48,2026-01,Atlas,Platform,Engineer,Junior,19,0.857,2,0,1,1,0,3.3,0.0,0
+49,2026-01,Atlas,Platform,QA,Junior,13,0.952,0,1,0,6,1,0.0,5.7,0
+50,2026-01,Comet,Product,DevOps,Mid,30,0.905,2,0,0,6,1,22.0,4.3,0
+51,2026-01,Comet,Product,QA,Junior,21,0.905,1,1,0,7,0,0.0,0.2,0
+52,2026-01,Comet,Product,Product Manager,Mid,14,0.905,1,0,1,6,0,14.8,0.0,1
+53,2026-01,Comet,Product,DevOps,Junior,3,0.714,4,1,1,3,1,0.0,7.8,0
+54,2026-01,Comet,Product,QA,Senior,84,0.905,1,1,0,5,1,0.0,2.4,1
+55,2026-01,Comet,Product,QA,Mid,58,0.714,5,1,0,3,4,4.7,14.2,1
+56,2026-01,Lumen,Growth,Engineer,Junior,7,0.952,0,1,0,3,1,3.5,0.0,0
+57,2026-01,Lumen,Growth,DevOps,Mid,27,0.952,1,0,0,8,0,0.2,0.0,0
+58,2026-01,Lumen,Growth,Product Manager,Senior,76,1.0,0,0,0,8,0,9.4,0.0,0
+59,2026-01,Lumen,Growth,Designer,Mid,50,0.762,3,1,1,3,1,10.0,2.1,0
+60,2026-01,Lumen,Growth,Engineer,Junior,7,0.857,0,2,1,4,2,6.7,3.4,0
+61,2026-01,Lumen,Growth,Product Manager,Mid,16,0.857,3,0,0,2,1,7.1,4.6,1
+62,2026-01,Lumen,Growth,Engineer,Mid,33,0.762,3,2,0,4,0,8.2,0.4,1
+63,2026-01,Zephyr,Data,QA,Junior,14,0.667,6,0,1,7,2,6.3,2.9,1
+64,2026-01,Zephyr,Data,QA,Mid,37,0.81,3,1,0,1,1,7.8,1.3,0
+65,2026-01,Zephyr,Data,Designer,Senior,46,0.619,6,2,0,8,3,5.2,2.7,1
+66,2026-01,Zephyr,Data,Product Manager,Mid,49,0.952,0,0,1,3,0,12.3,0.0,0
+67,2026-01,Zephyr,Data,Engineer,Junior,21,0.762,1,2,2,3,3,11.6,9.9,0
+68,2026-01,Zephyr,Data,DevOps,Senior,97,1.0,0,0,0,7,0,6.8,2.0,0
+69,2026-01,Zephyr,Data,Designer,Senior,76,0.762,2,2,1,5,0,14.6,4.8,0
+70,2026-01,Zephyr,Data,QA,Senior,58,0.81,4,0,0,4,2,13.0,0.0,1
+71,2026-01,Zephyr,Data,Engineer,Mid,38,1.0,0,0,0,5,0,13.1,1.2,1
+72,2026-01,Halcyon,Infra,Engineer,Mid,12,1.0,0,0,0,6,1,7.5,0.0,0
+73,2026-01,Halcyon,Infra,DevOps,Senior,93,0.952,0,0,1,3,2,8.5,0.0,0
+74,2026-01,Halcyon,Infra,Engineer,Mid,18,0.81,0,3,1,5,1,10.6,0.0,0
+75,2026-01,Halcyon,Infra,Designer,Junior,11,0.857,1,1,1,3,0,6.2,2.0,0
+76,2026-01,Halcyon,Infra,Product Manager,Junior,21,0.905,1,0,1,2,0,8.8,3.4,0
+77,2026-01,Halcyon,Infra,Product Manager,Junior,7,0.714,3,1,2,5,0,11.0,0.0,1
+78,2026-01,Halcyon,Infra,QA,Mid,51,0.857,2,1,0,4,0,7.8,2.6,0
+79,2026-01,Halcyon,Infra,Engineer,Mid,42,0.857,2,1,0,3,0,14.5,4.5,0
+80,2026-01,Halcyon,Infra,Engineer,Mid,37,0.905,1,1,0,8,0,4.4,6.1,0
+81,2026-01,Halcyon,Infra,DevOps,Senior,70,0.762,4,1,0,1,0,18.0,0.0,0
+82,2026-01,Aurora,Platform,DevOps,Mid,49,0.857,1,1,1,9,1,8.5,9.8,0
+83,2026-01,Aurora,Platform,DevOps,Junior,4,0.81,2,1,1,7,0,5.4,4.8,0
+84,2026-01,Aurora,Platform,Engineer,Junior,11,1.0,0,0,0,6,0,2.6,8.1,0
+85,2026-01,Aurora,Platform,Engineer,Junior,3,0.762,5,0,0,4,1,1.7,0.5,1
+86,2026-01,Aurora,Platform,Engineer,Mid,22,0.952,1,0,0,1,1,11.3,6.6,0
+87,2026-01,Aurora,Platform,Designer,Mid,19,0.905,1,0,1,6,1,8.3,12.2,0
+88,2026-01,Griffin,Product,Engineer,Mid,41,0.762,3,1,1,1,0,7.4,0.0,0
+89,2026-01,Griffin,Product,DevOps,Mid,29,0.857,1,1,1,5,0,2.5,2.0,1
+90,2026-01,Griffin,Product,Product Manager,Mid,47,0.905,1,0,1,5,2,9.0,7.2,0
+91,2026-01,Griffin,Product,Engineer,Mid,17,1.0,0,0,0,3,0,10.6,1.1,0
+92,2026-01,Griffin,Product,Engineer,Junior,2,0.905,2,0,0,2,1,0.0,3.5,0
+93,2026-01,Griffin,Product,Engineer,Senior,70,0.952,0,1,0,3,0,3.9,0.0,0
+94,2026-01,Griffin,Product,Designer,Senior,119,0.905,1,1,0,6,0,0.0,0.1,0
+95,2026-01,Griffin,Product,Engineer,Mid,30,0.952,0,0,1,3,1,3.8,2.2,0
+96,2026-01,Juniper,Growth,DevOps,Junior,10,0.905,1,1,0,3,1,0.0,8.2,1
+97,2026-01,Juniper,Growth,Product Manager,Junior,20,0.905,1,0,1,5,2,2.9,6.2,0
+98,2026-01,Juniper,Growth,Engineer,Mid,34,0.905,0,2,0,8,0,14.1,9.4,0
+99,2026-01,Juniper,Growth,Engineer,Junior,21,0.857,1,2,0,5,1,6.2,12.8,0
+100,2026-01,Juniper,Growth,Designer,Junior,7,0.952,1,0,0,1,0,0.0,0.0,0
+101,2026-01,Juniper,Growth,Product Manager,Senior,40,0.905,2,0,0,9,1,14.5,0.2,0
+102,2026-01,Juniper,Growth,QA,Mid,48,0.905,0,1,1,4,2,10.2,4.6,0
+103,2026-01,Juniper,Growth,DevOps,Senior,64,0.762,4,0,1,6,0,9.4,8.2,0
+104,2026-01,Kestrel,Data,DevOps,Junior,15,0.81,2,2,0,5,0,13.4,1.3,0
+105,2026-01,Kestrel,Data,Designer,Mid,26,0.857,1,1,1,5,1,9.5,2.1,0
+106,2026-01,Kestrel,Data,Product Manager,Mid,46,0.952,0,1,0,5,0,6.1,5.8,0
+107,2026-01,Kestrel,Data,Engineer,Senior,59,0.905,1,1,0,4,2,0.4,0.0,0
+108,2026-01,Kestrel,Data,DevOps,Mid,50,1.0,0,0,0,6,0,2.8,6.9,0
+109,2026-01,Kestrel,Data,Product Manager,Senior,105,0.714,4,1,1,7,2,5.3,3.3,1
+110,2026-01,Kestrel,Data,Engineer,Mid,54,0.905,1,1,0,3,0,1.0,0.3,0
+111,2026-01,Kestrel,Data,Product Manager,Senior,54,0.857,2,1,0,7,1,0.0,2.5,0
+112,2026-01,Kestrel,Data,Designer,Junior,22,0.81,3,0,1,3,1,5.5,1.9,0
+113,2026-01,Meridian,Infra,Engineer,Senior,98,0.905,1,0,1,7,0,15.3,4.5,0
+114,2026-01,Meridian,Infra,Engineer,Mid,53,0.905,1,1,0,4,1,8.4,7.4,0
+115,2026-01,Meridian,Infra,DevOps,Mid,45,0.81,1,2,1,3,0,13.9,4.0,0
+116,2026-01,Meridian,Infra,Engineer,Junior,18,0.857,1,1,1,1,2,15.6,9.4,0
+117,2026-01,Meridian,Infra,Engineer,Junior,21,0.81,3,0,1,5,4,7.5,8.5,0
+118,2026-01,Meridian,Infra,DevOps,Mid,18,0.81,1,2,1,6,1,3.4,4.3,0
+119,2026-01,Meridian,Infra,Engineer,Mid,28,1.0,0,0,0,5,0,11.7,0.0,0
+120,2026-01,Meridian,Infra,Product Manager,Junior,7,0.905,1,1,0,5,0,6.8,5.1,0
+121,2026-01,Meridian,Infra,DevOps,Mid,59,0.81,4,0,0,2,0,2.5,2.4,0
+122,2026-01,Solstice,Platform,Engineer,Mid,22,1.0,0,0,0,3,0,10.7,0.0,0
+123,2026-01,Solstice,Platform,Product Manager,Junior,8,0.857,2,1,0,6,3,7.8,0.9,0
+124,2026-01,Solstice,Platform,Product Manager,Mid,53,1.0,0,0,0,6,0,2.3,0.0,0
+125,2026-01,Solstice,Platform,Designer,Senior,75,0.952,1,0,0,6,0,11.4,0.0,0
+126,2026-01,Solstice,Platform,DevOps,Senior,79,0.857,2,1,0,9,0,5.5,5.8,0
+127,2026-01,Solstice,Platform,QA,Junior,7,0.81,2,2,0,3,3,3.8,0.0,1
+128,2026-01,Solstice,Platform,Engineer,Junior,11,0.857,2,1,0,4,1,4.0,6.0,0
+1,2026-02,Phoenix,Platform,DevOps,Mid,32,0.81,3,1,0,5,1,8.0,0.0,0
+2,2026-02,Phoenix,Platform,DevOps,Senior,79,0.905,2,0,0,7,0,3.4,0.0,1
+3,2026-02,Phoenix,Platform,QA,Mid,31,0.952,0,1,0,4,1,6.5,0.0,0
+4,2026-02,Phoenix,Platform,DevOps,Junior,20,0.81,4,0,0,4,1,4.8,2.2,0
+5,2026-02,Phoenix,Platform,Engineer,Senior,101,0.857,1,1,1,4,0,12.4,5.2,0
+6,2026-02,Phoenix,Platform,Engineer,Junior,18,0.762,4,0,1,5,0,3.5,0.9,0
+7,2026-02,Falcon,Product,Designer,Mid,21,0.952,0,0,1,3,0,8.4,3.9,0
+8,2026-02,Falcon,Product,Product Manager,Mid,19,0.762,4,1,0,2,1,15.0,0.6,1
+9,2026-02,Falcon,Product,Engineer,Senior,111,0.952,1,0,0,3,0,8.7,0.0,0
+10,2026-02,Falcon,Product,Product Manager,Junior,4,0.857,0,2,1,6,0,7.8,8.8,0
+11,2026-02,Falcon,Product,Engineer,Mid,39,1.0,0,0,0,3,0,3.1,3.5,0
+12,2026-02,Falcon,Product,QA,Mid,15,0.81,2,0,2,6,0,3.6,2.0,0
+13,2026-02,Falcon,Product,DevOps,Junior,14,0.952,0,0,1,4,0,0.0,3.7,0
+14,2026-02,Orion,Growth,QA,Junior,19,0.81,3,0,1,4,3,5.7,0.0,1
+15,2026-02,Orion,Growth,Engineer,Senior,91,0.857,2,0,1,6,1,11.6,7.9,0
+16,2026-02,Orion,Growth,QA,Junior,3,0.762,3,1,1,4,0,0.0,0.0,1
+17,2026-02,Orion,Growth,Engineer,Junior,4,0.905,2,0,0,2,0,7.3,6.7,0
+18,2026-02,Orion,Growth,Designer,Mid,29,0.81,2,1,1,5,2,1.9,0.0,0
+19,2026-02,Orion,Growth,Engineer,Junior,21,0.667,4,2,1,2,0,6.7,8.1,1
+20,2026-02,Orion,Growth,Engineer,Junior,2,0.857,2,1,0,4,0,0.0,0.0,0
+21,2026-02,Orion,Growth,Designer,Mid,38,0.905,1,1,0,2,2,11.5,4.9,0
+22,2026-02,Nimbus,Data,Engineer,Mid,18,0.714,2,2,2,4,1,6.2,9.0,0
+23,2026-02,Nimbus,Data,QA,Junior,5,0.952,1,0,0,2,0,0.0,0.0,0
+24,2026-02,Nimbus,Data,QA,Junior,3,0.905,2,0,0,7,0,5.5,8.3,0
+25,2026-02,Nimbus,Data,Engineer,Junior,4,0.857,2,1,0,6,1,3.8,4.0,1
+26,2026-02,Nimbus,Data,Engineer,Mid,33,0.81,0,4,0,2,0,4.9,4.2,0
+27,2026-02,Nimbus,Data,DevOps,Junior,13,0.762,2,2,1,4,1,5.1,0.3,1
+28,2026-02,Nimbus,Data,Engineer,Junior,20,0.905,2,0,0,5,0,0.0,2.6,0
+29,2026-02,Nimbus,Data,Engineer,Mid,46,1.0,0,0,0,2,0,5.7,0.0,0
+30,2026-02,Nimbus,Data,Product Manager,Junior,22,1.0,0,0,0,0,1,7.5,0.0,0
+31,2026-02,Vertex,Infra,DevOps,Senior,60,0.857,1,1,1,4,1,1.7,3.6,1
+32,2026-02,Vertex,Infra,Designer,Junior,13,0.81,4,0,0,6,2,1.0,8.3,0
+33,2026-02,Vertex,Infra,Product Manager,Senior,111,0.952,0,0,1,3,0,16.5,8.4,0
+34,2026-02,Vertex,Infra,DevOps,Mid,29,0.952,1,0,0,3,0,13.8,2.2,0
+35,2026-02,Vertex,Infra,Engineer,Junior,7,0.762,4,1,0,2,0,5.1,0.0,0
+36,2026-02,Vertex,Infra,DevOps,Mid,53,0.857,1,2,0,3,0,2.9,7.7,0
+37,2026-02,Vertex,Infra,Engineer,Mid,32,0.952,0,1,0,3,0,4.9,0.0,0
+38,2026-02,Vertex,Infra,Engineer,Mid,17,0.857,2,1,0,5,2,4.6,0.0,0
+39,2026-02,Vertex,Infra,Engineer,Senior,96,0.81,2,2,0,4,1,12.7,10.8,1
+40,2026-02,Vertex,Infra,DevOps,Senior,117,1.0,0,0,0,6,0,5.1,0.0,0
+41,2026-02,Atlas,Platform,Engineer,Junior,23,0.905,2,0,0,1,0,0.0,0.2,0
+42,2026-02,Atlas,Platform,DevOps,Junior,15,0.952,0,1,0,2,0,3.3,0.0,0
+43,2026-02,Atlas,Platform,Product Manager,Senior,89,0.952,0,1,0,3,0,14.0,0.3,0
+44,2026-02,Atlas,Platform,DevOps,Senior,55,0.905,1,0,1,4,2,16.4,4.3,0
+45,2026-02,Atlas,Platform,DevOps,Mid,31,0.81,1,1,2,3,1,8.2,4.6,0
+46,2026-02,Atlas,Platform,Product Manager,Mid,37,0.857,1,2,0,5,4,1.9,5.8,0
+47,2026-02,Atlas,Platform,Engineer,Junior,21,0.762,3,1,1,4,2,1.0,1.8,0
+48,2026-02,Atlas,Platform,Engineer,Junior,19,0.905,2,0,0,4,0,0.0,2.8,0
+49,2026-02,Atlas,Platform,QA,Junior,13,0.81,2,1,1,4,0,10.7,6.9,1
+50,2026-02,Comet,Product,DevOps,Mid,30,0.81,3,0,1,4,0,7.8,0.9,1
+51,2026-02,Comet,Product,QA,Junior,21,0.857,0,2,1,3,1,6.2,0.0,0
+52,2026-02,Comet,Product,Product Manager,Mid,14,1.0,0,0,0,3,0,13.0,6.3,0
+53,2026-02,Comet,Product,DevOps,Junior,3,0.81,1,2,1,4,2,0.0,1.5,0
+54,2026-02,Comet,Product,QA,Senior,84,0.762,3,1,1,5,0,8.4,0.0,1
+55,2026-02,Comet,Product,QA,Mid,58,0.905,1,1,0,3,0,4.5,4.7,0
+56,2026-02,Lumen,Growth,Engineer,Junior,7,0.905,1,1,0,2,2,2.0,0.5,1
+57,2026-02,Lumen,Growth,DevOps,Mid,27,0.952,1,0,0,1,1,6.3,0.6,0
+58,2026-02,Lumen,Growth,Product Manager,Senior,76,0.905,0,1,1,4,0,8.7,1.2,0
+59,2026-02,Lumen,Growth,Designer,Mid,50,1.0,0,0,0,4,0,7.9,0.0,0
+60,2026-02,Lumen,Growth,Engineer,Junior,7,0.81,4,0,0,2,2,8.0,0.6,0
+61,2026-02,Lumen,Growth,Product Manager,Mid,16,0.952,1,0,0,3,0,1.4,0.0,0
+62,2026-02,Lumen,Growth,Engineer,Mid,33,0.857,3,0,0,10,2,6.9,0.0,0
+63,2026-02,Zephyr,Data,QA,Junior,14,0.714,3,2,1,4,2,2.4,7.7,0
+64,2026-02,Zephyr,Data,QA,Mid,37,0.952,0,0,1,3,1,3.7,2.6,0
+65,2026-02,Zephyr,Data,Designer,Senior,46,0.714,5,1,0,2,1,9.1,4.4,0
+66,2026-02,Zephyr,Data,Product Manager,Mid,49,0.905,1,1,0,4,0,9.4,1.7,1
+67,2026-02,Zephyr,Data,Engineer,Junior,21,0.857,2,1,0,7,1,7.2,6.0,1
+68,2026-02,Zephyr,Data,DevOps,Senior,97,1.0,0,0,0,5,0,11.2,6.1,0
+69,2026-02,Zephyr,Data,Designer,Senior,76,0.81,3,1,0,6,1,8.1,6.8,1
+70,2026-02,Zephyr,Data,QA,Senior,58,0.857,2,0,1,4,0,0.0,0.0,0
+71,2026-02,Zephyr,Data,Engineer,Mid,38,0.905,2,0,0,6,0,7.6,6.7,0
+72,2026-02,Halcyon,Infra,Engineer,Mid,12,0.905,0,1,1,5,0,15.7,0.0,1
+73,2026-02,Halcyon,Infra,DevOps,Senior,93,0.952,1,0,0,3,0,12.6,0.0,1
+74,2026-02,Halcyon,Infra,Engineer,Mid,18,0.905,0,1,1,4,1,11.9,7.6,0
+75,2026-02,Halcyon,Infra,Designer,Junior,11,0.857,0,3,0,8,1,3.1,3.6,1
+76,2026-02,Halcyon,Infra,Product Manager,Junior,21,0.81,3,1,0,3,0,6.7,0.0,0
+77,2026-02,Halcyon,Infra,Product Manager,Junior,7,0.81,2,1,1,2,1,0.0,3.9,0
+78,2026-02,Halcyon,Infra,QA,Mid,51,0.905,0,2,0,6,1,12.1,13.0,0
+79,2026-02,Halcyon,Infra,Engineer,Mid,42,0.857,2,0,1,3,0,11.7,0.0,0
+80,2026-02,Halcyon,Infra,Engineer,Mid,37,0.81,1,3,0,3,1,11.0,9.8,1
+81,2026-02,Halcyon,Infra,DevOps,Senior,70,0.905,1,1,0,6,1,12.4,0.0,0
+82,2026-02,Aurora,Platform,DevOps,Mid,49,0.905,1,0,1,5,0,10.3,1.5,0
+83,2026-02,Aurora,Platform,DevOps,Junior,4,0.952,0,1,0,4,0,10.1,0.0,0
+84,2026-02,Aurora,Platform,Engineer,Junior,11,0.952,0,0,1,0,0,0.0,5.1,0
+85,2026-02,Aurora,Platform,Engineer,Junior,3,0.714,4,2,0,6,0,7.4,4.5,1
+86,2026-02,Aurora,Platform,Engineer,Mid,22,0.952,1,0,0,3,1,2.4,8.2,1
+87,2026-02,Aurora,Platform,Designer,Mid,19,0.905,2,0,0,6,1,10.6,0.0,0
+88,2026-02,Griffin,Product,Engineer,Mid,41,0.905,2,0,0,7,1,9.3,5.0,0
+89,2026-02,Griffin,Product,DevOps,Mid,29,0.952,0,0,1,4,0,13.1,0.9,0
+90,2026-02,Griffin,Product,Product Manager,Mid,47,0.952,0,0,1,7,0,6.4,6.9,0
+91,2026-02,Griffin,Product,Engineer,Mid,17,0.857,1,1,1,6,0,3.7,0.1,0
+92,2026-02,Griffin,Product,Engineer,Junior,2,0.905,0,1,1,3,0,4.2,3.6,0
+93,2026-02,Griffin,Product,Engineer,Senior,70,0.905,1,1,0,3,0,11.0,1.2,0
+94,2026-02,Griffin,Product,Designer,Senior,119,0.905,0,2,0,5,0,8.3,0.0,0
+95,2026-02,Griffin,Product,Engineer,Mid,30,0.952,0,1,0,5,0,11.0,2.6,0
+96,2026-02,Juniper,Growth,DevOps,Junior,10,0.952,0,1,0,2,3,3.9,5.6,0
+97,2026-02,Juniper,Growth,Product Manager,Junior,20,0.952,0,1,0,5,1,5.8,7.2,0
+98,2026-02,Juniper,Growth,Engineer,Mid,34,0.952,0,1,0,2,0,0.4,5.2,0
+99,2026-02,Juniper,Growth,Engineer,Junior,21,0.81,4,0,0,3,2,1.7,0.0,1
+100,2026-02,Juniper,Growth,Designer,Junior,7,0.762,4,1,0,5,1,6.9,2.7,1
+101,2026-02,Juniper,Growth,Product Manager,Senior,40,0.857,1,1,1,4,0,8.1,5.9,0
+102,2026-02,Juniper,Growth,QA,Mid,48,0.905,1,1,0,3,1,9.5,5.4,0
+103,2026-02,Juniper,Growth,DevOps,Senior,64,0.81,4,0,0,6,0,4.6,8.1,0
+104,2026-02,Kestrel,Data,DevOps,Junior,15,1.0,0,0,0,2,0,8.4,0.0,0
+105,2026-02,Kestrel,Data,Designer,Mid,26,0.952,0,0,1,5,0,9.0,5.2,1
+106,2026-02,Kestrel,Data,Product Manager,Mid,46,0.952,0,1,0,5,0,6.5,0.0,0
+107,2026-02,Kestrel,Data,Engineer,Senior,59,0.857,2,0,1,2,0,9.2,16.9,1
+108,2026-02,Kestrel,Data,DevOps,Mid,50,1.0,0,0,0,6,2,11.0,7.8,0
+109,2026-02,Kestrel,Data,Product Manager,Senior,105,0.857,1,1,1,5,2,3.0,3.8,0
+110,2026-02,Kestrel,Data,Engineer,Mid,54,0.905,0,0,2,8,0,1.7,11.7,0
+111,2026-02,Kestrel,Data,Product Manager,Senior,54,0.762,3,1,1,4,1,14.5,9.6,0
+112,2026-02,Kestrel,Data,Designer,Junior,22,0.905,0,1,1,8,1,0.0,0.0,0
+113,2026-02,Meridian,Infra,Engineer,Senior,98,0.905,1,1,0,2,0,6.2,1.9,0
+114,2026-02,Meridian,Infra,Engineer,Mid,53,1.0,0,0,0,3,0,12.9,4.0,0
+115,2026-02,Meridian,Infra,DevOps,Mid,45,0.905,1,1,0,5,1,9.8,3.4,0
+116,2026-02,Meridian,Infra,Engineer,Junior,18,0.714,6,0,0,9,1,13.1,14.5,1
+117,2026-02,Meridian,Infra,Engineer,Junior,21,0.81,3,0,1,1,1,10.4,0.0,0
+118,2026-02,Meridian,Infra,DevOps,Mid,18,0.905,0,1,1,4,4,7.7,10.7,0
+119,2026-02,Meridian,Infra,Engineer,Mid,28,0.905,0,0,2,5,0,5.5,0.0,0
+120,2026-02,Meridian,Infra,Product Manager,Junior,7,0.857,0,2,1,4,0,0.0,0.0,1
+121,2026-02,Meridian,Infra,DevOps,Mid,59,0.857,0,2,1,2,2,9.6,0.0,0
+122,2026-02,Solstice,Platform,Engineer,Mid,22,0.81,2,1,1,5,0,12.1,0.0,0
+123,2026-02,Solstice,Platform,Product Manager,Junior,8,0.857,1,1,1,4,1,5.6,4.0,0
+124,2026-02,Solstice,Platform,Product Manager,Mid,53,0.952,0,1,0,6,1,1.7,0.0,0
+125,2026-02,Solstice,Platform,Designer,Senior,75,0.952,0,1,0,5,0,11.0,5.8,0
+126,2026-02,Solstice,Platform,DevOps,Senior,79,0.905,2,0,0,4,0,14.0,6.0,0
+127,2026-02,Solstice,Platform,QA,Junior,7,0.905,0,2,0,3,0,0.2,2.7,0
+128,2026-02,Solstice,Platform,Engineer,Junior,11,0.857,1,2,0,4,1,11.0,4.3,0
+1,2026-03,Phoenix,Platform,DevOps,Mid,32,0.952,0,0,1,2,0,8.1,0.0,0
+2,2026-03,Phoenix,Platform,DevOps,Senior,79,0.857,2,0,1,8,3,8.2,1.0,0
+3,2026-03,Phoenix,Platform,QA,Mid,31,1.0,0,0,0,3,1,3.4,3.2,0
+4,2026-03,Phoenix,Platform,DevOps,Junior,20,0.952,0,0,1,5,1,2.1,7.0,0
+5,2026-03,Phoenix,Platform,Engineer,Senior,101,0.857,1,1,1,4,0,5.6,6.5,0
+6,2026-03,Phoenix,Platform,Engineer,Junior,18,0.905,0,0,2,3,3,0.7,2.8,0
+7,2026-03,Falcon,Product,Designer,Mid,21,0.952,0,0,1,4,0,4.6,0.0,0
+8,2026-03,Falcon,Product,Product Manager,Mid,19,0.714,4,1,1,7,0,3.7,5.2,0
+9,2026-03,Falcon,Product,Engineer,Senior,111,0.905,1,0,1,3,0,3.0,6.5,0
+10,2026-03,Falcon,Product,Product Manager,Junior,4,0.905,1,1,0,5,1,1.7,7.7,0
+11,2026-03,Falcon,Product,Engineer,Mid,39,0.857,2,0,1,2,1,16.9,0.0,0
+12,2026-03,Falcon,Product,QA,Mid,15,0.905,1,1,0,2,0,7.1,0.0,0
+13,2026-03,Falcon,Product,DevOps,Junior,14,0.905,0,1,1,6,0,9.7,2.6,0
+14,2026-03,Orion,Growth,QA,Junior,19,0.952,0,0,1,4,0,5.6,2.1,0
+15,2026-03,Orion,Growth,Engineer,Senior,91,1.0,0,0,0,5,0,6.8,0.4,0
+16,2026-03,Orion,Growth,QA,Junior,3,0.857,3,0,0,5,2,1.6,2.3,0
+17,2026-03,Orion,Growth,Engineer,Junior,4,0.857,2,1,0,6,0,11.2,1.8,0
+18,2026-03,Orion,Growth,Designer,Mid,29,0.952,1,0,0,6,2,14.9,10.3,0
+19,2026-03,Orion,Growth,Engineer,Junior,21,0.857,3,0,0,5,1,0.0,4.9,0
+20,2026-03,Orion,Growth,Engineer,Junior,2,0.857,3,0,0,0,0,4.1,6.7,0
+21,2026-03,Orion,Growth,Designer,Mid,38,0.952,0,0,1,5,1,6.4,0.0,0
+22,2026-03,Nimbus,Data,Engineer,Mid,18,0.952,0,0,1,2,0,5.6,0.0,0
+23,2026-03,Nimbus,Data,QA,Junior,5,0.857,2,0,1,3,3,6.3,3.0,1
+24,2026-03,Nimbus,Data,QA,Junior,3,0.905,1,0,1,12,0,0.9,10.0,0
+25,2026-03,Nimbus,Data,Engineer,Junior,4,0.952,1,0,0,7,0,2.4,1.7,0
+26,2026-03,Nimbus,Data,Engineer,Mid,33,0.905,1,1,0,4,0,6.9,0.0,0
+27,2026-03,Nimbus,Data,DevOps,Junior,13,0.857,3,0,0,6,1,0.0,6.1,1
+28,2026-03,Nimbus,Data,Engineer,Junior,20,0.905,2,0,0,2,3,9.2,7.1,0
+29,2026-03,Nimbus,Data,Engineer,Mid,46,1.0,0,0,0,3,0,6.6,0.0,0
+30,2026-03,Nimbus,Data,Product Manager,Junior,22,0.952,1,0,0,7,0,6.7,0.0,1
+31,2026-03,Vertex,Infra,DevOps,Senior,60,0.952,1,0,0,3,0,4.5,4.3,0
+32,2026-03,Vertex,Infra,Designer,Junior,13,0.857,1,1,1,2,4,3.7,5.9,0
+33,2026-03,Vertex,Infra,Product Manager,Senior,111,0.762,1,1,3,1,1,9.9,10.8,1
+34,2026-03,Vertex,Infra,DevOps,Mid,29,0.952,0,0,1,4,0,4.4,0.0,0
+35,2026-03,Vertex,Infra,Engineer,Junior,7,0.905,1,0,1,6,1,1.2,9.2,0
+36,2026-03,Vertex,Infra,DevOps,Mid,53,0.762,3,1,1,6,1,10.6,3.3,0
+37,2026-03,Vertex,Infra,Engineer,Mid,32,0.952,1,0,0,1,2,10.7,8.5,0
+38,2026-03,Vertex,Infra,Engineer,Mid,17,0.81,3,0,1,4,0,2.4,5.0,0
+39,2026-03,Vertex,Infra,Engineer,Senior,96,0.762,3,1,1,4,1,10.2,13.8,1
+40,2026-03,Vertex,Infra,DevOps,Senior,117,0.905,0,0,2,3,2,11.8,3.5,0
+41,2026-03,Atlas,Platform,Engineer,Junior,23,0.81,1,1,2,8,0,0.0,6.1,0
+42,2026-03,Atlas,Platform,DevOps,Junior,15,1.0,0,0,0,6,1,7.7,0.0,0
+43,2026-03,Atlas,Platform,Product Manager,Senior,89,0.81,3,0,1,2,0,2.7,0.0,1
+44,2026-03,Atlas,Platform,DevOps,Senior,55,0.905,1,1,0,2,4,15.4,9.0,0
+45,2026-03,Atlas,Platform,DevOps,Mid,31,0.905,0,0,2,5,0,6.9,6.9,0
+46,2026-03,Atlas,Platform,Product Manager,Mid,37,0.952,1,0,0,1,2,15.0,11.2,0
+47,2026-03,Atlas,Platform,Engineer,Junior,21,0.762,5,0,0,4,1,5.3,0.3,0
+48,2026-03,Atlas,Platform,Engineer,Junior,19,0.762,4,1,0,9,1,0.0,0.0,0
+49,2026-03,Atlas,Platform,QA,Junior,13,0.952,0,0,1,3,0,0.0,7.9,0
+50,2026-03,Comet,Product,DevOps,Mid,30,0.952,1,0,0,5,0,10.7,0.0,1
+51,2026-03,Comet,Product,QA,Junior,21,0.905,0,0,2,4,0,0.0,12.0,0
+52,2026-03,Comet,Product,Product Manager,Mid,14,0.857,2,0,1,4,0,11.2,1.3,0
+53,2026-03,Comet,Product,DevOps,Junior,3,0.857,3,0,0,3,1,6.3,5.7,0
+54,2026-03,Comet,Product,QA,Senior,84,0.905,2,0,0,1,0,0.0,5.4,0
+55,2026-03,Comet,Product,QA,Mid,58,0.857,1,2,0,5,0,6.8,3.1,0
+56,2026-03,Lumen,Growth,Engineer,Junior,7,0.857,2,1,0,6,1,1.8,7.1,0
+57,2026-03,Lumen,Growth,DevOps,Mid,27,0.905,1,0,1,3,0,11.4,0.1,0
+58,2026-03,Lumen,Growth,Product Manager,Senior,76,0.81,2,0,2,8,0,8.3,7.2,0
+59,2026-03,Lumen,Growth,Designer,Mid,50,0.905,1,0,1,5,1,1.8,0.0,0
+60,2026-03,Lumen,Growth,Engineer,Junior,7,0.905,1,1,0,7,0,7.2,8.4,0
+61,2026-03,Lumen,Growth,Product Manager,Mid,16,0.857,1,1,1,7,1,0.0,4.3,0
+62,2026-03,Lumen,Growth,Engineer,Mid,33,0.81,2,1,1,4,1,6.9,6.9,0
+63,2026-03,Zephyr,Data,QA,Junior,14,1.0,0,0,0,3,0,2.4,7.2,0
+64,2026-03,Zephyr,Data,QA,Mid,37,0.952,1,0,0,6,1,8.8,4.7,0
+65,2026-03,Zephyr,Data,Designer,Senior,46,0.762,2,3,0,2,0,0.7,2.8,0
+66,2026-03,Zephyr,Data,Product Manager,Mid,49,0.857,2,0,1,5,0,10.0,0.0,1
+67,2026-03,Zephyr,Data,Engineer,Junior,21,0.857,2,0,1,2,2,13.6,6.5,0
+68,2026-03,Zephyr,Data,DevOps,Senior,97,0.857,2,0,1,4,1,12.3,0.0,0
+69,2026-03,Zephyr,Data,Designer,Senior,76,0.952,1,0,0,3,1,4.2,4.7,0
+70,2026-03,Zephyr,Data,QA,Senior,58,0.952,0,1,0,4,0,4.2,0.0,0
+71,2026-03,Zephyr,Data,Engineer,Mid,38,0.762,3,0,2,1,0,5.3,0.0,0
+72,2026-03,Halcyon,Infra,Engineer,Mid,12,0.81,3,0,1,5,1,0.0,6.0,0
+73,2026-03,Halcyon,Infra,DevOps,Senior,93,0.905,1,1,0,7,0,17.1,2.5,1
+74,2026-03,Halcyon,Infra,Engineer,Mid,18,0.905,1,0,1,7,0,6.4,0.0,0
+75,2026-03,Halcyon,Infra,Designer,Junior,11,0.952,1,0,0,3,0,2.3,4.5,0
+76,2026-03,Halcyon,Infra,Product Manager,Junior,21,1.0,0,0,0,2,0,6.6,10.2,0
+77,2026-03,Halcyon,Infra,Product Manager,Junior,7,1.0,0,0,0,10,0,0.2,0.0,0
+78,2026-03,Halcyon,Infra,QA,Mid,51,0.81,2,1,1,3,0,12.7,0.0,0
+79,2026-03,Halcyon,Infra,Engineer,Mid,42,0.952,1,0,0,5,1,11.7,9.8,0
+80,2026-03,Halcyon,Infra,Engineer,Mid,37,0.857,2,1,0,4,1,4.2,7.9,0
+81,2026-03,Halcyon,Infra,DevOps,Senior,70,0.952,0,1,0,5,1,7.1,0.0,1
+82,2026-03,Aurora,Platform,DevOps,Mid,49,0.952,1,0,0,4,0,8.3,0.0,0
+83,2026-03,Aurora,Platform,DevOps,Junior,4,0.905,0,1,1,6,1,2.4,0.0,0
+84,2026-03,Aurora,Platform,Engineer,Junior,11,0.857,1,0,2,6,1,2.9,0.0,1
+85,2026-03,Aurora,Platform,Engineer,Junior,3,0.762,3,2,0,3,1,9.6,11.2,0
+86,2026-03,Aurora,Platform,Engineer,Mid,22,0.905,1,0,1,5,1,10.1,1.9,0
+87,2026-03,Aurora,Platform,Designer,Mid,19,0.762,1,3,1,2,1,9.9,6.6,0
+88,2026-03,Griffin,Product,Engineer,Mid,41,0.905,1,0,1,3,1,15.6,2.1,0
+89,2026-03,Griffin,Product,DevOps,Mid,29,0.952,0,0,1,6,1,0.0,8.5,0
+90,2026-03,Griffin,Product,Product Manager,Mid,47,0.857,1,0,2,4,3,8.4,3.6,0
+91,2026-03,Griffin,Product,Engineer,Mid,17,1.0,0,0,0,5,1,13.1,2.2,0
+92,2026-03,Griffin,Product,Engineer,Junior,2,0.762,2,1,2,6,0,2.6,3.1,0
+93,2026-03,Griffin,Product,Engineer,Senior,70,1.0,0,0,0,4,1,8.5,0.0,0
+94,2026-03,Griffin,Product,Designer,Senior,119,1.0,0,0,0,6,0,4.2,0.0,0
+95,2026-03,Griffin,Product,Engineer,Mid,30,0.952,0,1,0,4,1,10.8,1.6,0
+96,2026-03,Juniper,Growth,DevOps,Junior,10,0.81,3,0,1,6,0,5.3,0.0,0
+97,2026-03,Juniper,Growth,Product Manager,Junior,20,0.905,1,1,0,6,1,2.4,3.7,0
+98,2026-03,Juniper,Growth,Engineer,Mid,34,0.905,1,1,0,2,3,5.4,0.0,0
+99,2026-03,Juniper,Growth,Engineer,Junior,21,0.905,0,2,0,4,0,0.9,0.0,0
+100,2026-03,Juniper,Growth,Designer,Junior,7,1.0,0,0,0,3,1,2.9,1.4,0
+101,2026-03,Juniper,Growth,Product Manager,Senior,40,0.857,3,0,0,1,1,4.2,0.0,0
+102,2026-03,Juniper,Growth,QA,Mid,48,0.81,2,0,2,4,2,10.7,0.0,0
+103,2026-03,Juniper,Growth,DevOps,Senior,64,0.905,0,0,2,6,0,6.2,1.0,0
+104,2026-03,Kestrel,Data,DevOps,Junior,15,1.0,0,0,0,4,0,2.6,6.3,0
+105,2026-03,Kestrel,Data,Designer,Mid,26,0.905,1,0,1,2,1,11.3,1.1,1
+106,2026-03,Kestrel,Data,Product Manager,Mid,46,0.952,0,0,1,2,0,0.1,0.7,0
+107,2026-03,Kestrel,Data,Engineer,Senior,59,0.857,2,1,0,4,0,14.5,11.8,0
+108,2026-03,Kestrel,Data,DevOps,Mid,50,0.952,0,0,1,4,2,5.9,0.0,0
+109,2026-03,Kestrel,Data,Product Manager,Senior,105,0.905,1,0,1,5,0,6.4,5.7,1
+110,2026-03,Kestrel,Data,Engineer,Mid,54,0.905,0,1,1,2,0,9.4,3.8,1
+111,2026-03,Kestrel,Data,Product Manager,Senior,54,0.952,1,0,0,4,0,0.0,3.8,1
+112,2026-03,Kestrel,Data,Designer,Junior,22,1.0,0,0,0,5,2,5.4,8.7,0
+113,2026-03,Meridian,Infra,Engineer,Senior,98,0.952,1,0,0,9,0,5.1,1.2,0
+114,2026-03,Meridian,Infra,Engineer,Mid,53,0.905,1,1,0,7,0,4.2,4.1,0
+115,2026-03,Meridian,Infra,DevOps,Mid,45,0.952,1,0,0,4,1,4.7,5.9,0
+116,2026-03,Meridian,Infra,Engineer,Junior,18,0.81,3,1,0,4,2,7.2,6.6,0
+117,2026-03,Meridian,Infra,Engineer,Junior,21,0.857,3,0,0,4,3,7.8,3.2,0
+118,2026-03,Meridian,Infra,DevOps,Mid,18,0.714,4,2,0,6,1,0.0,3.7,0
+119,2026-03,Meridian,Infra,Engineer,Mid,28,0.952,1,0,0,6,0,8.7,0.8,0
+120,2026-03,Meridian,Infra,Product Manager,Junior,7,0.714,4,1,1,6,0,0.1,0.0,0
+121,2026-03,Meridian,Infra,DevOps,Mid,59,0.857,2,0,1,4,2,0.2,10.6,0
+122,2026-03,Solstice,Platform,Engineer,Mid,22,0.952,0,0,1,5,0,2.7,0.0,0
+123,2026-03,Solstice,Platform,Product Manager,Junior,8,0.905,1,1,0,3,0,6.4,5.1,0
+124,2026-03,Solstice,Platform,Product Manager,Mid,53,0.952,0,0,1,9,0,14.4,0.0,0
+125,2026-03,Solstice,Platform,Designer,Senior,75,1.0,0,0,0,6,0,5.5,3.8,0
+126,2026-03,Solstice,Platform,DevOps,Senior,79,1.0,0,0,0,2,0,8.0,0.0,0
+127,2026-03,Solstice,Platform,QA,Junior,7,0.952,1,0,0,4,2,6.9,5.7,0
+128,2026-03,Solstice,Platform,Engineer,Junior,11,0.81,2,1,1,4,3,5.5,10.8,1
+1,2026-04,Phoenix,Platform,DevOps,Mid,32,0.905,1,0,1,6,0,0.0,2.0,0
+2,2026-04,Phoenix,Platform,DevOps,Senior,79,1.0,0,0,0,5,0,6.4,9.1,0
+3,2026-04,Phoenix,Platform,QA,Mid,31,1.0,0,0,0,2,0,0.0,0.0,0
+4,2026-04,Phoenix,Platform,DevOps,Junior,20,0.905,2,0,0,6,1,14.9,0.0,0
+5,2026-04,Phoenix,Platform,Engineer,Senior,101,0.952,0,0,1,7,0,11.5,1.1,0
+6,2026-04,Phoenix,Platform,Engineer,Junior,18,0.905,2,0,0,5,2,8.0,0.4,0
+7,2026-04,Falcon,Product,Designer,Mid,21,0.905,2,0,0,5,0,13.8,4.2,0
+8,2026-04,Falcon,Product,Product Manager,Mid,19,0.905,2,0,0,3,4,8.5,2.7,0
+9,2026-04,Falcon,Product,Engineer,Senior,111,0.905,1,0,1,7,1,0.0,3.6,0
+10,2026-04,Falcon,Product,Product Manager,Junior,4,0.762,2,0,3,3,1,5.4,0.0,0
+11,2026-04,Falcon,Product,Engineer,Mid,39,1.0,0,0,0,1,0,2.7,0.0,0
+12,2026-04,Falcon,Product,QA,Mid,15,0.905,1,0,1,8,0,5.3,1.6,0
+13,2026-04,Falcon,Product,DevOps,Junior,14,0.905,1,0,1,2,0,12.7,0.0,0
+14,2026-04,Orion,Growth,QA,Junior,19,0.905,2,0,0,5,0,3.1,4.8,0
+15,2026-04,Orion,Growth,Engineer,Senior,91,0.952,0,0,1,10,0,15.4,5.9,0
+16,2026-04,Orion,Growth,QA,Junior,3,0.952,1,0,0,4,1,6.6,1.3,0
+17,2026-04,Orion,Growth,Engineer,Junior,4,0.905,1,1,0,4,1,9.8,6.7,1
+18,2026-04,Orion,Growth,Designer,Mid,29,0.905,2,0,0,3,0,12.0,5.2,0
+19,2026-04,Orion,Growth,Engineer,Junior,21,0.857,0,2,1,4,2,0.0,0.0,0
+20,2026-04,Orion,Growth,Engineer,Junior,2,1.0,0,0,0,5,1,2.8,3.4,0
+21,2026-04,Orion,Growth,Designer,Mid,38,0.857,2,1,0,4,3,11.7,5.9,1
+22,2026-04,Nimbus,Data,Engineer,Mid,18,0.905,1,1,0,8,1,10.2,4.4,0
+23,2026-04,Nimbus,Data,QA,Junior,5,0.952,1,0,0,3,0,8.7,7.2,1
+24,2026-04,Nimbus,Data,QA,Junior,3,0.905,1,0,1,4,1,0.0,2.2,0
+25,2026-04,Nimbus,Data,Engineer,Junior,4,0.952,0,0,1,6,1,0.0,7.9,0
+26,2026-04,Nimbus,Data,Engineer,Mid,33,0.905,2,0,0,3,0,1.3,0.0,0
+27,2026-04,Nimbus,Data,DevOps,Junior,13,0.857,2,1,0,6,1,6.4,8.1,0
+28,2026-04,Nimbus,Data,Engineer,Junior,20,0.81,1,3,0,1,4,7.0,4.9,0
+29,2026-04,Nimbus,Data,Engineer,Mid,46,1.0,0,0,0,7,0,4.5,0.6,0
+30,2026-04,Nimbus,Data,Product Manager,Junior,22,0.952,0,0,1,4,1,3.7,2.8,0
+31,2026-04,Vertex,Infra,DevOps,Senior,60,0.905,1,0,1,3,1,9.4,5.0,0
+32,2026-04,Vertex,Infra,Designer,Junior,13,0.619,5,1,2,3,1,1.1,12.4,1
+33,2026-04,Vertex,Infra,Product Manager,Senior,111,1.0,0,0,0,4,2,6.3,0.0,0
+34,2026-04,Vertex,Infra,DevOps,Mid,29,0.952,0,0,1,9,0,12.0,0.0,0
+35,2026-04,Vertex,Infra,Engineer,Junior,7,0.952,0,0,1,6,0,0.0,4.9,0
+36,2026-04,Vertex,Infra,DevOps,Mid,53,0.905,1,1,0,6,1,13.1,8.6,0
+37,2026-04,Vertex,Infra,Engineer,Mid,32,1.0,0,0,0,2,0,6.9,5.6,1
+38,2026-04,Vertex,Infra,Engineer,Mid,17,0.905,1,0,1,5,0,2.4,7.7,0
+39,2026-04,Vertex,Infra,Engineer,Senior,96,0.619,5,1,2,4,3,8.2,0.0,0
+40,2026-04,Vertex,Infra,DevOps,Senior,117,1.0,0,0,0,6,1,9.1,3.8,0
+41,2026-04,Atlas,Platform,Engineer,Junior,23,0.952,0,1,0,6,1,12.4,4.7,0
+42,2026-04,Atlas,Platform,DevOps,Junior,15,0.952,0,0,1,2,0,9.0,0.0,0
+43,2026-04,Atlas,Platform,Product Manager,Senior,89,0.952,0,0,1,5,0,7.8,1.1,0
+44,2026-04,Atlas,Platform,DevOps,Senior,55,0.81,3,1,0,7,2,2.2,2.3,0
+45,2026-04,Atlas,Platform,DevOps,Mid,31,0.952,0,0,1,1,0,7.2,7.9,0
+46,2026-04,Atlas,Platform,Product Manager,Mid,37,0.952,1,0,0,8,0,7.3,0.7,0
+47,2026-04,Atlas,Platform,Engineer,Junior,21,0.952,1,0,0,5,0,2.8,4.3,0
+48,2026-04,Atlas,Platform,Engineer,Junior,19,1.0,0,0,0,4,1,5.7,1.2,0
+49,2026-04,Atlas,Platform,QA,Junior,13,0.952,0,0,1,3,0,8.8,0.0,0
+50,2026-04,Comet,Product,DevOps,Mid,30,0.905,1,0,1,3,1,6.8,0.0,0
+51,2026-04,Comet,Product,QA,Junior,21,1.0,0,0,0,4,0,0.0,0.0,0
+52,2026-04,Comet,Product,Product Manager,Mid,14,1.0,0,0,0,4,0,1.1,0.0,0
+53,2026-04,Comet,Product,DevOps,Junior,3,0.905,1,1,0,2,0,0.3,6.6,0
+54,2026-04,Comet,Product,QA,Senior,84,0.952,1,0,0,4,0,14.2,0.2,0
+55,2026-04,Comet,Product,QA,Mid,58,0.714,4,1,1,4,2,11.4,6.5,1
+56,2026-04,Lumen,Growth,Engineer,Junior,7,0.952,1,0,0,7,2,16.0,7.5,0
+57,2026-04,Lumen,Growth,DevOps,Mid,27,0.905,1,1,0,4,1,8.7,6.3,0
+58,2026-04,Lumen,Growth,Product Manager,Senior,76,1.0,0,0,0,6,0,13.1,0.3,0
+59,2026-04,Lumen,Growth,Designer,Mid,50,1.0,0,0,0,7,0,4.5,0.0,0
+60,2026-04,Lumen,Growth,Engineer,Junior,7,0.952,1,0,0,5,3,8.9,4.8,0
+61,2026-04,Lumen,Growth,Product Manager,Mid,16,0.857,2,0,1,5,3,7.3,4.7,0
+62,2026-04,Lumen,Growth,Engineer,Mid,33,0.905,0,1,1,7,1,4.6,8.0,0
+63,2026-04,Zephyr,Data,QA,Junior,14,0.952,0,1,0,7,1,8.8,5.5,0
+64,2026-04,Zephyr,Data,QA,Mid,37,1.0,0,0,0,3,1,13.9,4.2,0
+65,2026-04,Zephyr,Data,Designer,Senior,46,0.714,4,2,0,4,0,13.3,7.3,0
+66,2026-04,Zephyr,Data,Product Manager,Mid,49,1.0,0,0,0,3,0,0.5,0.7,0
+67,2026-04,Zephyr,Data,Engineer,Junior,21,0.762,3,2,0,7,0,0.2,4.6,0
+68,2026-04,Zephyr,Data,DevOps,Senior,97,0.905,1,0,1,3,0,7.9,0.0,0
+69,2026-04,Zephyr,Data,Designer,Senior,76,0.905,1,0,1,3,0,7.7,0.0,0
+70,2026-04,Zephyr,Data,QA,Senior,58,0.905,1,1,0,1,0,2.9,3.1,0
+71,2026-04,Zephyr,Data,Engineer,Mid,38,1.0,0,0,0,7,0,9.4,0.0,0
+72,2026-04,Halcyon,Infra,Engineer,Mid,12,1.0,0,0,0,0,1,9.2,0.0,0
+73,2026-04,Halcyon,Infra,DevOps,Senior,93,1.0,0,0,0,6,0,5.5,0.0,0
+74,2026-04,Halcyon,Infra,Engineer,Mid,18,0.952,0,0,1,2,0,11.3,0.1,0
+75,2026-04,Halcyon,Infra,Designer,Junior,11,0.952,1,0,0,3,0,7.8,6.4,0
+76,2026-04,Halcyon,Infra,Product Manager,Junior,21,0.857,1,1,1,4,0,4.6,2.8,1
+77,2026-04,Halcyon,Infra,Product Manager,Junior,7,0.952,1,0,0,6,0,1.4,0.0,0
+78,2026-04,Halcyon,Infra,QA,Mid,51,0.857,2,0,1,5,2,10.7,11.9,0
+79,2026-04,Halcyon,Infra,Engineer,Mid,42,0.81,2,1,1,5,0,11.3,9.9,1
+80,2026-04,Halcyon,Infra,Engineer,Mid,37,0.81,3,0,1,2,4,13.4,8.6,1
+81,2026-04,Halcyon,Infra,DevOps,Senior,70,0.81,3,0,1,3,0,9.1,0.0,0
+82,2026-04,Aurora,Platform,DevOps,Mid,49,0.952,0,1,0,2,0,6.5,0.0,0
+83,2026-04,Aurora,Platform,DevOps,Junior,4,0.857,2,0,1,5,1,8.6,9.8,0
+84,2026-04,Aurora,Platform,Engineer,Junior,11,1.0,0,0,0,5,0,0.0,0.4,0
+85,2026-04,Aurora,Platform,Engineer,Junior,3,0.857,2,1,0,4,1,0.0,0.0,0
+86,2026-04,Aurora,Platform,Engineer,Mid,22,0.952,0,1,0,6,4,10.5,1.2,0
+87,2026-04,Aurora,Platform,Designer,Mid,19,0.857,2,0,1,5,2,3.8,0.0,0
+88,2026-04,Griffin,Product,Engineer,Mid,41,0.857,2,1,0,2,0,11.3,0.7,0
+89,2026-04,Griffin,Product,DevOps,Mid,29,0.952,0,0,1,4,0,12.1,0.0,1
+90,2026-04,Griffin,Product,Product Manager,Mid,47,0.905,1,0,1,3,2,2.2,5.6,0
+91,2026-04,Griffin,Product,Engineer,Mid,17,1.0,0,0,0,4,0,8.5,1.0,0
+92,2026-04,Griffin,Product,Engineer,Junior,2,1.0,0,0,0,6,2,0.0,0.0,0
+93,2026-04,Griffin,Product,Engineer,Senior,70,1.0,0,0,0,4,1,7.9,0.2,0
+94,2026-04,Griffin,Product,Designer,Senior,119,0.857,1,1,1,4,0,17.1,1.8,0
+95,2026-04,Griffin,Product,Engineer,Mid,30,0.857,2,0,1,4,0,5.3,7.0,0
+96,2026-04,Juniper,Growth,DevOps,Junior,10,0.905,2,0,0,2,1,4.0,3.9,0
+97,2026-04,Juniper,Growth,Product Manager,Junior,20,0.905,1,1,0,6,1,3.6,3.4,0
+98,2026-04,Juniper,Growth,Engineer,Mid,34,0.857,2,0,1,4,1,8.8,3.0,0
+99,2026-04,Juniper,Growth,Engineer,Junior,21,1.0,0,0,0,5,2,5.3,0.0,0
+100,2026-04,Juniper,Growth,Designer,Junior,7,0.905,2,0,0,4,0,8.5,0.0,0
+101,2026-04,Juniper,Growth,Product Manager,Senior,40,0.81,2,1,1,4,2,10.4,10.0,0
+102,2026-04,Juniper,Growth,QA,Mid,48,0.905,0,0,2,5,0,7.5,0.6,0
+103,2026-04,Juniper,Growth,DevOps,Senior,64,0.857,1,1,1,5,0,5.0,1.1,0
+104,2026-04,Kestrel,Data,DevOps,Junior,15,0.81,3,0,1,5,0,2.1,8.5,1
+105,2026-04,Kestrel,Data,Designer,Mid,26,0.905,1,1,0,4,1,11.4,1.9,0
+106,2026-04,Kestrel,Data,Product Manager,Mid,46,1.0,0,0,0,4,0,1.8,0.0,0
+107,2026-04,Kestrel,Data,Engineer,Senior,59,1.0,0,0,0,2,0,9.1,11.0,0
+108,2026-04,Kestrel,Data,DevOps,Mid,50,0.857,2,0,1,7,1,6.5,0.0,0
+109,2026-04,Kestrel,Data,Product Manager,Senior,105,1.0,0,0,0,5,1,8.8,0.6,0
+110,2026-04,Kestrel,Data,Engineer,Mid,54,0.905,1,0,1,3,0,13.5,0.0,0
+111,2026-04,Kestrel,Data,Product Manager,Senior,54,0.952,0,0,1,5,1,12.9,1.9,0
+112,2026-04,Kestrel,Data,Designer,Junior,22,1.0,0,0,0,0,0,12.7,0.0,0
+113,2026-04,Meridian,Infra,Engineer,Senior,98,1.0,0,0,0,3,0,3.3,1.4,0
+114,2026-04,Meridian,Infra,Engineer,Mid,53,0.952,0,1,0,9,1,0.0,0.0,0
+115,2026-04,Meridian,Infra,DevOps,Mid,45,0.952,0,0,1,2,0,7.0,6.0,0
+116,2026-04,Meridian,Infra,Engineer,Junior,18,0.857,2,0,1,4,3,7.1,4.3,0
+117,2026-04,Meridian,Infra,Engineer,Junior,21,0.905,1,1,0,5,2,4.8,6.5,0
+118,2026-04,Meridian,Infra,DevOps,Mid,18,0.857,1,1,1,5,1,0.0,3.8,0
+119,2026-04,Meridian,Infra,Engineer,Mid,28,0.952,0,0,1,5,1,5.8,10.6,0
+120,2026-04,Meridian,Infra,Product Manager,Junior,7,0.952,0,0,1,4,1,5.3,0.0,0
+121,2026-04,Meridian,Infra,DevOps,Mid,59,0.857,1,2,0,3,1,8.0,0.0,0
+122,2026-04,Solstice,Platform,Engineer,Mid,22,0.905,2,0,0,0,0,6.1,0.0,0
+123,2026-04,Solstice,Platform,Product Manager,Junior,8,0.952,1,0,0,3,2,0.8,0.0,0
+124,2026-04,Solstice,Platform,Product Manager,Mid,53,0.952,0,0,1,7,1,0.0,1.8,0
+125,2026-04,Solstice,Platform,Designer,Senior,75,0.952,1,0,0,3,0,7.5,9.0,0
+126,2026-04,Solstice,Platform,DevOps,Senior,79,0.952,1,0,0,8,0,5.7,3.5,0
+127,2026-04,Solstice,Platform,QA,Junior,7,0.857,1,1,1,2,1,2.9,10.0,0
+128,2026-04,Solstice,Platform,Engineer,Junior,11,0.905,1,1,0,7,0,0.0,0.0,0
+1,2026-05,Phoenix,Platform,DevOps,Mid,32,0.952,0,0,1,5,1,4.8,0.0,0
+2,2026-05,Phoenix,Platform,DevOps,Senior,79,0.81,2,0,2,3,2,2.3,5.3,0
+3,2026-05,Phoenix,Platform,QA,Mid,31,0.857,2,0,1,2,0,9.4,0.0,0
+4,2026-05,Phoenix,Platform,DevOps,Junior,20,0.81,2,1,1,5,2,0.0,6.6,0
+5,2026-05,Phoenix,Platform,Engineer,Senior,101,0.905,0,1,1,3,3,4.4,0.0,0
+6,2026-05,Phoenix,Platform,Engineer,Junior,18,0.81,2,2,0,7,1,9.0,0.0,0
+7,2026-05,Falcon,Product,Designer,Mid,21,0.857,1,2,0,3,0,9.7,6.8,0
+8,2026-05,Falcon,Product,Product Manager,Mid,19,0.952,1,0,0,5,1,13.8,0.0,0
+9,2026-05,Falcon,Product,Engineer,Senior,111,0.952,0,0,1,4,0,14.7,3.1,0
+10,2026-05,Falcon,Product,Product Manager,Junior,4,0.905,1,0,1,5,0,6.2,0.0,0
+11,2026-05,Falcon,Product,Engineer,Mid,39,0.952,0,0,1,4,0,4.3,3.9,0
+12,2026-05,Falcon,Product,QA,Mid,15,0.905,2,0,0,4,0,11.6,0.0,1
+13,2026-05,Falcon,Product,DevOps,Junior,14,1.0,0,0,0,5,0,2.1,11.1,0
+14,2026-05,Orion,Growth,QA,Junior,19,0.81,2,1,1,4,2,0.0,5.5,1
+15,2026-05,Orion,Growth,Engineer,Senior,91,1.0,0,0,0,4,1,4.1,0.3,0
+16,2026-05,Orion,Growth,QA,Junior,3,0.857,3,0,0,4,0,6.8,1.1,0
+17,2026-05,Orion,Growth,Engineer,Junior,4,0.762,4,1,0,3,0,0.0,1.3,0
+18,2026-05,Orion,Growth,Designer,Mid,29,0.905,2,0,0,6,2,10.9,4.5,1
+19,2026-05,Orion,Growth,Engineer,Junior,21,0.857,2,0,1,7,0,6.2,0.0,0
+20,2026-05,Orion,Growth,Engineer,Junior,2,0.952,0,0,1,3,1,8.6,2.9,0
+21,2026-05,Orion,Growth,Designer,Mid,38,0.857,2,1,0,8,1,9.8,7.7,0
+22,2026-05,Nimbus,Data,Engineer,Mid,18,1.0,0,0,0,4,0,3.2,7.6,0
+23,2026-05,Nimbus,Data,QA,Junior,5,0.905,2,0,0,9,2,7.4,0.0,0
+24,2026-05,Nimbus,Data,QA,Junior,3,0.81,2,1,1,6,0,2.9,6.4,0
+25,2026-05,Nimbus,Data,Engineer,Junior,4,0.952,1,0,0,8,2,0.0,7.8,0
+26,2026-05,Nimbus,Data,Engineer,Mid,33,0.952,0,0,1,5,1,5.8,1.7,0
+27,2026-05,Nimbus,Data,DevOps,Junior,13,0.81,3,1,0,5,1,3.4,3.0,1
+28,2026-05,Nimbus,Data,Engineer,Junior,20,1.0,0,0,0,1,1,9.8,0.8,0
+29,2026-05,Nimbus,Data,Engineer,Mid,46,1.0,0,0,0,8,0,0.0,11.3,0
+30,2026-05,Nimbus,Data,Product Manager,Junior,22,1.0,0,0,0,6,1,10.2,1.3,0
+31,2026-05,Vertex,Infra,DevOps,Senior,60,0.952,0,0,1,5,0,6.5,6.2,0
+32,2026-05,Vertex,Infra,Designer,Junior,13,0.905,2,0,0,7,4,8.2,5.7,0
+33,2026-05,Vertex,Infra,Product Manager,Senior,111,1.0,0,0,0,3,0,7.1,1.6,0
+34,2026-05,Vertex,Infra,DevOps,Mid,29,1.0,0,0,0,5,1,17.4,0.0,0
+35,2026-05,Vertex,Infra,Engineer,Junior,7,0.952,0,0,1,3,0,6.3,0.0,0
+36,2026-05,Vertex,Infra,DevOps,Mid,53,0.952,1,0,0,3,1,1.0,5.0,0
+37,2026-05,Vertex,Infra,Engineer,Mid,32,0.905,1,0,1,7,1,0.0,0.0,0
+38,2026-05,Vertex,Infra,Engineer,Mid,17,0.857,0,1,2,3,0,12.5,0.9,1
+39,2026-05,Vertex,Infra,Engineer,Senior,96,0.952,0,0,1,2,0,3.0,0.7,0
+40,2026-05,Vertex,Infra,DevOps,Senior,117,0.905,1,0,1,5,1,0.0,6.0,0
+41,2026-05,Atlas,Platform,Engineer,Junior,23,0.857,2,0,1,3,1,0.0,0.0,0
+42,2026-05,Atlas,Platform,DevOps,Junior,15,0.857,2,0,1,5,0,8.5,0.0,0
+43,2026-05,Atlas,Platform,Product Manager,Senior,89,0.952,0,1,0,6,1,9.9,0.0,0
+44,2026-05,Atlas,Platform,DevOps,Senior,55,1.0,0,0,0,5,1,3.0,4.8,0
+45,2026-05,Atlas,Platform,DevOps,Mid,31,0.952,0,0,1,6,0,12.9,0.0,0
+46,2026-05,Atlas,Platform,Product Manager,Mid,37,0.667,5,0,2,3,0,6.4,5.2,0
+47,2026-05,Atlas,Platform,Engineer,Junior,21,0.905,1,0,1,3,2,0.3,6.9,0
+48,2026-05,Atlas,Platform,Engineer,Junior,19,1.0,0,0,0,4,0,0.0,0.0,0
+49,2026-05,Atlas,Platform,QA,Junior,13,0.81,3,1,0,3,0,0.0,6.0,0
+50,2026-05,Comet,Product,DevOps,Mid,30,0.905,0,1,1,1,1,3.1,4.1,0
+51,2026-05,Comet,Product,QA,Junior,21,0.952,0,0,1,1,0,0.0,0.8,0
+52,2026-05,Comet,Product,Product Manager,Mid,14,0.857,1,1,1,6,1,10.6,5.0,0
+53,2026-05,Comet,Product,DevOps,Junior,3,0.857,2,1,0,6,1,0.0,3.9,0
+54,2026-05,Comet,Product,QA,Senior,84,0.81,3,0,1,3,0,1.7,4.5,0
+55,2026-05,Comet,Product,QA,Mid,58,0.905,1,1,0,5,1,18.3,3.7,0
+56,2026-05,Lumen,Growth,Engineer,Junior,7,0.905,1,1,0,5,2,10.7,3.1,0
+57,2026-05,Lumen,Growth,DevOps,Mid,27,0.905,1,0,1,2,0,10.4,3.4,0
+58,2026-05,Lumen,Growth,Product Manager,Senior,76,0.952,0,0,1,2,1,6.8,0.6,0
+59,2026-05,Lumen,Growth,Designer,Mid,50,0.952,1,0,0,8,0,8.5,0.0,0
+60,2026-05,Lumen,Growth,Engineer,Junior,7,0.857,2,1,0,1,1,1.3,0.0,0
+61,2026-05,Lumen,Growth,Product Manager,Mid,16,0.905,0,2,0,5,0,0.2,8.8,0
+62,2026-05,Lumen,Growth,Engineer,Mid,33,0.905,0,0,2,7,0,14.9,7.8,0
+63,2026-05,Zephyr,Data,QA,Junior,14,0.81,0,2,2,3,1,6.5,0.0,1
+64,2026-05,Zephyr,Data,QA,Mid,37,0.905,0,0,2,2,0,10.6,0.0,0
+65,2026-05,Zephyr,Data,Designer,Senior,46,0.905,2,0,0,7,2,18.7,7.9,0
+66,2026-05,Zephyr,Data,Product Manager,Mid,49,1.0,0,0,0,0,0,8.8,0.0,0
+67,2026-05,Zephyr,Data,Engineer,Junior,21,0.905,0,0,2,4,1,17.0,0.0,0
+68,2026-05,Zephyr,Data,DevOps,Senior,97,0.905,1,0,1,1,0,7.7,0.0,0
+69,2026-05,Zephyr,Data,Designer,Senior,76,0.81,2,1,1,2,1,15.7,6.5,1
+70,2026-05,Zephyr,Data,QA,Senior,58,0.81,1,2,1,3,0,12.9,3.3,0
+71,2026-05,Zephyr,Data,Engineer,Mid,38,1.0,0,0,0,0,0,12.3,4.8,0
+72,2026-05,Halcyon,Infra,Engineer,Mid,12,0.905,1,0,1,4,0,12.5,1.1,0
+73,2026-05,Halcyon,Infra,DevOps,Senior,93,0.952,1,0,0,3,0,0.2,3.8,0
+74,2026-05,Halcyon,Infra,Engineer,Mid,18,0.952,1,0,0,4,0,0.7,5.6,0
+75,2026-05,Halcyon,Infra,Designer,Junior,11,1.0,0,0,0,4,0,0.0,0.9,0
+76,2026-05,Halcyon,Infra,Product Manager,Junior,21,0.81,2,1,1,3,1,11.0,0.0,0
+77,2026-05,Halcyon,Infra,Product Manager,Junior,7,0.952,0,1,0,2,0,5.4,2.7,0
+78,2026-05,Halcyon,Infra,QA,Mid,51,0.952,0,1,0,5,1,9.2,10.9,1
+79,2026-05,Halcyon,Infra,Engineer,Mid,42,0.905,0,2,0,3,0,12.7,0.9,0
+80,2026-05,Halcyon,Infra,Engineer,Mid,37,0.81,1,1,2,5,1,9.8,3.0,0
+81,2026-05,Halcyon,Infra,DevOps,Senior,70,1.0,0,0,0,5,2,12.9,5.2,0
+82,2026-05,Aurora,Platform,DevOps,Mid,49,1.0,0,0,0,5,0,0.0,5.3,0
+83,2026-05,Aurora,Platform,DevOps,Junior,4,0.905,2,0,0,5,0,9.6,0.0,0
+84,2026-05,Aurora,Platform,Engineer,Junior,11,1.0,0,0,0,3,0,1.6,0.0,0
+85,2026-05,Aurora,Platform,Engineer,Junior,3,0.857,2,0,1,7,1,1.3,5.1,0
+86,2026-05,Aurora,Platform,Engineer,Mid,22,0.81,4,0,0,8,0,19.9,1.9,1
+87,2026-05,Aurora,Platform,Designer,Mid,19,0.952,0,1,0,4,2,5.2,0.0,0
+88,2026-05,Griffin,Product,Engineer,Mid,41,0.952,0,0,1,3,0,10.1,7.6,0
+89,2026-05,Griffin,Product,DevOps,Mid,29,0.952,0,0,1,4,0,6.3,1.5,0
+90,2026-05,Griffin,Product,Product Manager,Mid,47,0.905,1,0,1,4,0,6.3,4.9,0
+91,2026-05,Griffin,Product,Engineer,Mid,17,1.0,0,0,0,1,0,9.4,0.0,0
+92,2026-05,Griffin,Product,Engineer,Junior,2,0.905,0,2,0,5,0,13.7,3.5,0
+93,2026-05,Griffin,Product,Engineer,Senior,70,1.0,0,0,0,5,0,11.3,3.4,0
+94,2026-05,Griffin,Product,Designer,Senior,119,0.952,1,0,0,3,1,12.4,0.0,0
+95,2026-05,Griffin,Product,Engineer,Mid,30,1.0,0,0,0,5,0,10.6,5.9,0
+96,2026-05,Juniper,Growth,DevOps,Junior,10,0.905,0,2,0,5,1,6.0,1.7,0
+97,2026-05,Juniper,Growth,Product Manager,Junior,20,0.905,2,0,0,6,1,4.5,0.7,0
+98,2026-05,Juniper,Growth,Engineer,Mid,34,0.905,2,0,0,4,0,8.0,0.0,0
+99,2026-05,Juniper,Growth,Engineer,Junior,21,0.952,1,0,0,5,1,5.2,0.0,0
+100,2026-05,Juniper,Growth,Designer,Junior,7,0.952,1,0,0,4,1,15.2,0.0,0
+101,2026-05,Juniper,Growth,Product Manager,Senior,40,0.714,3,1,2,3,0,8.5,0.6,1
+102,2026-05,Juniper,Growth,QA,Mid,48,0.952,0,1,0,4,0,0.0,4.3,0
+103,2026-05,Juniper,Growth,DevOps,Senior,64,0.857,3,0,0,2,0,0.4,3.9,0
+104,2026-05,Kestrel,Data,DevOps,Junior,15,0.857,2,0,1,9,2,0.0,6.5,0
+105,2026-05,Kestrel,Data,Designer,Mid,26,0.905,1,0,1,4,0,0.0,0.0,0
+106,2026-05,Kestrel,Data,Product Manager,Mid,46,0.952,0,0,1,4,0,10.9,2.4,0
+107,2026-05,Kestrel,Data,Engineer,Senior,59,0.952,1,0,0,6,0,13.7,0.0,0
+108,2026-05,Kestrel,Data,DevOps,Mid,50,0.952,0,1,0,2,1,6.2,5.7,0
+109,2026-05,Kestrel,Data,Product Manager,Senior,105,0.952,1,0,0,5,3,3.4,3.6,0
+110,2026-05,Kestrel,Data,Engineer,Mid,54,0.952,0,0,1,2,1,9.5,0.0,0
+111,2026-05,Kestrel,Data,Product Manager,Senior,54,0.762,4,1,0,6,0,22.9,2.8,0
+112,2026-05,Kestrel,Data,Designer,Junior,22,0.905,1,1,0,3,1,0.0,1.4,0
+113,2026-05,Meridian,Infra,Engineer,Senior,98,1.0,0,0,0,6,0,6.3,8.2,0
+114,2026-05,Meridian,Infra,Engineer,Mid,53,0.857,0,2,1,3,0,7.4,0.0,0
+115,2026-05,Meridian,Infra,DevOps,Mid,45,1.0,0,0,0,3,0,11.1,5.1,0
+116,2026-05,Meridian,Infra,Engineer,Junior,18,0.857,2,1,0,1,2,14.0,11.2,1
+117,2026-05,Meridian,Infra,Engineer,Junior,21,0.857,0,3,0,3,1,0.0,9.8,0
+118,2026-05,Meridian,Infra,DevOps,Mid,18,1.0,0,0,0,7,0,14.7,3.6,0
+119,2026-05,Meridian,Infra,Engineer,Mid,28,1.0,0,0,0,0,0,17.5,2.4,0
+120,2026-05,Meridian,Infra,Product Manager,Junior,7,1.0,0,0,0,4,0,0.0,0.0,0
+121,2026-05,Meridian,Infra,DevOps,Mid,59,0.905,1,0,1,3,0,6.3,2.1,0
+122,2026-05,Solstice,Platform,Engineer,Mid,22,0.857,2,1,0,5,1,6.0,0.0,0
+123,2026-05,Solstice,Platform,Product Manager,Junior,8,0.952,0,0,1,1,0,2.7,0.0,1
+124,2026-05,Solstice,Platform,Product Manager,Mid,53,1.0,0,0,0,6,0,14.0,3.7,0
+125,2026-05,Solstice,Platform,Designer,Senior,75,1.0,0,0,0,3,1,7.9,0.0,0
+126,2026-05,Solstice,Platform,DevOps,Senior,79,0.905,1,0,1,5,2,5.8,6.3,0
+127,2026-05,Solstice,Platform,QA,Junior,7,0.857,3,0,0,8,2,0.0,10.5,0
+128,2026-05,Solstice,Platform,Engineer,Junior,11,0.952,1,0,0,5,0,6.1,9.8,0
+1,2026-06,Phoenix,Platform,DevOps,Mid,32,1.0,0,0,0,3,0,5.8,2.6,0
+2,2026-06,Phoenix,Platform,DevOps,Senior,79,0.857,2,0,1,2,0,1.0,1.9,0
+3,2026-06,Phoenix,Platform,QA,Mid,31,0.952,0,0,1,4,1,0.0,1.8,0
+4,2026-06,Phoenix,Platform,DevOps,Junior,20,0.952,1,0,0,7,2,0.9,0.0,0
+5,2026-06,Phoenix,Platform,Engineer,Senior,101,1.0,0,0,0,4,0,8.6,6.1,0
+6,2026-06,Phoenix,Platform,Engineer,Junior,18,0.857,2,1,0,4,0,0.0,4.5,0
+7,2026-06,Falcon,Product,Designer,Mid,21,0.952,1,0,0,7,1,10.2,7.6,0
+8,2026-06,Falcon,Product,Product Manager,Mid,19,0.905,1,0,1,4,0,10.8,12.4,0
+9,2026-06,Falcon,Product,Engineer,Senior,111,0.905,1,0,1,3,0,15.7,0.0,0
+10,2026-06,Falcon,Product,Product Manager,Junior,4,0.952,1,0,0,4,2,3.1,8.0,0
+11,2026-06,Falcon,Product,Engineer,Mid,39,0.905,1,1,0,3,0,10.0,4.7,0
+12,2026-06,Falcon,Product,QA,Mid,15,0.905,1,1,0,4,0,19.2,0.0,0
+13,2026-06,Falcon,Product,DevOps,Junior,14,0.905,1,0,1,5,0,12.7,4.1,0
+14,2026-06,Orion,Growth,QA,Junior,19,0.857,2,1,0,5,2,1.8,0.0,1
+15,2026-06,Orion,Growth,Engineer,Senior,91,1.0,0,0,0,5,0,5.7,0.0,0
+16,2026-06,Orion,Growth,QA,Junior,3,0.81,2,0,2,7,0,6.3,0.8,0
+17,2026-06,Orion,Growth,Engineer,Junior,4,0.952,0,1,0,7,1,3.5,1.3,0
+18,2026-06,Orion,Growth,Designer,Mid,29,0.905,1,1,0,8,0,6.2,0.0,1
+19,2026-06,Orion,Growth,Engineer,Junior,21,0.81,3,1,0,4,0,2.3,0.0,0
+20,2026-06,Orion,Growth,Engineer,Junior,2,1.0,0,0,0,6,0,3.8,6.3,0
+21,2026-06,Orion,Growth,Designer,Mid,38,0.952,0,1,0,5,0,2.5,4.9,0
+22,2026-06,Nimbus,Data,Engineer,Mid,18,0.905,0,0,2,4,1,8.5,2.4,0
+23,2026-06,Nimbus,Data,QA,Junior,5,0.952,0,1,0,2,0,9.2,0.0,0
+24,2026-06,Nimbus,Data,QA,Junior,3,0.762,3,1,1,4,1,15.3,0.6,0
+25,2026-06,Nimbus,Data,Engineer,Junior,4,0.857,2,0,1,3,0,1.2,5.6,1
+26,2026-06,Nimbus,Data,Engineer,Mid,33,0.952,0,0,1,4,0,15.6,0.0,0
+27,2026-06,Nimbus,Data,DevOps,Junior,13,0.905,1,1,0,6,5,7.4,6.8,0
+28,2026-06,Nimbus,Data,Engineer,Junior,20,0.714,4,1,1,1,1,0.0,8.0,0
+29,2026-06,Nimbus,Data,Engineer,Mid,46,0.905,1,0,1,4,0,9.6,0.0,0
+30,2026-06,Nimbus,Data,Product Manager,Junior,22,1.0,0,0,0,3,0,1.1,8.1,0
+31,2026-06,Vertex,Infra,DevOps,Senior,60,1.0,0,0,0,4,0,11.6,9.8,0
+32,2026-06,Vertex,Infra,Designer,Junior,13,0.905,1,1,0,6,4,0.3,0.1,0
+33,2026-06,Vertex,Infra,Product Manager,Senior,111,0.905,1,1,0,8,1,16.2,0.0,0
+34,2026-06,Vertex,Infra,DevOps,Mid,29,0.952,1,0,0,4,0,8.8,5.0,0
+35,2026-06,Vertex,Infra,Engineer,Junior,7,0.952,1,0,0,4,0,1.3,0.0,0
+36,2026-06,Vertex,Infra,DevOps,Mid,53,0.905,1,1,0,3,2,11.7,0.0,0
+37,2026-06,Vertex,Infra,Engineer,Mid,32,1.0,0,0,0,8,0,6.0,0.0,0
+38,2026-06,Vertex,Infra,Engineer,Mid,17,0.952,0,0,1,3,2,5.8,0.0,1
+39,2026-06,Vertex,Infra,Engineer,Senior,96,0.905,1,0,1,5,0,3.0,0.0,0
+40,2026-06,Vertex,Infra,DevOps,Senior,117,1.0,0,0,0,4,0,13.4,0.0,0
+41,2026-06,Atlas,Platform,Engineer,Junior,23,0.905,2,0,0,3,0,0.0,0.0,0
+42,2026-06,Atlas,Platform,DevOps,Junior,15,1.0,0,0,0,2,1,6.2,14.3,0
+43,2026-06,Atlas,Platform,Product Manager,Senior,89,1.0,0,0,0,3,0,0.4,12.0,0
+44,2026-06,Atlas,Platform,DevOps,Senior,55,0.905,1,0,1,6,1,10.3,5.4,0
+45,2026-06,Atlas,Platform,DevOps,Mid,31,0.952,0,0,1,3,0,14.3,7.0,0
+46,2026-06,Atlas,Platform,Product Manager,Mid,37,0.619,4,3,1,2,2,7.8,7.7,1
+47,2026-06,Atlas,Platform,Engineer,Junior,21,0.952,1,0,0,5,0,1.1,8.0,0
+48,2026-06,Atlas,Platform,Engineer,Junior,19,0.714,3,1,2,3,0,1.9,0.0,0
+49,2026-06,Atlas,Platform,QA,Junior,13,0.81,3,0,1,4,1,6.9,3.4,0
+50,2026-06,Comet,Product,DevOps,Mid,30,0.952,0,0,1,2,2,21.8,2.6,0
+51,2026-06,Comet,Product,QA,Junior,21,0.952,1,0,0,4,0,0.1,0.0,0
+52,2026-06,Comet,Product,Product Manager,Mid,14,0.952,0,0,1,4,0,5.3,9.2,0
+53,2026-06,Comet,Product,DevOps,Junior,3,0.857,3,0,0,6,3,0.0,1.3,0
+54,2026-06,Comet,Product,QA,Senior,84,1.0,0,0,0,4,0,4.2,0.0,0
+55,2026-06,Comet,Product,QA,Mid,58,0.857,2,1,0,3,0,2.6,0.0,1
+56,2026-06,Lumen,Growth,Engineer,Junior,7,0.952,0,0,1,2,1,0.0,8.5,0
+57,2026-06,Lumen,Growth,DevOps,Mid,27,0.857,1,0,2,2,0,5.6,7.2,0
+58,2026-06,Lumen,Growth,Product Manager,Senior,76,1.0,0,0,0,3,0,10.9,0.0,0
+59,2026-06,Lumen,Growth,Designer,Mid,50,0.905,0,1,1,6,3,15.6,16.8,1
+60,2026-06,Lumen,Growth,Engineer,Junior,7,0.905,1,1,0,0,2,3.8,0.0,0
+61,2026-06,Lumen,Growth,Product Manager,Mid,16,0.952,0,1,0,4,0,4.6,10.1,0
+62,2026-06,Lumen,Growth,Engineer,Mid,33,0.905,0,2,0,3,0,5.2,0.0,0
+63,2026-06,Zephyr,Data,QA,Junior,14,0.905,1,0,1,0,2,0.0,3.0,0
+64,2026-06,Zephyr,Data,QA,Mid,37,1.0,0,0,0,7,0,13.8,0.0,0
+65,2026-06,Zephyr,Data,Designer,Senior,46,0.81,3,1,0,5,0,10.0,4.0,0
+66,2026-06,Zephyr,Data,Product Manager,Mid,49,1.0,0,0,0,3,0,17.1,0.0,0
+67,2026-06,Zephyr,Data,Engineer,Junior,21,0.905,2,0,0,7,0,3.9,0.0,0
+68,2026-06,Zephyr,Data,DevOps,Senior,97,0.952,0,0,1,3,0,14.7,8.1,0
+69,2026-06,Zephyr,Data,Designer,Senior,76,0.905,1,0,1,4,1,0.1,5.4,0
+70,2026-06,Zephyr,Data,QA,Senior,58,0.952,1,0,0,1,1,5.7,8.3,0
+71,2026-06,Zephyr,Data,Engineer,Mid,38,1.0,0,0,0,0,0,13.5,0.0,0
+72,2026-06,Halcyon,Infra,Engineer,Mid,12,0.952,1,0,0,9,0,10.0,6.7,0
+73,2026-06,Halcyon,Infra,DevOps,Senior,93,0.952,1,0,0,6,0,8.9,1.6,0
+74,2026-06,Halcyon,Infra,Engineer,Mid,18,0.952,0,1,0,3,1,8.4,2.3,0
+75,2026-06,Halcyon,Infra,Designer,Junior,11,0.952,1,0,0,4,1,8.6,6.0,0
+76,2026-06,Halcyon,Infra,Product Manager,Junior,21,0.952,1,0,0,7,0,5.8,0.0,0
+77,2026-06,Halcyon,Infra,Product Manager,Junior,7,0.905,2,0,0,5,0,12.3,1.5,0
+78,2026-06,Halcyon,Infra,QA,Mid,51,0.857,0,2,1,4,0,4.0,2.7,0
+79,2026-06,Halcyon,Infra,Engineer,Mid,42,0.762,1,2,2,6,1,7.9,0.4,0
+80,2026-06,Halcyon,Infra,Engineer,Mid,37,0.905,1,0,1,3,0,8.0,1.0,0
+81,2026-06,Halcyon,Infra,DevOps,Senior,70,0.81,3,0,1,3,1,22.6,5.6,1
+82,2026-06,Aurora,Platform,DevOps,Mid,49,1.0,0,0,0,2,1,17.8,5.5,0
+83,2026-06,Aurora,Platform,DevOps,Junior,4,0.952,1,0,0,8,0,8.4,1.7,0
+84,2026-06,Aurora,Platform,Engineer,Junior,11,1.0,0,0,0,0,1,9.3,2.5,0
+85,2026-06,Aurora,Platform,Engineer,Junior,3,0.952,0,0,1,4,1,0.0,0.0,0
+86,2026-06,Aurora,Platform,Engineer,Mid,22,0.905,2,0,0,3,0,14.0,3.1,1
+87,2026-06,Aurora,Platform,Designer,Mid,19,0.762,3,1,1,2,1,7.7,4.3,0
+88,2026-06,Griffin,Product,Engineer,Mid,41,0.857,1,1,1,4,0,10.8,3.0,1
+89,2026-06,Griffin,Product,DevOps,Mid,29,0.952,0,0,1,6,1,0.6,1.6,0
+90,2026-06,Griffin,Product,Product Manager,Mid,47,1.0,0,0,0,4,0,3.3,5.6,0
+91,2026-06,Griffin,Product,Engineer,Mid,17,0.952,1,0,0,4,0,15.1,4.6,0
+92,2026-06,Griffin,Product,Engineer,Junior,2,0.81,3,0,1,5,2,2.3,3.8,0
+93,2026-06,Griffin,Product,Engineer,Senior,70,0.952,0,1,0,3,0,0.0,4.0,0
+94,2026-06,Griffin,Product,Designer,Senior,119,0.952,0,0,1,7,2,9.4,4.9,0
+95,2026-06,Griffin,Product,Engineer,Mid,30,1.0,0,0,0,4,1,15.2,0.0,0
+96,2026-06,Juniper,Growth,DevOps,Junior,10,0.905,2,0,0,3,2,2.5,10.1,0
+97,2026-06,Juniper,Growth,Product Manager,Junior,20,0.905,0,1,1,4,1,5.9,4.3,0
+98,2026-06,Juniper,Growth,Engineer,Mid,34,0.857,2,1,0,4,3,3.7,1.1,1
+99,2026-06,Juniper,Growth,Engineer,Junior,21,0.857,2,1,0,2,1,1.0,13.3,0
+100,2026-06,Juniper,Growth,Designer,Junior,7,0.857,2,1,0,7,1,0.0,0.0,0
+101,2026-06,Juniper,Growth,Product Manager,Senior,40,0.81,1,2,1,5,0,10.3,2.4,0
+102,2026-06,Juniper,Growth,QA,Mid,48,0.81,0,2,2,5,1,9.3,3.1,1
+103,2026-06,Juniper,Growth,DevOps,Senior,64,1.0,0,0,0,5,2,0.0,10.7,0
+104,2026-06,Kestrel,Data,DevOps,Junior,15,0.905,1,1,0,2,3,12.7,0.0,0
+105,2026-06,Kestrel,Data,Designer,Mid,26,0.905,1,0,1,6,0,6.3,14.7,0
+106,2026-06,Kestrel,Data,Product Manager,Mid,46,1.0,0,0,0,2,0,15.1,6.9,0
+107,2026-06,Kestrel,Data,Engineer,Senior,59,0.952,0,0,1,6,3,7.0,8.6,0
+108,2026-06,Kestrel,Data,DevOps,Mid,50,0.952,0,0,1,2,3,18.5,5.6,0
+109,2026-06,Kestrel,Data,Product Manager,Senior,105,0.81,2,2,0,7,3,11.0,2.5,0
+110,2026-06,Kestrel,Data,Engineer,Mid,54,1.0,0,0,0,2,0,10.9,0.0,0
+111,2026-06,Kestrel,Data,Product Manager,Senior,54,0.857,3,0,0,9,0,0.0,3.1,0
+112,2026-06,Kestrel,Data,Designer,Junior,22,1.0,0,0,0,5,2,11.1,0.0,0
+113,2026-06,Meridian,Infra,Engineer,Senior,98,1.0,0,0,0,8,0,14.2,6.4,1
+114,2026-06,Meridian,Infra,Engineer,Mid,53,0.857,2,0,1,6,1,0.0,0.0,0
+115,2026-06,Meridian,Infra,DevOps,Mid,45,1.0,0,0,0,5,0,9.8,0.6,0
+116,2026-06,Meridian,Infra,Engineer,Junior,18,0.857,2,0,1,7,6,0.0,5.3,0
+117,2026-06,Meridian,Infra,Engineer,Junior,21,0.905,1,1,0,3,0,3.4,6.1,1
+118,2026-06,Meridian,Infra,DevOps,Mid,18,0.905,2,0,0,5,2,10.1,9.0,1
+119,2026-06,Meridian,Infra,Engineer,Mid,28,0.952,1,0,0,5,1,7.6,3.7,1
+120,2026-06,Meridian,Infra,Product Manager,Junior,7,0.952,0,0,1,6,0,0.0,0.0,0
+121,2026-06,Meridian,Infra,DevOps,Mid,59,0.857,3,0,0,8,1,6.2,4.3,0
+122,2026-06,Solstice,Platform,Engineer,Mid,22,0.905,2,0,0,2,0,6.9,2.6,0
+123,2026-06,Solstice,Platform,Product Manager,Junior,8,0.952,0,0,1,1,0,9.4,0.0,0
+124,2026-06,Solstice,Platform,Product Manager,Mid,53,1.0,0,0,0,8,0,11.3,0.0,0
+125,2026-06,Solstice,Platform,Designer,Senior,75,1.0,0,0,0,7,1,20.0,0.0,0
+126,2026-06,Solstice,Platform,DevOps,Senior,79,0.81,1,1,2,3,0,15.1,2.8,0
+127,2026-06,Solstice,Platform,QA,Junior,7,0.905,0,2,0,3,0,0.0,0.0,0
+128,2026-06,Solstice,Platform,Engineer,Junior,11,0.905,1,1,0,4,1,6.8,5.7,1
+1,2026-07,Phoenix,Platform,DevOps,Mid,32,1.0,0,0,0,5,0,14.9,9.1,0
+2,2026-07,Phoenix,Platform,DevOps,Senior,79,0.857,2,1,0,2,0,0.7,5.7,0
+3,2026-07,Phoenix,Platform,QA,Mid,31,1.0,0,0,0,3,1,5.2,6.4,0
+4,2026-07,Phoenix,Platform,DevOps,Junior,20,0.762,2,2,1,5,0,12.9,9.4,0
+5,2026-07,Phoenix,Platform,Engineer,Senior,101,0.905,2,0,0,6,1,4.0,0.0,0
+6,2026-07,Phoenix,Platform,Engineer,Junior,18,0.81,3,1,0,6,1,6.4,0.0,0
+7,2026-07,Falcon,Product,Designer,Mid,21,0.905,1,0,1,5,2,17.4,0.0,1
+8,2026-07,Falcon,Product,Product Manager,Mid,19,0.952,1,0,0,1,1,8.9,0.0,0
+9,2026-07,Falcon,Product,Engineer,Senior,111,0.905,1,0,1,4,0,9.9,0.0,0
+10,2026-07,Falcon,Product,Product Manager,Junior,4,0.952,1,0,0,5,0,4.2,3.2,0
+11,2026-07,Falcon,Product,Engineer,Mid,39,0.952,0,0,1,1,0,7.2,0.0,0
+12,2026-07,Falcon,Product,QA,Mid,15,0.81,2,2,0,5,2,13.9,8.9,0
+13,2026-07,Falcon,Product,DevOps,Junior,14,0.857,1,1,1,4,0,6.8,1.5,0
+14,2026-07,Orion,Growth,QA,Junior,19,0.81,1,2,1,4,2,4.8,0.0,0
+15,2026-07,Orion,Growth,Engineer,Senior,91,0.857,1,1,1,2,1,7.3,9.5,1
+16,2026-07,Orion,Growth,QA,Junior,3,0.81,2,2,0,4,2,0.0,8.1,0
+17,2026-07,Orion,Growth,Engineer,Junior,4,0.857,2,0,1,5,0,3.7,0.8,0
+18,2026-07,Orion,Growth,Designer,Mid,29,0.905,2,0,0,3,2,12.8,4.2,1
+19,2026-07,Orion,Growth,Engineer,Junior,21,0.81,2,1,1,3,1,17.1,0.0,0
+20,2026-07,Orion,Growth,Engineer,Junior,2,0.952,0,1,0,8,1,2.7,1.6,0
+21,2026-07,Orion,Growth,Designer,Mid,38,0.81,1,3,0,5,1,0.6,0.0,0
+22,2026-07,Nimbus,Data,Engineer,Mid,18,0.81,2,1,1,0,0,11.2,2.4,1
+23,2026-07,Nimbus,Data,QA,Junior,5,0.81,2,1,1,4,0,1.6,1.7,0
+24,2026-07,Nimbus,Data,QA,Junior,3,0.81,1,2,1,6,2,2.2,3.9,0
+25,2026-07,Nimbus,Data,Engineer,Junior,4,0.952,0,0,1,4,0,4.9,3.7,0
+26,2026-07,Nimbus,Data,Engineer,Mid,33,0.857,1,1,1,3,0,2.1,0.0,0
+27,2026-07,Nimbus,Data,DevOps,Junior,13,0.905,2,0,0,5,1,0.7,0.0,0
+28,2026-07,Nimbus,Data,Engineer,Junior,20,0.762,4,0,1,3,4,1.0,4.9,0
+29,2026-07,Nimbus,Data,Engineer,Mid,46,1.0,0,0,0,5,0,2.2,0.0,0
+30,2026-07,Nimbus,Data,Product Manager,Junior,22,0.952,0,0,1,4,0,0.0,6.3,0
+31,2026-07,Vertex,Infra,DevOps,Senior,60,0.857,0,3,0,5,2,6.0,15.5,0
+32,2026-07,Vertex,Infra,Designer,Junior,13,0.905,1,0,1,7,3,9.2,10.4,1
+33,2026-07,Vertex,Infra,Product Manager,Senior,111,0.905,1,0,1,4,0,9.4,1.3,0
+34,2026-07,Vertex,Infra,DevOps,Mid,29,0.952,0,0,1,5,0,5.9,4.4,0
+35,2026-07,Vertex,Infra,Engineer,Junior,7,0.952,0,0,1,7,0,6.7,3.0,0
+36,2026-07,Vertex,Infra,DevOps,Mid,53,1.0,0,0,0,4,1,9.0,0.0,0
+37,2026-07,Vertex,Infra,Engineer,Mid,32,0.952,1,0,0,5,0,12.2,0.0,0
+38,2026-07,Vertex,Infra,Engineer,Mid,17,0.81,3,1,0,3,3,10.3,7.3,0
+39,2026-07,Vertex,Infra,Engineer,Senior,96,0.81,2,1,1,4,0,17.5,3.0,1
+40,2026-07,Vertex,Infra,DevOps,Senior,117,0.905,0,0,2,4,2,0.3,1.0,0
+41,2026-07,Atlas,Platform,Engineer,Junior,23,0.905,1,1,0,3,2,4.2,4.0,0
+42,2026-07,Atlas,Platform,DevOps,Junior,15,1.0,0,0,0,8,0,3.8,0.7,0
+43,2026-07,Atlas,Platform,Product Manager,Senior,89,0.905,0,1,1,3,2,6.6,12.7,0
+44,2026-07,Atlas,Platform,DevOps,Senior,55,0.952,1,0,0,4,0,12.0,0.9,0
+45,2026-07,Atlas,Platform,DevOps,Mid,31,0.952,0,0,1,5,0,9.4,0.0,0
+46,2026-07,Atlas,Platform,Product Manager,Mid,37,0.952,0,0,1,7,1,4.6,0.0,0
+47,2026-07,Atlas,Platform,Engineer,Junior,21,0.952,0,1,0,4,0,2.5,5.7,0
+48,2026-07,Atlas,Platform,Engineer,Junior,19,1.0,0,0,0,3,0,7.1,0.0,0
+49,2026-07,Atlas,Platform,QA,Junior,13,0.905,2,0,0,6,0,7.1,10.7,1
+50,2026-07,Comet,Product,DevOps,Mid,30,0.952,1,0,0,7,0,8.5,8.3,0
+51,2026-07,Comet,Product,QA,Junior,21,0.952,1,0,0,6,0,11.6,2.6,1
+52,2026-07,Comet,Product,Product Manager,Mid,14,0.905,2,0,0,3,1,10.1,8.0,0
+53,2026-07,Comet,Product,DevOps,Junior,3,0.667,6,1,0,3,2,13.8,6.4,0
+54,2026-07,Comet,Product,QA,Senior,84,0.952,1,0,0,3,0,4.5,6.7,0
+55,2026-07,Comet,Product,QA,Mid,58,0.905,2,0,0,3,2,7.9,5.6,1
+56,2026-07,Lumen,Growth,Engineer,Junior,7,0.952,0,0,1,11,0,0.0,0.6,0
+57,2026-07,Lumen,Growth,DevOps,Mid,27,0.81,2,2,0,2,1,10.4,4.0,0
+58,2026-07,Lumen,Growth,Product Manager,Senior,76,0.952,0,0,1,3,0,12.8,0.0,0
+59,2026-07,Lumen,Growth,Designer,Mid,50,0.952,0,0,1,4,0,13.3,7.9,0
+60,2026-07,Lumen,Growth,Engineer,Junior,7,0.952,0,0,1,4,2,5.0,5.0,0
+61,2026-07,Lumen,Growth,Product Manager,Mid,16,0.905,1,1,0,5,0,10.7,0.0,0
+62,2026-07,Lumen,Growth,Engineer,Mid,33,0.857,2,1,0,6,1,2.4,6.6,0
+63,2026-07,Zephyr,Data,QA,Junior,14,0.905,2,0,0,3,1,10.2,9.4,0
+64,2026-07,Zephyr,Data,QA,Mid,37,0.905,0,0,2,3,0,13.6,0.0,0
+65,2026-07,Zephyr,Data,Designer,Senior,46,0.762,3,1,1,4,1,7.9,10.6,0
+66,2026-07,Zephyr,Data,Product Manager,Mid,49,0.952,0,0,1,3,1,1.4,1.3,0
+67,2026-07,Zephyr,Data,Engineer,Junior,21,0.857,1,0,2,6,2,2.8,0.0,0
+68,2026-07,Zephyr,Data,DevOps,Senior,97,0.952,0,0,1,4,1,1.6,0.0,0
+69,2026-07,Zephyr,Data,Designer,Senior,76,1.0,0,0,0,6,0,10.4,3.3,0
+70,2026-07,Zephyr,Data,QA,Senior,58,0.857,2,1,0,3,0,0.0,1.0,0
+71,2026-07,Zephyr,Data,Engineer,Mid,38,0.952,0,0,1,4,0,18.7,5.5,1
+72,2026-07,Halcyon,Infra,Engineer,Mid,12,0.905,2,0,0,2,0,14.6,0.0,1
+73,2026-07,Halcyon,Infra,DevOps,Senior,93,1.0,0,0,0,5,0,11.1,7.8,0
+74,2026-07,Halcyon,Infra,Engineer,Mid,18,1.0,0,0,0,4,0,12.1,0.0,0
+75,2026-07,Halcyon,Infra,Designer,Junior,11,0.905,2,0,0,3,0,9.6,0.0,0
+76,2026-07,Halcyon,Infra,Product Manager,Junior,21,0.952,0,1,0,5,1,0.0,0.0,0
+77,2026-07,Halcyon,Infra,Product Manager,Junior,7,1.0,0,0,0,2,1,0.0,4.4,0
+78,2026-07,Halcyon,Infra,QA,Mid,51,0.81,2,0,2,4,0,12.0,6.5,0
+79,2026-07,Halcyon,Infra,Engineer,Mid,42,0.714,4,0,2,6,2,0.0,0.0,0
+80,2026-07,Halcyon,Infra,Engineer,Mid,37,0.857,1,1,1,5,2,0.0,12.9,0
+81,2026-07,Halcyon,Infra,DevOps,Senior,70,0.905,0,1,1,4,2,0.0,0.0,0
+82,2026-07,Aurora,Platform,DevOps,Mid,49,1.0,0,0,0,5,0,7.1,0.0,0
+83,2026-07,Aurora,Platform,DevOps,Junior,4,0.81,2,2,0,1,1,8.8,8.2,0
+84,2026-07,Aurora,Platform,Engineer,Junior,11,1.0,0,0,0,8,0,0.0,0.0,0
+85,2026-07,Aurora,Platform,Engineer,Junior,3,1.0,0,0,0,6,1,2.8,2.7,0
+86,2026-07,Aurora,Platform,Engineer,Mid,22,0.81,2,1,1,4,0,10.4,0.0,1
+87,2026-07,Aurora,Platform,Designer,Mid,19,0.857,2,0,1,6,2,5.6,9.1,0
+88,2026-07,Griffin,Product,Engineer,Mid,41,0.857,2,1,0,2,0,0.0,0.0,0
+89,2026-07,Griffin,Product,DevOps,Mid,29,0.905,0,0,2,5,0,10.7,3.9,1
+90,2026-07,Griffin,Product,Product Manager,Mid,47,0.857,2,1,0,5,2,0.0,1.4,0
+91,2026-07,Griffin,Product,Engineer,Mid,17,0.905,0,0,2,4,0,14.5,2.6,1
+92,2026-07,Griffin,Product,Engineer,Junior,2,0.952,0,0,1,3,1,0.0,0.7,1
+93,2026-07,Griffin,Product,Engineer,Senior,70,1.0,0,0,0,6,1,9.8,0.9,0
+94,2026-07,Griffin,Product,Designer,Senior,119,0.952,0,1,0,5,1,12.5,0.0,0
+95,2026-07,Griffin,Product,Engineer,Mid,30,0.81,2,2,0,3,0,12.5,0.4,0
+96,2026-07,Juniper,Growth,DevOps,Junior,10,0.952,1,0,0,1,1,0.0,7.2,0
+97,2026-07,Juniper,Growth,Product Manager,Junior,20,0.857,3,0,0,1,0,8.7,7.6,1
+98,2026-07,Juniper,Growth,Engineer,Mid,34,0.905,1,0,1,5,1,10.6,12.7,0
+99,2026-07,Juniper,Growth,Engineer,Junior,21,0.952,0,0,1,3,2,0.0,5.3,0
+100,2026-07,Juniper,Growth,Designer,Junior,7,0.857,0,1,2,5,1,0.0,3.4,0
+101,2026-07,Juniper,Growth,Product Manager,Senior,40,1.0,0,0,0,6,0,1.6,4.1,0
+102,2026-07,Juniper,Growth,QA,Mid,48,0.762,2,2,1,4,1,4.2,9.9,0
+103,2026-07,Juniper,Growth,DevOps,Senior,64,0.857,2,1,0,3,0,13.5,0.0,0
+104,2026-07,Kestrel,Data,DevOps,Junior,15,0.714,3,2,1,4,0,5.8,3.4,0
+105,2026-07,Kestrel,Data,Designer,Mid,26,0.952,1,0,0,5,0,9.2,5.8,0
+106,2026-07,Kestrel,Data,Product Manager,Mid,46,0.952,0,0,1,7,0,9.0,0.0,0
+107,2026-07,Kestrel,Data,Engineer,Senior,59,0.762,4,0,1,3,0,7.6,1.5,0
+108,2026-07,Kestrel,Data,DevOps,Mid,50,0.905,1,0,1,2,0,9.0,9.5,0
+109,2026-07,Kestrel,Data,Product Manager,Senior,105,0.714,2,3,1,3,3,14.4,7.7,0
+110,2026-07,Kestrel,Data,Engineer,Mid,54,0.857,3,0,0,2,0,9.5,5.8,0
+111,2026-07,Kestrel,Data,Product Manager,Senior,54,0.857,2,0,1,5,2,20.4,5.1,0
+112,2026-07,Kestrel,Data,Designer,Junior,22,0.952,1,0,0,4,1,4.3,0.0,0
+113,2026-07,Meridian,Infra,Engineer,Senior,98,1.0,0,0,0,7,1,8.9,2.7,0
+114,2026-07,Meridian,Infra,Engineer,Mid,53,0.952,1,0,0,3,1,10.6,2.1,0
+115,2026-07,Meridian,Infra,DevOps,Mid,45,0.952,1,0,0,2,0,8.4,2.7,0
+116,2026-07,Meridian,Infra,Engineer,Junior,18,0.952,0,1,0,4,3,2.7,0.0,1
+117,2026-07,Meridian,Infra,Engineer,Junior,21,0.619,6,2,0,0,2,7.2,1.1,0
+118,2026-07,Meridian,Infra,DevOps,Mid,18,0.905,2,0,0,6,0,10.2,17.5,0
+119,2026-07,Meridian,Infra,Engineer,Mid,28,1.0,0,0,0,6,0,8.2,5.1,0
+120,2026-07,Meridian,Infra,Product Manager,Junior,7,0.952,1,0,0,1,0,5.9,7.4,0
+121,2026-07,Meridian,Infra,DevOps,Mid,59,0.952,0,0,1,6,0,9.8,0.0,0
+122,2026-07,Solstice,Platform,Engineer,Mid,22,0.952,1,0,0,7,0,2.8,5.9,0
+123,2026-07,Solstice,Platform,Product Manager,Junior,8,0.81,2,1,1,4,1,8.4,13.4,0
+124,2026-07,Solstice,Platform,Product Manager,Mid,53,1.0,0,0,0,4,1,13.1,0.0,0
+125,2026-07,Solstice,Platform,Designer,Senior,75,0.952,1,0,0,6,0,5.8,0.0,0
+126,2026-07,Solstice,Platform,DevOps,Senior,79,0.905,0,1,1,5,1,7.5,0.0,0
+127,2026-07,Solstice,Platform,QA,Junior,7,0.952,0,0,1,6,0,6.6,13.9,0
+128,2026-07,Solstice,Platform,Engineer,Junior,11,0.857,1,2,0,2,0,8.6,0.0,0
+1,2026-08,Phoenix,Platform,DevOps,Mid,32,0.952,1,0,0,5,0,9.7,0.0,0
+2,2026-08,Phoenix,Platform,DevOps,Senior,79,0.952,0,0,1,4,2,10.9,0.0,0
+3,2026-08,Phoenix,Platform,QA,Mid,31,0.952,1,0,0,3,0,3.6,2.3,1
+4,2026-08,Phoenix,Platform,DevOps,Junior,20,0.857,2,1,0,6,2,13.9,8.2,0
+5,2026-08,Phoenix,Platform,Engineer,Senior,101,1.0,0,0,0,6,3,12.2,8.3,0
+6,2026-08,Phoenix,Platform,Engineer,Junior,18,1.0,0,0,0,4,1,7.1,2.6,0
+7,2026-08,Falcon,Product,Designer,Mid,21,0.857,1,1,1,3,3,5.2,4.8,0
+8,2026-08,Falcon,Product,Product Manager,Mid,19,1.0,0,0,0,4,2,18.9,7.5,0
+9,2026-08,Falcon,Product,Engineer,Senior,111,0.905,1,0,1,5,0,10.9,2.0,0
+10,2026-08,Falcon,Product,Product Manager,Junior,4,0.905,2,0,0,5,1,3.6,10.5,0
+11,2026-08,Falcon,Product,Engineer,Mid,39,1.0,0,0,0,5,1,4.9,8.9,0
+12,2026-08,Falcon,Product,QA,Mid,15,0.905,1,0,1,3,1,0.7,0.0,0
+13,2026-08,Falcon,Product,DevOps,Junior,14,0.905,1,1,0,7,1,1.0,0.0,0
+14,2026-08,Orion,Growth,QA,Junior,19,0.81,2,1,1,3,2,8.3,5.6,0
+15,2026-08,Orion,Growth,Engineer,Senior,91,0.952,0,0,1,1,0,0.0,6.9,0
+16,2026-08,Orion,Growth,QA,Junior,3,0.857,1,1,1,4,1,1.0,2.9,0
+17,2026-08,Orion,Growth,Engineer,Junior,4,0.952,1,0,0,6,0,0.0,1.8,0
+18,2026-08,Orion,Growth,Designer,Mid,29,0.905,1,0,1,5,1,0.0,10.7,0
+19,2026-08,Orion,Growth,Engineer,Junior,21,0.857,2,0,1,3,1,0.0,9.3,0
+20,2026-08,Orion,Growth,Engineer,Junior,2,1.0,0,0,0,6,0,1.6,6.0,0
+21,2026-08,Orion,Growth,Designer,Mid,38,0.714,2,3,1,3,2,0.0,9.1,1
+22,2026-08,Nimbus,Data,Engineer,Mid,18,0.952,1,0,0,2,1,13.6,2.1,0
+23,2026-08,Nimbus,Data,QA,Junior,5,0.905,2,0,0,3,0,3.0,5.7,1
+24,2026-08,Nimbus,Data,QA,Junior,3,0.81,2,2,0,6,2,0.2,0.1,0
+25,2026-08,Nimbus,Data,Engineer,Junior,4,0.905,1,1,0,4,1,4.1,1.1,0
+26,2026-08,Nimbus,Data,Engineer,Mid,33,1.0,0,0,0,6,1,11.2,0.3,0
+27,2026-08,Nimbus,Data,DevOps,Junior,13,0.857,1,1,1,4,0,1.0,0.0,0
+28,2026-08,Nimbus,Data,Engineer,Junior,20,0.952,1,0,0,3,0,2.5,13.2,0
+29,2026-08,Nimbus,Data,Engineer,Mid,46,1.0,0,0,0,3,0,12.2,0.0,0
+30,2026-08,Nimbus,Data,Product Manager,Junior,22,1.0,0,0,0,2,0,6.0,0.0,0
+31,2026-08,Vertex,Infra,DevOps,Senior,60,0.952,1,0,0,5,2,9.1,0.0,0
+32,2026-08,Vertex,Infra,Designer,Junior,13,0.905,0,2,0,3,0,0.0,7.3,0
+33,2026-08,Vertex,Infra,Product Manager,Senior,111,0.952,0,0,1,3,1,11.8,0.0,0
+34,2026-08,Vertex,Infra,DevOps,Mid,29,0.952,1,0,0,4,0,10.9,0.0,0
+35,2026-08,Vertex,Infra,Engineer,Junior,7,1.0,0,0,0,5,0,9.4,4.7,0
+36,2026-08,Vertex,Infra,DevOps,Mid,53,1.0,0,0,0,1,3,15.9,4.1,0
+37,2026-08,Vertex,Infra,Engineer,Mid,32,0.857,1,0,2,10,0,11.6,13.5,0
+38,2026-08,Vertex,Infra,Engineer,Mid,17,0.857,1,0,2,6,1,3.5,2.4,0
+39,2026-08,Vertex,Infra,Engineer,Senior,96,0.714,2,2,2,6,4,6.1,5.5,0
+40,2026-08,Vertex,Infra,DevOps,Senior,117,0.952,1,0,0,2,0,3.7,5.1,0
+41,2026-08,Atlas,Platform,Engineer,Junior,23,0.857,1,0,2,4,0,10.8,0.8,1
+42,2026-08,Atlas,Platform,DevOps,Junior,15,0.952,0,0,1,3,1,3.4,5.2,0
+43,2026-08,Atlas,Platform,Product Manager,Senior,89,0.905,1,0,1,3,0,20.3,0.0,0
+44,2026-08,Atlas,Platform,DevOps,Senior,55,0.857,1,2,0,2,1,1.2,5.1,1
+45,2026-08,Atlas,Platform,DevOps,Mid,31,1.0,0,0,0,3,1,6.1,0.1,0
+46,2026-08,Atlas,Platform,Product Manager,Mid,37,1.0,0,0,0,4,1,9.8,0.0,0
+47,2026-08,Atlas,Platform,Engineer,Junior,21,1.0,0,0,0,7,0,0.0,7.8,0
+48,2026-08,Atlas,Platform,Engineer,Junior,19,0.905,2,0,0,10,0,4.3,8.7,1
+49,2026-08,Atlas,Platform,QA,Junior,13,0.857,2,1,0,2,2,12.5,4.2,0
+50,2026-08,Comet,Product,DevOps,Mid,30,0.905,0,0,2,4,0,12.7,0.0,0
+51,2026-08,Comet,Product,QA,Junior,21,0.952,1,0,0,5,0,6.3,0.0,0
+52,2026-08,Comet,Product,Product Manager,Mid,14,1.0,0,0,0,7,1,7.1,0.0,0
+53,2026-08,Comet,Product,DevOps,Junior,3,0.857,2,1,0,3,3,6.3,13.3,0
+54,2026-08,Comet,Product,QA,Senior,84,0.905,1,1,0,2,2,10.2,3.9,0
+55,2026-08,Comet,Product,QA,Mid,58,0.714,4,2,0,4,0,4.4,0.0,1
+56,2026-08,Lumen,Growth,Engineer,Junior,7,0.857,0,2,1,1,1,2.8,6.9,0
+57,2026-08,Lumen,Growth,DevOps,Mid,27,0.952,0,1,0,5,1,0.0,0.0,0
+58,2026-08,Lumen,Growth,Product Manager,Senior,76,1.0,0,0,0,5,0,10.7,8.3,0
+59,2026-08,Lumen,Growth,Designer,Mid,50,0.952,1,0,0,4,0,7.4,2.4,0
+60,2026-08,Lumen,Growth,Engineer,Junior,7,0.952,1,0,0,4,2,0.0,0.0,0
+61,2026-08,Lumen,Growth,Product Manager,Mid,16,0.857,1,0,2,5,0,12.1,5.5,0
+62,2026-08,Lumen,Growth,Engineer,Mid,33,0.762,0,3,2,3,1,5.5,14.0,0
+63,2026-08,Zephyr,Data,QA,Junior,14,0.857,2,1,0,3,0,0.0,5.3,0
+64,2026-08,Zephyr,Data,QA,Mid,37,0.952,0,1,0,5,0,10.7,6.9,0
+65,2026-08,Zephyr,Data,Designer,Senior,46,0.905,1,0,1,2,2,2.0,14.4,0
+66,2026-08,Zephyr,Data,Product Manager,Mid,49,0.952,0,1,0,2,0,11.9,0.0,0
+67,2026-08,Zephyr,Data,Engineer,Junior,21,0.81,2,1,1,4,2,4.5,4.7,0
+68,2026-08,Zephyr,Data,DevOps,Senior,97,0.952,0,0,1,5,1,5.9,0.0,0
+69,2026-08,Zephyr,Data,Designer,Senior,76,0.952,1,0,0,6,0,10.4,4.1,0
+70,2026-08,Zephyr,Data,QA,Senior,58,1.0,0,0,0,2,1,11.0,3.9,0
+71,2026-08,Zephyr,Data,Engineer,Mid,38,0.952,0,0,1,2,1,4.0,2.3,0
+72,2026-08,Halcyon,Infra,Engineer,Mid,12,0.857,2,0,1,4,0,6.6,8.0,0
+73,2026-08,Halcyon,Infra,DevOps,Senior,93,0.81,3,0,1,6,0,4.7,0.0,1
+74,2026-08,Halcyon,Infra,Engineer,Mid,18,0.952,1,0,0,2,1,1.7,4.5,1
+75,2026-08,Halcyon,Infra,Designer,Junior,11,0.952,1,0,0,7,1,6.4,0.6,0
+76,2026-08,Halcyon,Infra,Product Manager,Junior,21,0.857,3,0,0,3,0,0.0,2.3,1
+77,2026-08,Halcyon,Infra,Product Manager,Junior,7,0.952,1,0,0,8,1,0.0,6.4,0
+78,2026-08,Halcyon,Infra,QA,Mid,51,0.905,2,0,0,1,0,6.9,2.1,1
+79,2026-08,Halcyon,Infra,Engineer,Mid,42,0.857,1,2,0,3,1,1.0,7.0,0
+80,2026-08,Halcyon,Infra,Engineer,Mid,37,1.0,0,0,0,10,1,13.6,0.0,0
+81,2026-08,Halcyon,Infra,DevOps,Senior,70,0.905,1,1,0,5,1,13.6,0.3,0
+82,2026-08,Aurora,Platform,DevOps,Mid,49,0.952,1,0,0,4,0,14.2,0.0,1
+83,2026-08,Aurora,Platform,DevOps,Junior,4,0.857,1,0,2,6,2,5.5,0.0,0
+84,2026-08,Aurora,Platform,Engineer,Junior,11,0.952,0,0,1,4,0,1.1,5.9,0
+85,2026-08,Aurora,Platform,Engineer,Junior,3,0.667,3,1,3,4,5,0.0,6.6,0
+86,2026-08,Aurora,Platform,Engineer,Mid,22,0.952,0,0,1,3,1,15.3,8.0,0
+87,2026-08,Aurora,Platform,Designer,Mid,19,0.952,1,0,0,4,1,9.2,1.1,0
+88,2026-08,Griffin,Product,Engineer,Mid,41,0.905,2,0,0,2,1,6.9,9.0,0
+89,2026-08,Griffin,Product,DevOps,Mid,29,1.0,0,0,0,5,0,18.5,2.5,0
+90,2026-08,Griffin,Product,Product Manager,Mid,47,0.905,2,0,0,6,0,12.6,4.7,0
+91,2026-08,Griffin,Product,Engineer,Mid,17,0.952,0,0,1,5,0,9.2,0.0,0
+92,2026-08,Griffin,Product,Engineer,Junior,2,0.905,0,1,1,6,0,8.5,1.7,0
+93,2026-08,Griffin,Product,Engineer,Senior,70,1.0,0,0,0,2,1,5.1,0.0,0
+94,2026-08,Griffin,Product,Designer,Senior,119,1.0,0,0,0,1,1,0.0,0.0,0
+95,2026-08,Griffin,Product,Engineer,Mid,30,0.857,2,1,0,5,0,0.1,0.0,0
+96,2026-08,Juniper,Growth,DevOps,Junior,10,0.952,1,0,0,2,0,3.3,13.4,0
+97,2026-08,Juniper,Growth,Product Manager,Junior,20,0.762,4,0,1,5,2,0.1,7.3,0
+98,2026-08,Juniper,Growth,Engineer,Mid,34,0.81,1,2,1,5,2,7.0,1.9,0
+99,2026-08,Juniper,Growth,Engineer,Junior,21,1.0,0,0,0,3,3,11.0,2.4,0
+100,2026-08,Juniper,Growth,Designer,Junior,7,0.952,0,0,1,3,3,3.2,1.6,0
+101,2026-08,Juniper,Growth,Product Manager,Senior,40,0.952,0,0,1,4,0,8.1,16.2,0
+102,2026-08,Juniper,Growth,QA,Mid,48,0.952,1,0,0,4,0,9.9,6.3,0
+103,2026-08,Juniper,Growth,DevOps,Senior,64,0.905,1,0,1,7,0,8.0,0.0,1
+104,2026-08,Kestrel,Data,DevOps,Junior,15,0.952,1,0,0,3,1,1.3,6.8,1
+105,2026-08,Kestrel,Data,Designer,Mid,26,0.81,3,1,0,6,3,3.1,2.5,0
+106,2026-08,Kestrel,Data,Product Manager,Mid,46,0.905,0,0,2,3,0,10.6,3.3,0
+107,2026-08,Kestrel,Data,Engineer,Senior,59,0.952,1,0,0,6,1,5.9,0.0,0
+108,2026-08,Kestrel,Data,DevOps,Mid,50,0.762,3,2,0,5,1,7.0,8.6,0
+109,2026-08,Kestrel,Data,Product Manager,Senior,105,0.905,2,0,0,1,1,15.1,0.0,0
+110,2026-08,Kestrel,Data,Engineer,Mid,54,0.905,2,0,0,5,0,9.7,2.9,0
+111,2026-08,Kestrel,Data,Product Manager,Senior,54,0.857,2,0,1,3,2,8.4,2.2,1
+112,2026-08,Kestrel,Data,Designer,Junior,22,0.952,1,0,0,5,1,17.0,3.7,0
+113,2026-08,Meridian,Infra,Engineer,Senior,98,0.952,0,0,1,3,1,11.4,0.0,0
+114,2026-08,Meridian,Infra,Engineer,Mid,53,0.952,1,0,0,4,0,9.5,1.9,0
+115,2026-08,Meridian,Infra,DevOps,Mid,45,0.952,0,0,1,5,0,0.0,2.5,0
+116,2026-08,Meridian,Infra,Engineer,Junior,18,0.905,2,0,0,3,5,3.8,7.5,0
+117,2026-08,Meridian,Infra,Engineer,Junior,21,0.857,2,1,0,5,0,1.8,3.1,0
+118,2026-08,Meridian,Infra,DevOps,Mid,18,0.81,4,0,0,4,1,18.6,5.8,0
+119,2026-08,Meridian,Infra,Engineer,Mid,28,0.952,0,0,1,4,0,9.4,0.0,0
+120,2026-08,Meridian,Infra,Product Manager,Junior,7,0.905,1,1,0,6,1,3.3,0.0,0
+121,2026-08,Meridian,Infra,DevOps,Mid,59,1.0,0,0,0,4,2,7.0,0.9,0
+122,2026-08,Solstice,Platform,Engineer,Mid,22,0.857,0,2,1,6,0,7.5,6.3,0
+123,2026-08,Solstice,Platform,Product Manager,Junior,8,0.905,2,0,0,2,0,6.1,9.6,0
+124,2026-08,Solstice,Platform,Product Manager,Mid,53,1.0,0,0,0,5,3,6.3,0.0,0
+125,2026-08,Solstice,Platform,Designer,Senior,75,0.905,1,0,1,8,0,9.6,2.6,0
+126,2026-08,Solstice,Platform,DevOps,Senior,79,0.952,0,0,1,4,1,16.0,5.0,0
+127,2026-08,Solstice,Platform,QA,Junior,7,0.857,2,0,1,3,1,4.6,7.5,0
+128,2026-08,Solstice,Platform,Engineer,Junior,11,0.905,1,0,1,3,0,5.2,4.7,0
+1,2026-09,Phoenix,Platform,DevOps,Mid,32,0.905,2,0,0,2,2,6.5,0.9,1
+2,2026-09,Phoenix,Platform,DevOps,Senior,79,0.857,2,1,0,5,0,16.8,1.8,0
+3,2026-09,Phoenix,Platform,QA,Mid,31,1.0,0,0,0,5,0,13.6,1.4,0
+4,2026-09,Phoenix,Platform,DevOps,Junior,20,0.952,1,0,0,2,3,0.8,5.6,0
+5,2026-09,Phoenix,Platform,Engineer,Senior,101,0.952,1,0,0,5,0,0.0,3.1,0
+6,2026-09,Phoenix,Platform,Engineer,Junior,18,0.857,3,0,0,2,1,2.5,5.9,0
+7,2026-09,Falcon,Product,Designer,Mid,21,0.857,3,0,0,7,1,10.6,3.9,0
+8,2026-09,Falcon,Product,Product Manager,Mid,19,0.857,1,1,1,8,2,0.2,1.8,1
+9,2026-09,Falcon,Product,Engineer,Senior,111,1.0,0,0,0,6,0,3.5,2.1,0
+10,2026-09,Falcon,Product,Product Manager,Junior,4,0.762,4,1,0,3,1,0.0,7.1,0
+11,2026-09,Falcon,Product,Engineer,Mid,39,0.952,0,1,0,5,0,10.8,3.1,0
+12,2026-09,Falcon,Product,QA,Mid,15,1.0,0,0,0,3,0,13.0,0.0,0
+13,2026-09,Falcon,Product,DevOps,Junior,14,0.952,0,1,0,4,0,5.7,2.0,0
+14,2026-09,Orion,Growth,QA,Junior,19,0.905,2,0,0,3,2,0.0,0.0,0
+15,2026-09,Orion,Growth,Engineer,Senior,91,0.857,2,0,1,4,0,10.4,8.3,0
+16,2026-09,Orion,Growth,QA,Junior,3,0.905,2,0,0,2,1,0.0,0.0,1
+17,2026-09,Orion,Growth,Engineer,Junior,4,0.905,0,1,1,5,0,0.2,0.0,0
+18,2026-09,Orion,Growth,Designer,Mid,29,0.952,1,0,0,4,1,0.3,7.5,0
+19,2026-09,Orion,Growth,Engineer,Junior,21,1.0,0,0,0,3,1,3.4,6.4,0
+20,2026-09,Orion,Growth,Engineer,Junior,2,0.857,1,1,1,4,0,10.0,0.0,1
+21,2026-09,Orion,Growth,Designer,Mid,38,0.714,4,2,0,5,4,7.6,3.9,1
+22,2026-09,Nimbus,Data,Engineer,Mid,18,0.857,2,0,1,6,0,5.4,3.2,0
+23,2026-09,Nimbus,Data,QA,Junior,5,0.81,3,1,0,6,1,4.4,2.1,0
+24,2026-09,Nimbus,Data,QA,Junior,3,0.905,2,0,0,7,1,5.2,5.9,0
+25,2026-09,Nimbus,Data,Engineer,Junior,4,0.857,2,1,0,5,2,3.8,0.0,0
+26,2026-09,Nimbus,Data,Engineer,Mid,33,0.952,0,1,0,2,0,0.0,2.7,0
+27,2026-09,Nimbus,Data,DevOps,Junior,13,0.952,0,1,0,3,2,0.0,0.0,0
+28,2026-09,Nimbus,Data,Engineer,Junior,20,0.905,2,0,0,3,2,4.5,0.2,0
+29,2026-09,Nimbus,Data,Engineer,Mid,46,0.905,1,0,1,3,0,12.3,8.6,0
+30,2026-09,Nimbus,Data,Product Manager,Junior,22,1.0,0,0,0,4,0,0.0,0.0,0
+31,2026-09,Vertex,Infra,DevOps,Senior,60,0.857,2,0,1,4,3,11.6,0.0,0
+32,2026-09,Vertex,Infra,Designer,Junior,13,0.952,1,0,0,2,1,8.1,2.9,0
+33,2026-09,Vertex,Infra,Product Manager,Senior,111,0.905,1,0,1,4,0,13.8,0.0,0
+34,2026-09,Vertex,Infra,DevOps,Mid,29,1.0,0,0,0,2,0,0.0,0.0,0
+35,2026-09,Vertex,Infra,Engineer,Junior,7,0.952,0,0,1,4,0,1.2,0.0,0
+36,2026-09,Vertex,Infra,DevOps,Mid,53,0.952,0,1,0,6,0,18.6,4.5,0
+37,2026-09,Vertex,Infra,Engineer,Mid,32,0.905,0,0,2,2,0,8.8,0.0,0
+38,2026-09,Vertex,Infra,Engineer,Mid,17,0.952,1,0,0,5,0,11.1,3.2,1
+39,2026-09,Vertex,Infra,Engineer,Senior,96,1.0,0,0,0,5,0,10.2,1.5,0
+40,2026-09,Vertex,Infra,DevOps,Senior,117,1.0,0,0,0,4,1,0.5,0.0,0
+41,2026-09,Atlas,Platform,Engineer,Junior,23,0.857,1,1,1,3,0,2.9,0.8,0
+42,2026-09,Atlas,Platform,DevOps,Junior,15,0.905,2,0,0,4,0,1.5,1.6,0
+43,2026-09,Atlas,Platform,Product Manager,Senior,89,1.0,0,0,0,3,0,11.8,1.4,1
+44,2026-09,Atlas,Platform,DevOps,Senior,55,0.905,1,0,1,4,0,9.3,0.0,0
+45,2026-09,Atlas,Platform,DevOps,Mid,31,0.952,0,0,1,1,1,8.2,0.0,1
+46,2026-09,Atlas,Platform,Product Manager,Mid,37,0.857,2,1,0,5,3,13.5,6.3,0
+47,2026-09,Atlas,Platform,Engineer,Junior,21,0.81,4,0,0,8,1,17.6,3.2,0
+48,2026-09,Atlas,Platform,Engineer,Junior,19,0.81,1,1,2,4,0,0.0,0.0,0
+49,2026-09,Atlas,Platform,QA,Junior,13,0.905,2,0,0,8,0,8.5,6.7,0
+50,2026-09,Comet,Product,DevOps,Mid,30,0.952,1,0,0,4,0,5.6,1.1,0
+51,2026-09,Comet,Product,QA,Junior,21,0.952,0,0,1,4,1,4.4,0.9,0
+52,2026-09,Comet,Product,Product Manager,Mid,14,0.905,1,0,1,3,1,10.6,5.4,0
+53,2026-09,Comet,Product,DevOps,Junior,3,0.81,3,1,0,3,2,4.1,2.6,0
+54,2026-09,Comet,Product,QA,Senior,84,0.952,0,0,1,6,0,4.7,11.1,0
+55,2026-09,Comet,Product,QA,Mid,58,0.952,1,0,0,2,0,0.6,0.0,1
+56,2026-09,Lumen,Growth,Engineer,Junior,7,1.0,0,0,0,5,1,5.3,3.2,0
+57,2026-09,Lumen,Growth,DevOps,Mid,27,0.905,1,0,1,2,1,6.8,1.7,0
+58,2026-09,Lumen,Growth,Product Manager,Senior,76,0.952,0,0,1,6,0,4.5,0.0,0
+59,2026-09,Lumen,Growth,Designer,Mid,50,0.905,2,0,0,4,0,8.6,4.9,0
+60,2026-09,Lumen,Growth,Engineer,Junior,7,0.905,0,1,1,3,3,4.3,7.1,1
+61,2026-09,Lumen,Growth,Product Manager,Mid,16,0.952,0,0,1,4,0,17.2,3.5,0
+62,2026-09,Lumen,Growth,Engineer,Mid,33,0.905,2,0,0,4,1,10.0,8.6,0
+63,2026-09,Zephyr,Data,QA,Junior,14,0.857,2,1,0,2,5,1.3,0.0,0
+64,2026-09,Zephyr,Data,QA,Mid,37,0.952,0,0,1,2,0,13.4,6.7,0
+65,2026-09,Zephyr,Data,Designer,Senior,46,0.81,2,2,0,4,1,7.4,5.9,0
+66,2026-09,Zephyr,Data,Product Manager,Mid,49,1.0,0,0,0,4,1,0.0,1.2,0
+67,2026-09,Zephyr,Data,Engineer,Junior,21,0.81,2,1,1,3,0,5.9,5.8,0
+68,2026-09,Zephyr,Data,DevOps,Senior,97,1.0,0,0,0,6,0,13.3,5.9,0
+69,2026-09,Zephyr,Data,Designer,Senior,76,0.905,1,1,0,7,2,3.9,4.0,0
+70,2026-09,Zephyr,Data,QA,Senior,58,0.952,1,0,0,1,1,3.1,10.1,0
+71,2026-09,Zephyr,Data,Engineer,Mid,38,0.905,2,0,0,2,1,1.6,1.5,0
+72,2026-09,Halcyon,Infra,Engineer,Mid,12,0.952,0,0,1,4,1,1.9,3.2,0
+73,2026-09,Halcyon,Infra,DevOps,Senior,93,0.905,1,1,0,6,1,0.0,1.4,0
+74,2026-09,Halcyon,Infra,Engineer,Mid,18,0.905,2,0,0,3,0,6.7,0.0,0
+75,2026-09,Halcyon,Infra,Designer,Junior,11,0.905,1,0,1,3,0,3.7,0.0,0
+76,2026-09,Halcyon,Infra,Product Manager,Junior,21,0.905,1,0,1,5,0,6.2,9.8,0
+77,2026-09,Halcyon,Infra,Product Manager,Junior,7,1.0,0,0,0,4,0,6.2,0.3,0
+78,2026-09,Halcyon,Infra,QA,Mid,51,0.952,1,0,0,2,0,9.4,0.0,0
+79,2026-09,Halcyon,Infra,Engineer,Mid,42,0.905,2,0,0,4,1,5.4,0.0,0
+80,2026-09,Halcyon,Infra,Engineer,Mid,37,1.0,0,0,0,3,1,5.0,0.0,0
+81,2026-09,Halcyon,Infra,DevOps,Senior,70,0.952,1,0,0,6,2,5.7,6.6,0
+82,2026-09,Aurora,Platform,DevOps,Mid,49,0.952,1,0,0,5,0,7.4,5.1,0
+83,2026-09,Aurora,Platform,DevOps,Junior,4,0.857,2,1,0,10,0,2.0,0.0,0
+84,2026-09,Aurora,Platform,Engineer,Junior,11,0.905,2,0,0,5,0,6.6,7.8,0
+85,2026-09,Aurora,Platform,Engineer,Junior,3,0.952,1,0,0,6,0,0.0,0.9,0
+86,2026-09,Aurora,Platform,Engineer,Mid,22,0.905,2,0,0,4,2,10.6,4.5,0
+87,2026-09,Aurora,Platform,Designer,Mid,19,0.905,0,1,1,5,1,1.7,16.2,0
+88,2026-09,Griffin,Product,Engineer,Mid,41,0.857,2,0,1,3,0,14.3,7.9,0
+89,2026-09,Griffin,Product,DevOps,Mid,29,0.952,0,0,1,4,0,4.9,3.7,0
+90,2026-09,Griffin,Product,Product Manager,Mid,47,0.905,0,2,0,5,0,11.1,0.2,1
+91,2026-09,Griffin,Product,Engineer,Mid,17,0.905,0,0,2,5,0,2.5,2.6,1
+92,2026-09,Griffin,Product,Engineer,Junior,2,0.905,0,2,0,5,0,6.6,9.1,0
+93,2026-09,Griffin,Product,Engineer,Senior,70,0.952,0,1,0,6,1,4.3,6.5,0
+94,2026-09,Griffin,Product,Designer,Senior,119,0.952,0,1,0,4,0,20.1,0.0,0
+95,2026-09,Griffin,Product,Engineer,Mid,30,0.952,1,0,0,3,0,1.8,11.2,0
+96,2026-09,Juniper,Growth,DevOps,Junior,10,0.905,1,0,1,4,4,0.0,9.7,0
+97,2026-09,Juniper,Growth,Product Manager,Junior,20,0.952,0,0,1,4,2,5.2,14.0,0
+98,2026-09,Juniper,Growth,Engineer,Mid,34,0.762,2,2,1,3,1,1.9,3.1,1
+99,2026-09,Juniper,Growth,Engineer,Junior,21,0.619,6,2,0,6,4,6.4,2.2,0
+100,2026-09,Juniper,Growth,Designer,Junior,7,0.857,2,1,0,4,1,6.9,0.4,0
+101,2026-09,Juniper,Growth,Product Manager,Senior,40,0.857,2,0,1,3,1,11.8,2.0,0
+102,2026-09,Juniper,Growth,QA,Mid,48,0.857,3,0,0,4,1,7.9,9.2,0
+103,2026-09,Juniper,Growth,DevOps,Senior,64,1.0,0,0,0,5,0,9.5,3.9,0
+104,2026-09,Kestrel,Data,DevOps,Junior,15,0.762,2,2,1,5,0,10.7,2.6,0
+105,2026-09,Kestrel,Data,Designer,Mid,26,0.857,0,1,2,6,0,6.7,0.0,0
+106,2026-09,Kestrel,Data,Product Manager,Mid,46,1.0,0,0,0,2,1,0.0,2.5,0
+107,2026-09,Kestrel,Data,Engineer,Senior,59,0.857,0,2,1,6,2,4.9,4.7,0
+108,2026-09,Kestrel,Data,DevOps,Mid,50,0.714,2,3,1,3,0,0.0,4.3,0
+109,2026-09,Kestrel,Data,Product Manager,Senior,105,0.905,2,0,0,5,1,6.3,4.5,0
+110,2026-09,Kestrel,Data,Engineer,Mid,54,0.905,1,0,1,4,0,8.4,0.0,0
+111,2026-09,Kestrel,Data,Product Manager,Senior,54,0.905,1,0,1,6,1,12.9,8.1,0
+112,2026-09,Kestrel,Data,Designer,Junior,22,0.81,3,0,1,2,0,0.1,0.0,0
+113,2026-09,Meridian,Infra,Engineer,Senior,98,0.81,3,0,1,5,0,8.2,6.7,1
+114,2026-09,Meridian,Infra,Engineer,Mid,53,0.905,1,0,1,3,0,9.4,3.7,0
+115,2026-09,Meridian,Infra,DevOps,Mid,45,1.0,0,0,0,8,1,12.8,6.4,0
+116,2026-09,Meridian,Infra,Engineer,Junior,18,0.524,5,3,2,1,1,6.8,2.6,0
+117,2026-09,Meridian,Infra,Engineer,Junior,21,0.905,2,0,0,3,4,12.9,10.1,0
+118,2026-09,Meridian,Infra,DevOps,Mid,18,0.905,2,0,0,4,1,4.9,4.4,0
+119,2026-09,Meridian,Infra,Engineer,Mid,28,1.0,0,0,0,6,0,8.8,4.4,0
+120,2026-09,Meridian,Infra,Product Manager,Junior,7,0.952,0,0,1,3,0,5.0,7.7,0
+121,2026-09,Meridian,Infra,DevOps,Mid,59,0.905,1,0,1,4,0,4.8,0.0,0
+122,2026-09,Solstice,Platform,Engineer,Mid,22,1.0,0,0,0,5,1,4.1,9.0,0
+123,2026-09,Solstice,Platform,Product Manager,Junior,8,0.762,4,0,1,5,1,0.0,0.0,0
+124,2026-09,Solstice,Platform,Product Manager,Mid,53,0.952,0,0,1,5,1,4.5,0.0,0
+125,2026-09,Solstice,Platform,Designer,Senior,75,0.952,0,0,1,4,0,9.3,0.0,0
+126,2026-09,Solstice,Platform,DevOps,Senior,79,1.0,0,0,0,2,0,11.9,5.1,1
+127,2026-09,Solstice,Platform,QA,Junior,7,1.0,0,0,0,4,0,8.2,6.0,0
+128,2026-09,Solstice,Platform,Engineer,Junior,11,0.857,1,1,1,4,2,14.2,5.8,0
