@@ -2,6 +2,7 @@
 
 **Dates**: 2026-01-19 to 2026-02-01  
 **Result**: completed 31/44 story points (71%)  
+**Outcome: at risk — the team underperformed its commitment this sprint.**  
 **Team attendance this period**: 82%
 
 Test coverage sat at 49%, below the team's usual range, making regressions more likely. **Action item**: schedule a QA pairing session before code-freeze.

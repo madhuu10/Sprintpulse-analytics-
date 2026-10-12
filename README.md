@@ -90,10 +90,15 @@ sprint's score up or down, not just global feature importance.
 
 ## The RAG assistant
 
-- **Retrieval**: local `sentence-transformers` (`all-MiniLM-L6-v2`)
-  embeddings over 646 documents (6 HR/process policy docs + 640
-  auto-generated sprint retro notes), cosine similarity, top-5 chunks —
-  no API call needed for this step.
+- **Retrieval**: local dense embeddings via `fastembed`
+  (`BAAI/bge-small-en-v1.5`, running on ONNX Runtime) over 646 documents
+  (6 HR/process policy docs + 640 auto-generated sprint retro notes),
+  cosine similarity, top-5 chunks — no API call needed for this step.
+  Deliberately not `sentence-transformers`: it pulls in PyTorch, and
+  loading PyTorch alongside TensorFlow (needed for the two models) in the
+  same process segfaults on memory-constrained deployment hosts.
+  `fastembed` gives the same embedding quality on plain ONNX Runtime, with
+  no PyTorch in the dependency tree at all.
 - **Generation**: the retrieved chunks are injected into a prompt sent to
   the [Groq API](https://console.groq.com) (`openai/gpt-oss-120b`, free
   tier) with an instruction to answer only from the provided context and

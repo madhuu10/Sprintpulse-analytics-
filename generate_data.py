@@ -204,12 +204,28 @@ ACTIONS_ATTEND = ["check in 1:1 with affected team members", "review on-call/rot
                    "revisit WFH flexibility for the team"]
 
 
+def outcome_label(rate_pct):
+    """Natural-language outcome phrasing, tied to the sprint_process.md thresholds —
+    exists so retrieval (keyword-based) has real vocabulary to match against when
+    someone asks e.g. "why did Team X underperform" or "which sprints went well"."""
+    if rate_pct >= 95:
+        return "Outcome: strong sprint, fully on track, commitment met."
+    elif rate_pct >= 85:
+        return "Outcome: on track, close to full commitment."
+    elif rate_pct >= 60:
+        return "Outcome: at risk — the team underperformed its commitment this sprint."
+    else:
+        return ("Outcome: off track — the team significantly underperformed, missing more "
+                "than 40% of its committed points this sprint.")
+
+
 def retro_note(row):
     rate_pct = row.completion_rate * 100
     lines = [f"# {row.team} — Sprint {row.sprint_number} Retro\n",
              f"**Dates**: {row.sprint_start} to {row.sprint_end}  ",
              f"**Result**: completed {row.story_points_completed}/{row.story_points_committed} story points "
              f"({rate_pct:.0f}%)  ",
+             f"**{outcome_label(rate_pct)}**  ",
              f"**Team attendance this period**: {row.avg_team_attendance_rate*100:.0f}%\n"]
 
     issues = []

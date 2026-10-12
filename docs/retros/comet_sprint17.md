@@ -2,6 +2,7 @@
 
 **Dates**: 2025-08-18 to 2025-08-31  
 **Result**: completed 17/30 story points (58%)  
+**Outcome: off track — the team significantly underperformed, missing more than 40% of its committed points this sprint.**  
 **Team attendance this period**: 87%
 
 Scope grew mid-sprint (16% added after planning), which crowded out committed work. **Action item**: flag scope additions in standup for visibility.

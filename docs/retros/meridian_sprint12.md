@@ -2,6 +2,7 @@
 
 **Dates**: 2025-06-09 to 2025-06-22  
 **Result**: completed 39/45 story points (86%)  
+**Outcome: on track, close to full commitment.**  
 **Team attendance this period**: 93%
 
 Scope grew mid-sprint (16% added after planning), which crowded out committed work. **Action item**: tighten sprint-planning acceptance criteria.

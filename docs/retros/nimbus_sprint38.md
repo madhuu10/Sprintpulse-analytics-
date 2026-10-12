@@ -2,6 +2,7 @@
 
 **Dates**: 2026-06-08 to 2026-06-21  
 **Result**: completed 31/42 story points (74%)  
+**Outcome: at risk — the team underperformed its commitment this sprint.**  
 **Team attendance this period**: 88%
 
 Completion landed close to plan; no single factor stood out as a blocker this sprint.

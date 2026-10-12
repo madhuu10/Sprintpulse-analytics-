@@ -2,6 +2,7 @@
 
 **Dates**: 2025-12-22 to 2026-01-04  
 **Result**: completed 16/23 story points (69%)  
+**Outcome: at risk — the team underperformed its commitment this sprint.**  
 **Team attendance this period**: 84%
 
 Test coverage sat at 52%, below the team's usual range, making regressions more likely. **Action item**: add regression tests around the affected module.

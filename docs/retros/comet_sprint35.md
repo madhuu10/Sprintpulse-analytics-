@@ -2,6 +2,7 @@
 
 **Dates**: 2026-04-27 to 2026-05-10  
 **Result**: completed 14/29 story points (48%)  
+**Outcome: off track — the team significantly underperformed, missing more than 40% of its committed points this sprint.**  
 **Team attendance this period**: 91%
 
 QA found 1 bugs and 2 escaped to production, pulling engineers into firefighting. **Action item**: add regression tests around the affected module.

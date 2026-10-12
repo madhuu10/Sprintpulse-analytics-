@@ -2,6 +2,7 @@
 
 **Dates**: 2025-11-24 to 2025-12-07  
 **Result**: completed 26/31 story points (83%)  
+**Outcome: at risk — the team underperformed its commitment this sprint.**  
 **Team attendance this period**: 87%
 
 Completion landed close to plan; no single factor stood out as a blocker this sprint.

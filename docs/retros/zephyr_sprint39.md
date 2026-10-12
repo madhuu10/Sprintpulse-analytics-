@@ -2,6 +2,7 @@
 
 **Dates**: 2026-06-22 to 2026-07-05  
 **Result**: completed 36/41 story points (87%)  
+**Outcome: on track, close to full commitment.**  
 **Team attendance this period**: 94%
 
 Completion landed close to plan; no single factor stood out as a blocker this sprint.
